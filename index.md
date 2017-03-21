@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
+header:
+  image: /assets/images/banner.jpg
 ---
-
-![virus]({{ site.url }}{{ site.baseurl }}/assets/images/banner.jpg)
-{: .full}
