@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Parker"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/with_cows.jpg"
   bio              : "Bioinformatics PhD Student and Data Science enthusiast"
   location         : "Sheffield, UK"
-  email            :
+  email            : "mparker2@sheffield.ac.uk"
   uri              :
   bitbucket        :
   codepen          :

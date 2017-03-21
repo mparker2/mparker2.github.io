@@ -3,16 +3,12 @@ layout: single
 author_profile: true
 title: Matthew Parker
 ---
-
-<span class="left">The University of Sheffield</span>
-<span class="right">mparker2@sheffield.ac.uk </span><br>
-<span class="left">Firth Court</span>
-<span class="right">07423 850 680</span><br>
-<span class="left">Western Bank</span>
-<span class="right">[Matthew Parker on LinkedIn][LinkedIn]</span><br>
-<span class="left">Sheffield</span>
-<span class="right">[@1m1a2t][Twitter]</span><br>
-<span class="left">S10 2TN</span><br>
+ 
+The University of Sheffield  
+Firth Court  
+Western Bank  
+Sheffield  
+S10 2TN  
 
 ### Education
 
@@ -43,7 +39,6 @@ The King’s School, Grantham
 * 8 A* including Maths, English
 * 5 A
 
-
 ### Skills
 
 * **Programming**: Uses the scripting languages Python and R every day for
@@ -55,7 +50,6 @@ department. Has more than 30 hours experience teaching both Python and R for
 biology students at Undergraduate level.
 * **Teamwork**: As part of the departmental PhD society, helped to organise a
 weekend retreat to the Peak District for approximately 80 PhD students.
-
 
 ### Experience
 
@@ -79,14 +73,15 @@ serving.
 
 ### References
 
-<span class="left">Dr Karim Sorefan</span>
-<span class="right">Dr Marta Milo</span><br>
-<span class="left">Department of Molecular Biology</span>
-<span class="right">Department of Biomedical Science</span><br>
-<span class="left">The University of Sheffield</span>
-<span class="right">The University of Sheffield</span><br>
-<span class="left">k.sorefan@sheffield.ac.uk</span>
-<span class="right">m.milo@sheffield.ac.uk</span><br>
+Dr Karim Sorefan                    
+Department of Molecular Biology  
+The University of Sheffield  
+k.sorefan@sheffield.ac.uk  
+
+Dr Marta Milo  
+Department of Biomedical Science  
+The University of Sheffield  
+m.milo@sheffield.ac.uk  
 
 [LinkedIn]: https://uk.linkedin.com/in/mparker02
 [Twitter]: https://twitter.com/1m1a2t
