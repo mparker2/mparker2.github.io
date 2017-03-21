@@ -4,12 +4,13 @@ author_profile: true
 title: Matthew Parker
 ---
  
-| The University of Sheffield |               mparker2@sheffield.ac.uk |
-|-----------------------------|---------------------------------------:|
-| Firth Court                 |                          07423 850 680 |
-| Western Bank                | [Matthew Parker on LinkedIn][LinkedIn] |
-| Sheffield                   |                    [\@1m1a2t][Twitter] |
-| S10 2TN                     |                                        |
+-------------------------------      -------------------------------------------  
+The University of Sheffield                             mparker2@sheffield.ac.uk  
+Firth Court                                                        07423 850 680  
+Western Bank                              [Matthew Parker on LinkedIn][LinkedIn]  
+Sheffield                                                    [@1m1a2t][Twitter]  
+S10 2TN  
+-------------------------------      ------------------------------------------- 
 
 ### Education
 
@@ -76,11 +77,12 @@ serving.
 
 ### References
 
-| Dr Karim Sorefan                | Dr Marta Milo                    |
-|:-------------------------------:|:--------------------------------:|
-| Department of Molecular Biology | Department of Biomedical Science |
-| The University of Sheffield     | The University of Sheffield      |
-| k.sorefan@sheffield.ac.uk       | m.milo@sheffield.ac.uk           |
+-------------------------------      -------------------------------------------  
+Dr Karim Sorefan                                                   Dr Marta Milo  
+Department of Molecular Biology                 Department of Biomedical Science  
+The University of Sheffield                          The University of Sheffield  
+k.sorefan@sheffield.ac.uk                                 m.milo@sheffield.ac.uk  
+-------------------------------      -------------------------------------------  
 
 [LinkedIn]: https://uk.linkedin.com/in/mparker02
 [Twitter]: https://twitter.com/1m1a2t
