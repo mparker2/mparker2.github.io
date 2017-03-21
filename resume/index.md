@@ -4,16 +4,16 @@ title: Matthew Parker
 ---
 
 ## Matthew Parker
-
--------------------------------      -------------------------------------------  
-The University of Sheffield                             mparker2@sheffield.ac.uk  
-Firth Court                                                        07423 850 680  
-Western Bank                              [Matthew Parker on LinkedIn][LinkedIn]  
-Sheffield                                                    [\@1m1a2t][Twitter]  
-S10 2TN  
--------------------------------      -------------------------------------------  
+ 
+| The University of Sheffield |               mparker2@sheffield.ac.uk |
+|-----------------------------|---------------------------------------:|
+| Firth Court                 |                          07423 850 680 |
+| Western Bank                | [Matthew Parker on LinkedIn][LinkedIn] |
+| Sheffield                   |                    [\@1m1a2t][Twitter] |
+| S10 2TN                     |                                        |
 
 ### Education
+
 **PhD Bioinformatics and Molecular Biology**; October 2014 - 2018 (expected)  
 Department of Molecular Biology  
 The University of Sheffield  
@@ -56,6 +56,7 @@ weekend retreat to the Peak District for approximately 80 PhD students.
 
 
 ### Experience
+
 **Summer Placement at Sheffield Institute of Translational Neuroscience**;
 June - July 2013  
 The University of Sheffield  
