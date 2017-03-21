@@ -1,5 +1,6 @@
 ---
-layout: post-index
+layout: single
+author_profile: true
 title: All Posts
 ---
 
