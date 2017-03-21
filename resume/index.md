@@ -3,14 +3,16 @@ layout: single
 author_profile: true
 title: Matthew Parker
 ---
- 
--------------------------------      -------------------------------------------  
-The University of Sheffield                             mparker2@sheffield.ac.uk  
-Firth Court                                                        07423 850 680  
-Western Bank                              [Matthew Parker on LinkedIn][LinkedIn]  
-Sheffield                                                    [@1m1a2t][Twitter]  
-S10 2TN  
--------------------------------      ------------------------------------------- 
+
+<span class="left">The University of Sheffield</span>
+<span class="right">mparker2@sheffield.ac.uk </span><br>
+<span class="left">Firth Court</span>
+<span class="right">07423 850 680</span><br>
+<span class="left">Western Bank</span>
+<span class="right">[Matthew Parker on LinkedIn][LinkedIn]</span><br>
+<span class="left">Sheffield</span>
+<span class="right">[@1m1a2t][Twitter]</span><br>
+<span class="left">S10 2TN</span><br>
 
 ### Education
 
@@ -77,12 +79,14 @@ serving.
 
 ### References
 
--------------------------------      -------------------------------------------  
-Dr Karim Sorefan                                                   Dr Marta Milo  
-Department of Molecular Biology                 Department of Biomedical Science  
-The University of Sheffield                          The University of Sheffield  
-k.sorefan@sheffield.ac.uk                                 m.milo@sheffield.ac.uk  
--------------------------------      -------------------------------------------  
+<span class="left">Dr Karim Sorefan</span>
+<span class="right">Dr Marta Milo</span><br>
+<span class="left">Department of Molecular Biology</span>
+<span class="right">Department of Biomedical Science</span><br>
+<span class="left">The University of Sheffield</span>
+<span class="right">The University of Sheffield</span><br>
+<span class="left">k.sorefan@sheffield.ac.uk</span>
+<span class="right">m.milo@sheffield.ac.uk</span><br>
 
 [LinkedIn]: https://uk.linkedin.com/in/mparker02
 [Twitter]: https://twitter.com/1m1a2t
