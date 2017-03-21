@@ -61,15 +61,6 @@ to schizophrenia in Zebrafish.
 Successfully applied for funding from the Wellcome Trust Biomedical Vacation
 Scholarship Scheme.
 
-**Sales Assistant at Homebase**; September 2009 - September 2012  
-Grantham  
-Working part time providing excellent customer service and fulfilling general
-tasks around the store.
-
-**Volunteer at BeAttitude Café for the homeless**; July 2008- November 2009  
-St Mary Le Wigford Church, Lincoln  
-Assisting in the running of a weekly meal for the homeless, both cooking and
-serving.
 
 ### References
 
