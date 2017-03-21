@@ -1,19 +1,15 @@
----------------
-
-layout: default
+---
+layout: single
 title: Matthew Parker
+---
 
----------------
-
-
-Matthew Parker
-==============
+## Matthew Parker
 
 -------------------------------      -------------------------------------------  
 The University of Sheffield                             mparker2@sheffield.ac.uk  
 Firth Court                                                        07423 850 680  
-Western Bank                              [Matthew Parker on LinkedIn][LinkedIn]
-Sheffield                                                    [\@1m1a2t][Twitter]
+Western Bank                              [Matthew Parker on LinkedIn][LinkedIn]  
+Sheffield                                                    [\@1m1a2t][Twitter]  
 S10 2TN  
 -------------------------------      -------------------------------------------  
 
