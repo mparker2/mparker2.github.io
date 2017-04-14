@@ -1,4 +1,3 @@
-
 ---
 title: "Producing context similarity vectors for Protein and DNA sequences"
 layout: single
