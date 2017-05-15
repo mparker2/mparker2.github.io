@@ -1,6 +1,12 @@
 ---
 title: "Producing context similarity vectors for Protein and DNA sequences"
+header:
+  image: assets/images/word2vec_images/output_17_0.png
 layout: single
+read_time: false
+comments: true
+share: true
+related: true
 excerpt: "Using Word2Vec to analyse codon contexts"
 tags: [Word2Vec, codon usage, genomics]
 ---

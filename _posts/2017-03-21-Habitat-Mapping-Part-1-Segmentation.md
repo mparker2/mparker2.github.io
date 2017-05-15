@@ -1,6 +1,12 @@
 ---
 title: "Habitat Maps Part 1: Segmentation"
 layout: single
+header:
+  image: https://raw.githubusercontent.com/mparker2/rio-segment/master/imgs/devon_segs.png
+read_time: false
+comments: true
+share: true
+related: true
 excerpt: "segmenting satellite data using skimage and rasterio"
 tags: [habitats, segmentation, gis]
 ---
