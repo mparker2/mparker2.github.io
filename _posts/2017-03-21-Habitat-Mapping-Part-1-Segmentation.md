@@ -2,7 +2,7 @@
 title: "Habitat Maps Part 1: Segmentation"
 layout: single
 header:
-  overlay_image: https://raw.githubusercontent.com/mparker2/rio-segment/master/imgs/devon_segs.png
+  image: /assets/images/segmentation_images/devon_segs.png
 read_time: false
 comments: true
 share: true

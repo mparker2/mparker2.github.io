@@ -1,7 +1,7 @@
 ---
 title: "Producing context similarity vectors for Protein and DNA sequences"
 header:
-  image: assets/images/word2vec_images/output_17_0.png
+  image: /assets/images/word2vec_images/header.png
 layout: single
 read_time: false
 comments: true
