@@ -3,6 +3,7 @@ title: "Habitat Maps Part 1: Segmentation"
 layout: single
 header:
   image: /assets/images/segmentation_images/devon_segs.png
+  teaser: /assets/images/segmentation_images/devon_segs.png
 read_time: false
 comments: true
 share: true
