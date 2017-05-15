@@ -61,7 +61,7 @@ June - July 2013
 Short project to characterise a gene causing neurodevelopmental defects related
 to schizophrenia in Zebrafish.
 Successfully applied for funding from the Wellcome Trust Biomedical Vacation
-Scholarship Scheme.
+Scholarship Scheme and University of Sheffield SURE scheme.
 
 ### References
 
