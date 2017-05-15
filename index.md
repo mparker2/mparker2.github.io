@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 header:
   image: /assets/images/banner.jpg
-title: Matthew Parker
 ---
 
 ### Recent posts:
