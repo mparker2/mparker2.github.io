@@ -45,12 +45,16 @@ weekend retreat to the Peak District for approximately 80 PhD students.
 
 **Internship at Natural England**; January - April 2017  
 As part of the Earth Observation team, helped build a model to predict land
-cover and habitat classification from ESA Satellite Data. Funded by the BBSRC.
+cover and habitat classification from ESA Satellite Data.  
+Some articles explaining the purpose of the "Living Maps" project:
+* [Living Maps for Biodiversity and Natural Capital](http://www.spaceforsmartergovernment.uk/case-study/eo-dip-living-maps-for-biodiversity-and-natural-capital/)
+* [Satellite data transforms Environmental Protection](https://www.gov.uk/government/news/green-space-satellite-data-transforms-environmental-protection)
+* [Segmenting Satellite Imagery](http://mparkerbio.com/Habitat-Mapping-Part-1-Segmentation/)
 
 **HackMed Sheffield**; April 2017  
 Part of a team placing first at medical themed Hackathon. Built a pipeline to
 identify antibiotic resistance genes in bacterial samples using Oxford Nanopore
-long read technology.
+long read technology. [View the project on DevPost.](https://devpost.com/software/dnamazing)
 
 **Summer Placement at Sheffield Institute of Translational Neuroscience**;
 June - July 2013  
