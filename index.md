@@ -5,7 +5,6 @@ header:
   image: /assets/images/banner.jpg
 ---
 
-## Welcome
 ### Recent posts:
 
 {% for post in site.posts %}
