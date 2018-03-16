@@ -48,10 +48,6 @@ def find_polyA(signal, start_max_order=500, end_min_order=50):
                                          order=end_min_order)[0]
     polya_end_idx = np.searchsorted(polya_end_candidates, polya_start)
     try:
-        polya_end_idx = int(polya_end_idx)
-    except ValueError:
-        polya_end_idx = int(polya_end_idx[0])
-    try:
         polya_end = polya_end_candidates[polya_end_idx]
     except IndexError:
         polya_end = polya_end_candidates[polya_end_idx - 1]
