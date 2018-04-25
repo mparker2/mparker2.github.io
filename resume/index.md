@@ -38,9 +38,6 @@ The King’s School, Grantham
 
 ### Experience
 
-**HackMed Sheffield**; March 2018  
-At Medical themed Hackathon, built a classification model to predict the transcript of origin from raw Oxford Nanopore signal using Dynamic Time Warping, with the aim of producing selective sequencing software for gene panels. A blog post explaining the project can be found on [mparkerbio.com](http://mparkerbio.com/Clustering-Nanopore-Signals-with-Dynamic-Time-Warp/).
-
 **Science To Data Science**; August-September 2017  
 Took part in 5 week intensive re-training programme for PhD students interested in entering the field of Data Science. As part of the course, worked with a London start-up company using their data to predict customer behaviour. Course Fees were funded by the Sheffield University Postgraduate Researcher Experience Programme.
 
@@ -50,13 +47,11 @@ cover and habitat classification from ESA Satellite Data. This involved preproce
 Some articles explaining the purpose of the "Living Maps" project:
 * [Living Maps for Biodiversity and Natural Capital](http://www.spaceforsmartergovernment.uk/case-study/eo-dip-living-maps-for-biodiversity-and-natural-capital/)
 * [Satellite data transforms Environmental Protection](https://www.gov.uk/government/news/green-space-satellite-data-transforms-environmental-protection)
-* [Segmenting Satellite Imagery](http://mparkerbio.com/Habitat-Mapping-Part-1-Segmentation/)
+* [Segmenting Satellite Imagery](http://mparkerbio.com/Habitat-Mapping-Part-1-Segmentation/)  
 Funded by the BBSRC Professional Internships for PhD Students scheme.  
 
 **HackMed Sheffield**; April 2017  
-Part of a team placing first at medical themed Hackathon. Built a pipeline to
-identify antibiotic resistance genes in bacterial samples using Oxford Nanopore
-long read technology. [View the project on DevPost.](https://devpost.com/software/dnamazing)
+Part of a team placing first at medical themed Hackathon. Built a pipeline to identify antibiotic resistance genes in bacterial samples using Oxford Nanopore long read technology. [View the project on DevPost.](https://devpost.com/software/dnamazing)
 
 **Summer Placement at Sheffield Institute of Translational Neuroscience**;
 June - July 2013  
