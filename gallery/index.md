@@ -4,11 +4,11 @@ author_profile: true
 title: Gallery
 
 gallery:
-  - url: /assets/images/spiral.png
+  - url: https://github.com/mparker2/spirograph
     image_path: /assets/images/spiral.png
     alt: "Spiral"
     title: "A spiral made with [spirograph.py](https://github.com/mparker2/spirograph)"
-  - url: /assets/images/whiterosespiral.png
+  - url: https://github.com/mparker2/spirograph
     image_path: /assets/images/whiterosespiral.png
     alt: "White Rose Spiral"
     title: "White Rose spiral made with [spirograph.py](https://github.com/mparker2/spirograph)"
@@ -24,8 +24,12 @@ gallery:
     image_path: /assets/images/segmentation_images/segmentation_example_13_0.png
     alt: "Segmentation"
     title: "Habitat Segmentation"
-  - url: /assets/images/veg_seasonality.png
+  - url: https://github.com/mparker2/veg_seasonality/blob/master/seasonality.ipynb
     image_path: /assets/images/veg_seasonality.png
+    alt: "Veg Seasonality Chart"
+    title: "[Veg Seasonality Chart](https://github.com/mparker2/veg_seasonality/blob/master/seasonality.ipynb)"
+  - url: /assets/other/at_coup.pdf
+    image_path: /assets/images/at_coup.png
     alt: "Veg Seasonality Chart"
     title: "[Veg Seasonality Chart](https://github.com/mparker2/veg_seasonality/blob/master/seasonality.ipynb)"
 
