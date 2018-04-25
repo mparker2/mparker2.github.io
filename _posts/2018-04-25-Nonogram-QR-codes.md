@@ -87,6 +87,6 @@ Draws the following nonogram:
 
 ![Hello World Nonogram]({{ site.url }}{{ site.baseurl }}/assets/images/nonogram/nonogram_hello_world.png)
 
-What is cooler though is making a nonogram which encodes a url for a secret website address though. If you can solve this one, you are a winner!  
+What is cooler though is making a nonogram which encodes a url for a secret website address. If you can solve this one, you are a winner!  
 
 ![Secret Nonogram]({{ site.url }}{{ site.baseurl }}/assets/images/nonogram/nonogram_secret.png)
