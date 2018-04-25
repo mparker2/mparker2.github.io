@@ -4,12 +4,12 @@ author_profile: true
 title: Gallery
 
 gallery:
-  - url: /assets/images/spiral.svg
-    image_path: /assets/images/spiral.svg
+  - url: /assets/images/spiral.png
+    image_path: /assets/images/spiral.png
     alt: "Spiral"
     title: "A spiral made with [spirograph.py](https://github.com/mparker2/spirograph)"
-  - url: /assets/images/whiterosespiral.svg
-    image_path: /assets/images/whiterosespiral.svg
+  - url: /assets/images/whiterosespiral.png
+    image_path: /assets/images/whiterosespiral.png
     alt: "White Rose Spiral"
     title: "White Rose spiral made with [spirograph.py](https://github.com/mparker2/spirograph)"
   - url: /assets/images/nonogram.png
