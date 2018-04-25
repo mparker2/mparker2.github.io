@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Gallery
+title: Pretty Pictures
 
 gallery:
   - url: https://github.com/mparker2/spirograph
