@@ -1,0 +1,5730 @@
+[
+  {
+    "lat": 31.740675,
+    "long": -24.005822222222214,
+    "photo_url": "http://farm5.static.flickr.com/4480/37430278740_3de23dd209.jpg",
+    "title": "Chinspot Batis (female)",
+    "class": "magpie",
+    "prob": "0.13094015419483185"
+  },
+  {
+    "lat": 31.333397222222214,
+    "long": -23.733511111111113,
+    "photo_url": "http://farm5.static.flickr.com/4443/37430274980_84fe73c130.jpg",
+    "title": "Little Bee-eater",
+    "class": "bee_eater",
+    "prob": "0.911414384841919"
+  },
+  {
+    "lat": 31.26560555555556,
+    "long": -22.99359444444445,
+    "photo_url": "http://farm5.static.flickr.com/4513/37430271150_4834626949.jpg",
+    "title": "White-fronted Bee-eater",
+    "class": "bee_eater",
+    "prob": "0.9539205431938171"
+  },
+  {
+    "lat": 31.898038888888887,
+    "long": -24.791955555555557,
+    "photo_url": "http://farm5.static.flickr.com/4464/37003799093_b8875f7d10.jpg",
+    "title": "Black-backed Puffback",
+    "class": "bulbul",
+    "prob": "0.7621392607688904"
+  },
+  {
+    "lat": 31.85946388888889,
+    "long": -24.75283333333333,
+    "photo_url": "http://farm5.static.flickr.com/4512/37415590080_22272a03e3.jpg",
+    "title": "Cheetah Brothers",
+    "class": "cheetah",
+    "prob": "0.4651910662651062"
+  },
+  {
+    "lat": 31.765547222222214,
+    "long": -24.367722222222234,
+    "photo_url": "http://farm5.static.flickr.com/4483/37415589830_ffd0f6c6fb.jpg",
+    "title": "Cheetah on Dead Tree",
+    "class": "cheetah",
+    "prob": "0.8687406778335571"
+  },
+  {
+    "lat": 31.85946388888889,
+    "long": -24.75283333333333,
+    "photo_url": "http://farm5.static.flickr.com/4487/37415589520_4977be382d.jpg",
+    "title": "Cheetah on the Hunt",
+    "class": "cheetah",
+    "prob": "0.927553653717041"
+  },
+  {
+    "lat": 31.765547222222214,
+    "long": -24.367722222222234,
+    "photo_url": "http://farm5.static.flickr.com/4487/37415589100_626623bbf4.jpg",
+    "title": "Cheetah Surveying the Land",
+    "class": "cheetah",
+    "prob": "0.790341317653656"
+  },
+  {
+    "lat": 31.85946388888889,
+    "long": -24.75283333333333,
+    "photo_url": "http://farm5.static.flickr.com/4448/37415588690_f45d6f5d5f.jpg",
+    "title": "Cheetah Youngsters",
+    "class": "cheetah",
+    "prob": "0.875104546546936"
+  },
+  {
+    "lat": 31.85946388888889,
+    "long": -24.75283333333333,
+    "photo_url": "http://farm5.static.flickr.com/4483/37415588160_9da31d8406.jpg",
+    "title": "Cheetah",
+    "class": "cheetah",
+    "prob": "0.4538167119026184"
+  },
+  {
+    "lat": 31.15655277777777,
+    "long": -25.42274722222223,
+    "photo_url": "http://farm5.static.flickr.com/4505/36975143693_8c02eda631.jpg",
+    "title": "2GB DDR3 RAM.",
+    "class": "hard_disc",
+    "prob": "0.9345629811286926"
+  },
+  {
+    "lat": 31.15655277777777,
+    "long": -25.42274722222223,
+    "photo_url": "http://farm5.static.flickr.com/4498/37387914980_5e00ea0323.jpg",
+    "title": "2GB DDR3 RAM.",
+    "class": "hard_disc",
+    "prob": "0.2070760577917099"
+  },
+  {
+    "lat": 31.896655555555554,
+    "long": -24.78669444444445,
+    "photo_url": "http://farm5.static.flickr.com/4484/36929287204_0fa872616b.jpg",
+    "title": "White-backed Vultures",
+    "class": "vulture",
+    "prob": "0.9677174091339111"
+  },
+  {
+    "lat": 31.54353055555556,
+    "long": -23.677527777777787,
+    "photo_url": "http://farm5.static.flickr.com/4494/37518444756_e272f87b3f.jpg",
+    "title": "Preening time...",
+    "class": "hornbill",
+    "prob": "0.8100070953369141"
+  },
+  {
+    "lat": 31.924069444444445,
+    "long": -24.642086111111112,
+    "photo_url": "http://farm5.static.flickr.com/4448/23713877538_3c9bccfda4.jpg",
+    "title": "Purple Roller",
+    "class": "coucal",
+    "prob": "0.15227779746055603"
+  },
+  {
+    "lat": 31.59693055555556,
+    "long": -24.99483055555556,
+    "photo_url": "http://farm5.static.flickr.com/4505/23697213488_f84387f406.jpg",
+    "title": "Blauw up",
+    "class": "indigo_bunting",
+    "prob": "0.502178430557251"
+  },
+  {
+    "lat": 31.55472222222223,
+    "long": -23.98833333333333,
+    "photo_url": "http://farm5.static.flickr.com/4504/37289028490_11f031022d.jpg",
+    "title": "Zebra",
+    "class": "zebra",
+    "prob": "0.9459115862846375"
+  },
+  {
+    "lat": 31.575897222222213,
+    "long": -23.85297777777778,
+    "photo_url": "http://farm5.static.flickr.com/4502/36876445453_4ca4b0fe75.jpg",
+    "title": "DSC_8639",
+    "class": "bulbul",
+    "prob": "0.9150629043579102"
+  },
+  {
+    "lat": 31.792461111111113,
+    "long": -24.433588888888888,
+    "photo_url": "http://farm5.static.flickr.com/4512/36835658154_2857a84633.jpg",
+    "title": "Magpie Shrike",
+    "class": "magpie",
+    "prob": "0.673812747001648"
+  },
+  {
+    "lat": 31.77719444444445,
+    "long": -24.39494444444445,
+    "photo_url": "http://farm5.static.flickr.com/4483/23682177158_e950fbca98.jpg",
+    "title": "Honey Badger",
+    "class": "badger",
+    "prob": "0.9768338799476624"
+  },
+  {
+    "lat": 31.58345277777777,
+    "long": -23.83594722222222,
+    "photo_url": "http://farm5.static.flickr.com/4443/37272209710_b349ab3f30.jpg",
+    "title": "DSC_8642",
+    "class": "hummingbird",
+    "prob": "0.9106113314628601"
+  },
+  {
+    "lat": 31.78368055555556,
+    "long": -24.393361111111112,
+    "photo_url": "http://farm5.static.flickr.com/4503/36820952483_b8b1ea75c0.jpg",
+    "title": "Black-backed Jackal (immature)",
+    "class": "coyote",
+    "prob": "0.4661959409713745"
+  },
+  {
+    "lat": 31.87664166666667,
+    "long": -24.298163888888887,
+    "photo_url": "http://farm5.static.flickr.com/4507/37438091482_f4059e297f.jpg",
+    "title": "Southern Ground Hornbill",
+    "class": "hornbill",
+    "prob": "0.9613078832626343"
+  },
+  {
+    "lat": 31.052777777777766,
+    "long": -24.423333333333336,
+    "photo_url": "http://farm5.static.flickr.com/4471/36757940834_77446fa820.jpg",
+    "title": "A Dazzle of Zebras - Kapama Reserve, South Africa",
+    "class": "zebra",
+    "prob": "0.8870105147361755"
+  },
+  {
+    "lat": 31.47785833333333,
+    "long": -24.853552777777786,
+    "photo_url": "http://farm5.static.flickr.com/4350/37410183742_d18cdea416.jpg",
+    "title": "",
+    "class": "rapeseed",
+    "prob": "0.4521636664867401"
+  },
+  {
+    "lat": 31.541275,
+    "long": -24.82179444444445,
+    "photo_url": "http://farm5.static.flickr.com/4465/23589143978_3b8f725e6d.jpg",
+    "title": "",
+    "class": "binoculars",
+    "prob": "0.4043859839439392"
+  },
+  {
+    "lat": 31.51128611111111,
+    "long": -24.81606944444445,
+    "photo_url": "http://farm5.static.flickr.com/4339/37393552406_9c3947bf8d.jpg",
+    "title": "",
+    "class": "seat_belt",
+    "prob": "0.2351946383714676"
+  },
+  {
+    "lat": 31.482688888888887,
+    "long": -24.810288888888888,
+    "photo_url": "http://farm5.static.flickr.com/4499/37410055872_249c19fb9f.jpg",
+    "title": "",
+    "class": "leopard",
+    "prob": "0.5006487369537354"
+  },
+  {
+    "lat": 31.482688888888887,
+    "long": -24.810288888888888,
+    "photo_url": "http://farm5.static.flickr.com/4389/36770828713_e51e737440.jpg",
+    "title": "",
+    "class": "hyena",
+    "prob": "0.6580666303634644"
+  },
+  {
+    "lat": 31.740602777777767,
+    "long": -24.00599444444445,
+    "photo_url": "http://farm5.static.flickr.com/4417/36762107183_5b2f65965a.jpg",
+    "title": "Tawny-flanked Prinia",
+    "class": "junco",
+    "prob": "0.2963096797466278"
+  },
+  {
+    "lat": 31.49959722222223,
+    "long": -24.85834444444445,
+    "photo_url": "http://farm5.static.flickr.com/4463/36711943384_5413afdfe9.jpg",
+    "title": "DSC06437.jpg",
+    "class": "cheetah",
+    "prob": "0.4019414484500885"
+  },
+  {
+    "lat": 31.50126388888889,
+    "long": -24.813561111111113,
+    "photo_url": "http://farm5.static.flickr.com/4470/36711941624_3c11cd95b2.jpg",
+    "title": "DSC06425.jpg",
+    "class": "African_elephant",
+    "prob": "0.9667801856994629"
+  },
+  {
+    "lat": 31.501522222222214,
+    "long": -24.80670833333333,
+    "photo_url": "http://farm5.static.flickr.com/4453/36711940284_99f9a6aa7c.jpg",
+    "title": "DSC06410.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.7550276517868042"
+  },
+  {
+    "lat": 31.501555555555555,
+    "long": -24.805763888888887,
+    "photo_url": "http://farm5.static.flickr.com/4379/37421381191_d80abd92f3.jpg",
+    "title": "DSC06401.jpg",
+    "class": "cheetah",
+    "prob": "0.8618830442428589"
+  },
+  {
+    "lat": 31.501555555555555,
+    "long": -24.80573888888889,
+    "photo_url": "http://farm5.static.flickr.com/4341/37421380251_38eb6a9b17.jpg",
+    "title": "DSC06395.jpg",
+    "class": "leopard",
+    "prob": "0.7956331968307495"
+  },
+  {
+    "lat": 31.501575,
+    "long": -24.80525833333333,
+    "photo_url": "http://farm5.static.flickr.com/4454/23569373438_9d41371525.jpg",
+    "title": "DSC06383.jpg",
+    "class": "cheetah",
+    "prob": "0.8930190801620483"
+  },
+  {
+    "lat": 31.501577777777786,
+    "long": -24.805222222222234,
+    "photo_url": "http://farm5.static.flickr.com/4493/23569371758_3ef927c083.jpg",
+    "title": "DSC06379.jpg",
+    "class": "rock_python",
+    "prob": "0.29608264565467834"
+  },
+  {
+    "lat": 31.50158055555556,
+    "long": -24.80506666666667,
+    "photo_url": "http://farm5.static.flickr.com/4350/23569369618_eea4441302.jpg",
+    "title": "DSC06373.jpg",
+    "class": "bustard",
+    "prob": "0.5640736818313599"
+  },
+  {
+    "lat": 31.48356111111111,
+    "long": -24.810536111111112,
+    "photo_url": "http://farm5.static.flickr.com/4425/36711897464_b9bfbabca7.jpg",
+    "title": "DSC06331.jpg",
+    "class": "street_sign",
+    "prob": "0.5387889742851257"
+  },
+  {
+    "lat": 31.477377777777768,
+    "long": -24.817105555555557,
+    "photo_url": "http://farm5.static.flickr.com/4473/36711895774_e2b0bfe553.jpg",
+    "title": "1C4A9028.jpg",
+    "class": "prairie_chicken",
+    "prob": "0.16857628524303436"
+  },
+  {
+    "lat": 31.47738055555555,
+    "long": -24.817105555555557,
+    "photo_url": "http://farm5.static.flickr.com/4390/36750953813_e8f1172784.jpg",
+    "title": "1C4A9027.jpg",
+    "class": "mongoose",
+    "prob": "0.22288157045841217"
+  },
+  {
+    "lat": 31.47738055555555,
+    "long": -24.817105555555557,
+    "photo_url": "http://farm5.static.flickr.com/4445/36750950933_81002dfc18.jpg",
+    "title": "1C4A9026.jpg",
+    "class": "ruffed_grouse",
+    "prob": "0.4410496950149536"
+  },
+  {
+    "lat": 31.47738055555555,
+    "long": -24.817105555555557,
+    "photo_url": "http://farm5.static.flickr.com/4413/36750948823_104bd68449.jpg",
+    "title": "1C4A9024.jpg",
+    "class": "albatross",
+    "prob": "0.12375981360673904"
+  },
+  {
+    "lat": 31.47751388888889,
+    "long": -24.816986111111113,
+    "photo_url": "http://farm5.static.flickr.com/4402/36750946803_0d20da14b5.jpg",
+    "title": "DSC06310.jpg",
+    "class": "rapeseed",
+    "prob": "0.14885276556015015"
+  },
+  {
+    "lat": 31.477627777777766,
+    "long": -24.81688333333333,
+    "photo_url": "http://farm5.static.flickr.com/4391/36750944833_bea25815b6.jpg",
+    "title": "1C4A9016.jpg",
+    "class": "impala",
+    "prob": "0.623711109161377"
+  },
+  {
+    "lat": 31.47768888888889,
+    "long": -24.816830555555555,
+    "photo_url": "http://farm5.static.flickr.com/4376/36750942183_733d812000.jpg",
+    "title": "DSC06303.jpg",
+    "class": "impala",
+    "prob": "0.35988929867744446"
+  },
+  {
+    "lat": 31.4783,
+    "long": -24.81628611111111,
+    "photo_url": "http://farm5.static.flickr.com/4346/36711881354_25bcea1bf3.jpg",
+    "title": "1C4A9003.jpg",
+    "class": "African_elephant",
+    "prob": "0.36639928817749023"
+  },
+  {
+    "lat": 31.47831944444444,
+    "long": -24.81626944444445,
+    "photo_url": "http://farm5.static.flickr.com/4458/36711879274_40707155d2.jpg",
+    "title": "1C4A8978.jpg",
+    "class": "African_elephant",
+    "prob": "0.7933281064033508"
+  },
+  {
+    "lat": 31.478658333333332,
+    "long": -24.81596666666667,
+    "photo_url": "http://farm5.static.flickr.com/4339/36711876894_6a78a83466.jpg",
+    "title": "DSC06286.jpg",
+    "class": "African_elephant",
+    "prob": "0.8045319318771362"
+  },
+  {
+    "lat": 31.47874444444444,
+    "long": -24.81588888888889,
+    "photo_url": "http://farm5.static.flickr.com/4457/36711875044_615df7f129.jpg",
+    "title": "1C4A8943.jpg",
+    "class": "tiger",
+    "prob": "0.43518564105033875"
+  },
+  {
+    "lat": 31.48519166666667,
+    "long": -24.810152777777766,
+    "photo_url": "http://farm5.static.flickr.com/4467/37390558742_056252d0ef.jpg",
+    "title": "DSC06284.jpg",
+    "class": "conch",
+    "prob": "0.9478557109832764"
+  },
+  {
+    "lat": 31.48526111111111,
+    "long": -24.810088888888888,
+    "photo_url": "http://farm5.static.flickr.com/4511/37390556832_30b6835d14.jpg",
+    "title": "DSC06282.jpg",
+    "class": "triceratops",
+    "prob": "0.5221831202507019"
+  },
+  {
+    "lat": 31.485719444444445,
+    "long": -24.809683333333336,
+    "photo_url": "http://farm5.static.flickr.com/4502/37390554792_7c54717e5d.jpg",
+    "title": "DSC06267.jpg",
+    "class": "rapeseed",
+    "prob": "0.2077021449804306"
+  },
+  {
+    "lat": 31.48598333333333,
+    "long": -24.809447222222214,
+    "photo_url": "http://farm5.static.flickr.com/4427/37390552252_08ce45b0f2.jpg",
+    "title": "DSC06264.jpg",
+    "class": "sandbar",
+    "prob": "0.17029842734336853"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80849166666667,
+    "photo_url": "http://farm5.static.flickr.com/4430/37390550302_036d1a1e2e.jpg",
+    "title": "1C4A8907.jpg",
+    "class": "kite",
+    "prob": "0.69627445936203"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80849166666667,
+    "photo_url": "http://farm5.static.flickr.com/4349/37390548802_c1965dd4b6.jpg",
+    "title": "1C4A8906.jpg",
+    "class": "bittern",
+    "prob": "0.775470495223999"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80849166666667,
+    "photo_url": "http://farm5.static.flickr.com/4453/37390546962_2a3ca2d855.jpg",
+    "title": "1C4A8905.jpg",
+    "class": "kite",
+    "prob": "0.58701092004776"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4385/36711863944_e038d192a4.jpg",
+    "title": "1C4A8904.jpg",
+    "class": "bittern",
+    "prob": "0.42497342824935913"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4402/36750927613_f400178528.jpg",
+    "title": "1C4A8903.jpg",
+    "class": "drake",
+    "prob": "0.32631948590278625"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4426/36750926553_664771812e.jpg",
+    "title": "1C4A8902.jpg",
+    "class": "limpkin",
+    "prob": "0.33039841055870056"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4359/36750925423_3e4f204516.jpg",
+    "title": "1C4A8901.jpg",
+    "class": "drake",
+    "prob": "0.08950372040271759"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4362/36750924153_f5bb62ecda.jpg",
+    "title": "1C4A8900.jpg",
+    "class": "dowitcher",
+    "prob": "0.27032577991485596"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4391/36750922413_7b57fab815.jpg",
+    "title": "1C4A8899.jpg",
+    "class": "red-backed_sandpiper",
+    "prob": "0.20367297530174255"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4367/36750920853_ffe99d20e9.jpg",
+    "title": "1C4A8898.jpg",
+    "class": "kite",
+    "prob": "0.8041738867759705"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4373/36750919433_3b969be1c8.jpg",
+    "title": "1C4A8897.jpg",
+    "class": "dowitcher",
+    "prob": "0.36497780680656433"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4437/36750917923_62babd5e76.jpg",
+    "title": "1C4A8896.jpg",
+    "class": "limpkin",
+    "prob": "0.2527584433555603"
+  },
+  {
+    "lat": 31.48706111111111,
+    "long": -24.80848888888889,
+    "photo_url": "http://farm5.static.flickr.com/4363/36750915203_f055f46402.jpg",
+    "title": "1C4A8895.jpg",
+    "class": "crane",
+    "prob": "0.5114643573760986"
+  },
+  {
+    "lat": 31.487122222222233,
+    "long": -24.80843611111111,
+    "photo_url": "http://farm5.static.flickr.com/4355/36750913773_808a151cac.jpg",
+    "title": "1C4A8879.jpg",
+    "class": "goldfinch",
+    "prob": "0.283797949552536"
+  },
+  {
+    "lat": 31.487127777777786,
+    "long": -24.808430555555557,
+    "photo_url": "http://farm5.static.flickr.com/4383/36750912123_4556fa7e89.jpg",
+    "title": "1C4A8873.jpg",
+    "class": "bee_eater",
+    "prob": "0.9640385508537292"
+  },
+  {
+    "lat": 31.487777777777787,
+    "long": -24.807852777777786,
+    "photo_url": "http://farm5.static.flickr.com/4460/36750910443_bdf4e30009.jpg",
+    "title": "1C4A8864.jpg",
+    "class": "lion",
+    "prob": "0.32940560579299927"
+  },
+  {
+    "lat": 31.48778055555556,
+    "long": -24.807847222222215,
+    "photo_url": "http://farm5.static.flickr.com/4419/36750909103_508326cd42.jpg",
+    "title": "1C4A8856.jpg",
+    "class": "lion",
+    "prob": "0.9237574934959412"
+  },
+  {
+    "lat": 31.487827777777767,
+    "long": -24.807805555555557,
+    "photo_url": "http://farm5.static.flickr.com/4397/37164290460_d2644f0d87.jpg",
+    "title": "1C4A8843.jpg",
+    "class": "bighorn",
+    "prob": "0.2811955213546753"
+  },
+  {
+    "lat": 31.487830555555558,
+    "long": -24.807802777777766,
+    "photo_url": "http://farm5.static.flickr.com/4509/37164289420_9457c243c8.jpg",
+    "title": "1C4A8839.jpg",
+    "class": "langur",
+    "prob": "0.44474008679389954"
+  },
+  {
+    "lat": 31.48783333333333,
+    "long": -24.807802777777766,
+    "photo_url": "http://farm5.static.flickr.com/4413/37164288430_3f7e2f3199.jpg",
+    "title": "1C4A8837.jpg",
+    "class": "common_iguana",
+    "prob": "0.7742575407028198"
+  },
+  {
+    "lat": 31.48786388888889,
+    "long": -24.807775,
+    "photo_url": "http://farm5.static.flickr.com/4407/37164287490_f675f7dabc.jpg",
+    "title": "Lion Yawn",
+    "class": "cliff_dwelling",
+    "prob": "0.30404579639434814"
+  },
+  {
+    "lat": 31.48795,
+    "long": -24.807697222222235,
+    "photo_url": "http://farm5.static.flickr.com/4369/37164286390_48df5060fc.jpg",
+    "title": "1C4A8820.jpg",
+    "class": "leopard",
+    "prob": "0.947043240070343"
+  },
+  {
+    "lat": 31.487997222222226,
+    "long": -24.80765555555556,
+    "photo_url": "http://farm5.static.flickr.com/4400/37164284160_8d180f088e.jpg",
+    "title": "1C4A8811.jpg",
+    "class": "leopard",
+    "prob": "0.952201247215271"
+  },
+  {
+    "lat": 31.488052777777767,
+    "long": -24.80760833333333,
+    "photo_url": "http://farm5.static.flickr.com/4469/37164283150_6b62504bb5.jpg",
+    "title": "1C4A8798.jpg",
+    "class": "leopard",
+    "prob": "0.9017845988273621"
+  },
+  {
+    "lat": 31.488094444444453,
+    "long": -24.807572222222234,
+    "photo_url": "http://farm5.static.flickr.com/4337/37164280380_0359879078.jpg",
+    "title": "1C4A8781.jpg",
+    "class": "leopard",
+    "prob": "0.9014684557914734"
+  },
+  {
+    "lat": 31.488177777777786,
+    "long": -24.80749722222223,
+    "photo_url": "http://farm5.static.flickr.com/4443/37390508022_5f849d3926.jpg",
+    "title": "1C4A8774.jpg",
+    "class": "leopard",
+    "prob": "0.940464198589325"
+  },
+  {
+    "lat": 31.48848333333333,
+    "long": -24.807222222222233,
+    "photo_url": "http://farm5.static.flickr.com/4337/37390506642_9afd473b6a.jpg",
+    "title": "1C4A8732.jpg",
+    "class": "indigo_bunting",
+    "prob": "0.582156240940094"
+  },
+  {
+    "lat": 31.48853888888889,
+    "long": -24.807175,
+    "photo_url": "http://farm5.static.flickr.com/4468/37390504952_defbcaa24b.jpg",
+    "title": "1C4A8714.jpg",
+    "class": "leopard",
+    "prob": "0.9039782881736755"
+  },
+  {
+    "lat": 31.48856111111111,
+    "long": -24.807155555555557,
+    "photo_url": "http://farm5.static.flickr.com/4506/37390503592_d75b1eae69.jpg",
+    "title": "1C4A8701.jpg",
+    "class": "leopard",
+    "prob": "0.9473645091056824"
+  },
+  {
+    "lat": 31.488597222222214,
+    "long": -24.807122222222233,
+    "photo_url": "http://farm5.static.flickr.com/4362/37390502052_160cb6b5b0.jpg",
+    "title": "1C4A8683.jpg",
+    "class": "leopard",
+    "prob": "0.9596268534660339"
+  },
+  {
+    "lat": 31.48878333333333,
+    "long": -24.806955555555557,
+    "photo_url": "http://farm5.static.flickr.com/4385/36711809344_6cb301ffa8.jpg",
+    "title": "1C4A8650.jpg",
+    "class": "bustard",
+    "prob": "0.2408241182565689"
+  },
+  {
+    "lat": 31.488802777777767,
+    "long": -24.806938888888887,
+    "photo_url": "http://farm5.static.flickr.com/4465/36711807424_f394cefa60.jpg",
+    "title": "1C4A8647.jpg",
+    "class": "leopard",
+    "prob": "0.7897281050682068"
+  },
+  {
+    "lat": 31.48887777777778,
+    "long": -24.806872222222214,
+    "photo_url": "http://farm5.static.flickr.com/4400/37390479122_6f08ed2950.jpg",
+    "title": "1C4A8604.jpg",
+    "class": "leopard",
+    "prob": "0.6002205610275269"
+  },
+  {
+    "lat": 31.48889722222223,
+    "long": -24.806855555555558,
+    "photo_url": "http://farm5.static.flickr.com/4403/37390477422_5e59527239.jpg",
+    "title": "1C4A8584.jpg",
+    "class": "cheetah",
+    "prob": "0.8271127939224243"
+  },
+  {
+    "lat": 31.48896388888889,
+    "long": -24.806797222222233,
+    "photo_url": "http://farm5.static.flickr.com/4438/37421299921_f2aff275f2.jpg",
+    "title": "DSC06231.jpg",
+    "class": "gazelle",
+    "prob": "0.24576301872730255"
+  },
+  {
+    "lat": 31.489477777777786,
+    "long": -24.806338888888888,
+    "photo_url": "http://farm5.static.flickr.com/4403/37421298451_2fb549a202.jpg",
+    "title": "1C4A8501.jpg",
+    "class": "indigo_bunting",
+    "prob": "0.8551291227340698"
+  },
+  {
+    "lat": 31.489963888888887,
+    "long": -24.805905555555555,
+    "photo_url": "http://farm5.static.flickr.com/4444/37421297261_3999b78253.jpg",
+    "title": "1C4A8488.jpg",
+    "class": "jellyfish",
+    "prob": "0.4239184260368347"
+  },
+  {
+    "lat": 31.49011666666667,
+    "long": -24.80576944444445,
+    "photo_url": "http://farm5.static.flickr.com/4386/37421295891_26146eecd8.jpg",
+    "title": "DSC06199.jpg",
+    "class": "vulture",
+    "prob": "0.06796478480100632"
+  },
+  {
+    "lat": 31.490427777777786,
+    "long": -24.805494444444445,
+    "photo_url": "http://farm5.static.flickr.com/4463/36750865783_2a855459fc.jpg",
+    "title": "1C4A8460.jpg",
+    "class": "American_egret",
+    "prob": "0.1366005539894104"
+  },
+  {
+    "lat": 31.490552777777786,
+    "long": -24.80538333333333,
+    "photo_url": "http://farm5.static.flickr.com/4492/36750864323_161854950b.jpg",
+    "title": "1C4A8455.jpg",
+    "class": "Arabian_camel",
+    "prob": "0.11292366683483124"
+  },
+  {
+    "lat": 31.49059444444445,
+    "long": -24.80534444444445,
+    "photo_url": "http://farm5.static.flickr.com/4463/37164252510_db85d56691.jpg",
+    "title": "1C4A8427.jpg",
+    "class": "gazelle",
+    "prob": "0.11004991829395294"
+  },
+  {
+    "lat": 31.51829444444445,
+    "long": -24.79173888888889,
+    "photo_url": "http://farm5.static.flickr.com/4358/37164251120_311ddff7c6.jpg",
+    "title": "DSC06180.jpg",
+    "class": "candle",
+    "prob": "0.4864059388637543"
+  },
+  {
+    "lat": 31.51818055555556,
+    "long": -24.791730555555556,
+    "photo_url": "http://farm5.static.flickr.com/4405/37164249820_6697181139.jpg",
+    "title": "DSC06175.jpg",
+    "class": "goblet",
+    "prob": "0.6272929310798645"
+  },
+  {
+    "lat": 31.518152777777768,
+    "long": -24.79172777777778,
+    "photo_url": "http://farm5.static.flickr.com/4452/37164248250_b9b1cf2b9b.jpg",
+    "title": "DSC06172.jpg",
+    "class": "water_jug",
+    "prob": "0.2839754521846771"
+  },
+  {
+    "lat": 31.518141666666665,
+    "long": -24.79172777777778,
+    "photo_url": "http://farm5.static.flickr.com/4442/37164246290_ff31eeb3a1.jpg",
+    "title": "DSC06171.jpg",
+    "class": "pitcher",
+    "prob": "0.21233151853084564"
+  },
+  {
+    "lat": 31.518113888888887,
+    "long": -24.791725000000003,
+    "photo_url": "http://farm5.static.flickr.com/4365/37390458302_e3a0693e32.jpg",
+    "title": "DSC06168.jpg",
+    "class": "restaurant",
+    "prob": "0.0593620240688324"
+  },
+  {
+    "lat": 31.51578333333333,
+    "long": -24.800738888888887,
+    "photo_url": "http://farm5.static.flickr.com/4358/37390457022_b04d5c5d71.jpg",
+    "title": "DSC06161.jpg",
+    "class": "hartebeest",
+    "prob": "0.8781661987304688"
+  },
+  {
+    "lat": 31.519952777777767,
+    "long": -24.801502777777767,
+    "photo_url": "http://farm5.static.flickr.com/4483/37390455942_7eb6ba93c7.jpg",
+    "title": "DSC06156.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.20500071346759796"
+  },
+  {
+    "lat": 31.52336111111111,
+    "long": -24.80235,
+    "photo_url": "http://farm5.static.flickr.com/4491/37390454742_45afeaa5a8.jpg",
+    "title": "DSC06149.jpg",
+    "class": "warthog",
+    "prob": "0.7697858810424805"
+  },
+  {
+    "lat": 31.52941388888889,
+    "long": -24.79831111111111,
+    "photo_url": "http://farm5.static.flickr.com/4334/37390453502_bf51373626.jpg",
+    "title": "DSC06147.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.6095653772354126"
+  },
+  {
+    "lat": 31.52348888888889,
+    "long": -24.79366666666667,
+    "photo_url": "http://farm5.static.flickr.com/4479/37390451972_57a416ee06.jpg",
+    "title": "DSC06124.jpg",
+    "class": "lakeside",
+    "prob": "0.7338069081306458"
+  },
+  {
+    "lat": 31.523477777777767,
+    "long": -24.79364444444445,
+    "photo_url": "http://farm5.static.flickr.com/4495/37390450882_b4dea782ea.jpg",
+    "title": "DSC06120.jpg",
+    "class": "lakeside",
+    "prob": "0.09078192710876465"
+  },
+  {
+    "lat": 31.523355555555554,
+    "long": -24.79341666666667,
+    "photo_url": "http://farm5.static.flickr.com/4392/37390449962_3ba64ee346.jpg",
+    "title": "DSC06112.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.7474476099014282"
+  },
+  {
+    "lat": 31.521513888888887,
+    "long": -24.79206666666667,
+    "photo_url": "http://farm5.static.flickr.com/4363/36750838673_517c371fed.jpg",
+    "title": "DSC06089.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.36440446972846985"
+  },
+  {
+    "lat": 31.518577777777768,
+    "long": -24.791797222222232,
+    "photo_url": "http://farm5.static.flickr.com/4333/36750836593_8331898ab7.jpg",
+    "title": "DSC06066.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.8180017471313477"
+  },
+  {
+    "lat": 31.51856111111111,
+    "long": -24.791797222222232,
+    "photo_url": "http://farm5.static.flickr.com/4461/36750834983_65569786ef.jpg",
+    "title": "DSC06064.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.6359626650810242"
+  },
+  {
+    "lat": 31.50729444444445,
+    "long": -24.79621388888889,
+    "photo_url": "http://farm5.static.flickr.com/4468/36750831563_4c6105e72c.jpg",
+    "title": "DSC06048.jpg",
+    "class": "mongoose",
+    "prob": "0.207904651761055"
+  },
+  {
+    "lat": 31.50243888888889,
+    "long": -24.797552777777767,
+    "photo_url": "http://farm5.static.flickr.com/4462/36750829263_3523e6266b.jpg",
+    "title": "DSC06041.jpg",
+    "class": "Komodo_dragon",
+    "prob": "0.22382090985774994"
+  },
+  {
+    "lat": 31.502419444444445,
+    "long": -24.79754444444445,
+    "photo_url": "http://farm5.static.flickr.com/4503/36750827013_c64fee2bcd.jpg",
+    "title": "DSC06040.jpg",
+    "class": "Komodo_dragon",
+    "prob": "0.5771355628967285"
+  },
+  {
+    "lat": 31.500311111111113,
+    "long": -24.79658333333333,
+    "photo_url": "http://farm5.static.flickr.com/4513/36750824883_9fe63db528.jpg",
+    "title": "DSC06021.jpg",
+    "class": "skunk",
+    "prob": "0.33672961592674255"
+  },
+  {
+    "lat": 31.500294444444453,
+    "long": -24.79657222222223,
+    "photo_url": "http://farm5.static.flickr.com/4416/36750822423_9dce240d73.jpg",
+    "title": "DSC06007.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.9807087182998657"
+  },
+  {
+    "lat": 31.500286111111112,
+    "long": -24.79656944444445,
+    "photo_url": "http://farm5.static.flickr.com/4440/36750820103_7eb7287537.jpg",
+    "title": "DSC05976.jpg",
+    "class": "cheetah",
+    "prob": "0.21272216737270355"
+  },
+  {
+    "lat": 31.50028333333333,
+    "long": -24.79656666666667,
+    "photo_url": "http://farm5.static.flickr.com/4486/37421259991_b579204fc6.jpg",
+    "title": "DSC05968.jpg",
+    "class": "African_hunting_dog",
+    "prob": "0.4078347682952881"
+  },
+  {
+    "lat": 31.50018888888889,
+    "long": -24.796508333333332,
+    "photo_url": "http://farm5.static.flickr.com/4468/37421258911_6ce47350c6.jpg",
+    "title": "DSC05960.jpg",
+    "class": "Indian_cobra",
+    "prob": "0.131743386387825"
+  },
+  {
+    "lat": 31.50018888888889,
+    "long": -24.79650555555556,
+    "photo_url": "http://farm5.static.flickr.com/4335/37421257591_1cce4d9d31.jpg",
+    "title": "DSC05957.jpg",
+    "class": "Lakeland_terrier",
+    "prob": "0.06552932411432266"
+  },
+  {
+    "lat": 31.499547222222233,
+    "long": -24.79604444444445,
+    "photo_url": "http://farm5.static.flickr.com/4413/37421256041_a4ff6ca239.jpg",
+    "title": "DSC05922.jpg",
+    "class": "African_elephant",
+    "prob": "0.15031278133392334"
+  },
+  {
+    "lat": 31.49951111111111,
+    "long": -24.795952777777767,
+    "photo_url": "http://farm5.static.flickr.com/4363/37421254471_49df787f57.jpg",
+    "title": "DSC05906.jpg",
+    "class": "warthog",
+    "prob": "0.9753600358963013"
+  },
+  {
+    "lat": 31.49596944444445,
+    "long": -24.816588888888887,
+    "photo_url": "http://farm5.static.flickr.com/4414/37421253341_fe0100e2bc.jpg",
+    "title": "DSC05890.jpg",
+    "class": "worm_fence",
+    "prob": "0.16631418466567993"
+  },
+  {
+    "lat": 31.49591944444445,
+    "long": -24.816580555555557,
+    "photo_url": "http://farm5.static.flickr.com/4501/37421252291_66d139d39a.jpg",
+    "title": "DSC05888.jpg",
+    "class": "hippopotamus",
+    "prob": "0.8444096446037292"
+  },
+  {
+    "lat": 31.046997222222235,
+    "long": -24.50693333333333,
+    "photo_url": "http://farm5.static.flickr.com/4367/37398443441_8b85cd3fdd.jpg",
+    "title": "DSC00095",
+    "class": "cheetah",
+    "prob": "0.9123675227165222"
+  },
+  {
+    "lat": 31.694275,
+    "long": -24.931997222222233,
+    "photo_url": "http://farm5.static.flickr.com/4331/23541625398_dcf3bd4a61.jpg",
+    "title": "Vulture",
+    "class": "white_stork",
+    "prob": "0.38037464022636414"
+  },
+  {
+    "lat": 31.740602777777767,
+    "long": -24.00599444444445,
+    "photo_url": "http://farm5.static.flickr.com/4387/23540997828_eedb957eb1.jpg",
+    "title": "Cape Crombec",
+    "class": "goldfinch",
+    "prob": "0.14831963181495667"
+  },
+  {
+    "lat": 31.24109444444445,
+    "long": -25.02516944444445,
+    "photo_url": "http://farm5.static.flickr.com/4513/36960240273_d59b36b35f.jpg",
+    "title": "Halsreikend keken zij uit",
+    "class": "gazelle",
+    "prob": "0.262371301651001"
+  },
+  {
+    "lat": 31.39618055555556,
+    "long": -23.986252777777786,
+    "photo_url": "http://farm5.static.flickr.com/4359/36736661853_789e0cb7b0.jpg",
+    "title": "Ik ben een en al oor",
+    "class": "tusker",
+    "prob": "0.5679611563682556"
+  },
+  {
+    "lat": 31.76394166666667,
+    "long": -24.969230555555555,
+    "photo_url": "http://farm5.static.flickr.com/4379/23541629978_34700f9bd9.jpg",
+    "title": "Buffalo",
+    "class": "water_buffalo",
+    "prob": "0.9411760568618774"
+  },
+  {
+    "lat": 31.740405555555558,
+    "long": -24.00608333333333,
+    "photo_url": "http://farm5.static.flickr.com/4465/23504260158_29b5fc86ab.jpg",
+    "title": "Grey Go-away-bird",
+    "class": "bulbul",
+    "prob": "0.500725269317627"
+  },
+  {
+    "lat": 31.740405555555558,
+    "long": -24.00608333333333,
+    "photo_url": "http://farm5.static.flickr.com/4436/37079581210_37ef1605be.jpg",
+    "title": "Thick-tailed Bushbaby",
+    "class": "indri",
+    "prob": "0.22137582302093506"
+  },
+  {
+    "lat": 31.37496388888889,
+    "long": -24.21544444444445,
+    "photo_url": "http://farm5.static.flickr.com/4419/37058330390_4bb5cf1f2c.jpg",
+    "title": "Formidable Group",
+    "class": "water_buffalo",
+    "prob": "0.925192654132843"
+  },
+  {
+    "lat": 31.740405555555558,
+    "long": -24.00608333333333,
+    "photo_url": "http://farm5.static.flickr.com/4346/37266098136_1e90cd09a6.jpg",
+    "title": "Thick-tailed Bushbaby",
+    "class": "wallaby",
+    "prob": "0.13363823294639587"
+  },
+  {
+    "lat": 31.676977777777786,
+    "long": -24.941311111111112,
+    "photo_url": "http://farm5.static.flickr.com/4379/36620304413_ab6bc96b57.jpg",
+    "title": "Nice to meet you!",
+    "class": "tusker",
+    "prob": "0.6736953854560852"
+  },
+  {
+    "lat": 31.676855555555555,
+    "long": -24.94136111111111,
+    "photo_url": "http://farm5.static.flickr.com/4440/37242741436_7927d22696.jpg",
+    "title": "Elephant feeding",
+    "class": "African_elephant",
+    "prob": "0.8060852885246277"
+  },
+  {
+    "lat": 31.671322222222226,
+    "long": -24.94351944444445,
+    "photo_url": "http://farm5.static.flickr.com/4401/36620007223_1de53b0e37.jpg",
+    "title": "Elephants",
+    "class": "African_elephant",
+    "prob": "0.9541154503822327"
+  },
+  {
+    "lat": 31.667869444444445,
+    "long": -24.944866666666666,
+    "photo_url": "http://farm5.static.flickr.com/4427/37432137255_4cedcc1dcc.jpg",
+    "title": "Little elephant",
+    "class": "African_elephant",
+    "prob": "0.8178450465202332"
+  },
+  {
+    "lat": 31.653225,
+    "long": -24.950580555555554,
+    "photo_url": "http://farm5.static.flickr.com/4485/37260017352_85838ddc8c.jpg",
+    "title": "Baboon",
+    "class": "baboon",
+    "prob": "0.9373074173927307"
+  },
+  {
+    "lat": 31.503972222222234,
+    "long": -25.494788888888888,
+    "photo_url": "http://farm5.static.flickr.com/4487/37032554660_045aacb787.jpg",
+    "title": "IMG_5407",
+    "class": "bakery",
+    "prob": "0.2526383399963379"
+  },
+  {
+    "lat": 31.50664444444445,
+    "long": -25.49616666666667,
+    "photo_url": "http://farm5.static.flickr.com/4456/37288556931_c99a66dd94.jpg",
+    "title": "IMG_5409",
+    "class": "shoe_shop",
+    "prob": "0.43002355098724365"
+  },
+  {
+    "lat": 31.506586111111112,
+    "long": -25.49618333333333,
+    "photo_url": "http://farm5.static.flickr.com/4332/37431242975_6ac2388e4b.jpg",
+    "title": "IMG_5410",
+    "class": "bakery",
+    "prob": "0.48257118463516235"
+  },
+  {
+    "lat": 31.50633333333333,
+    "long": -25.496275,
+    "photo_url": "http://farm5.static.flickr.com/4371/37288551991_646ca3c31a.jpg",
+    "title": "IMG_5412",
+    "class": "bookshop",
+    "prob": "0.5299550890922546"
+  },
+  {
+    "lat": 31.50628888888889,
+    "long": -25.49691111111111,
+    "photo_url": "http://farm5.static.flickr.com/4435/37241662166_310282d413.jpg",
+    "title": "IMG_5422",
+    "class": "refrigerator",
+    "prob": "0.4944564402103424"
+  },
+  {
+    "lat": 31.50624444444445,
+    "long": -25.496925,
+    "photo_url": "http://farm5.static.flickr.com/4384/37241659826_9a56c28847.jpg",
+    "title": "IMG_5423",
+    "class": "shoe_shop",
+    "prob": "0.16664455831050873"
+  },
+  {
+    "lat": 31.506161111111112,
+    "long": -25.49698888888889,
+    "photo_url": "http://farm5.static.flickr.com/4383/37241656616_95940f5605.jpg",
+    "title": "IMG_5425",
+    "class": "cash_machine",
+    "prob": "0.8485058546066284"
+  },
+  {
+    "lat": 31.50589444444445,
+    "long": -25.497125,
+    "photo_url": "http://farm5.static.flickr.com/4452/36618977873_a6bed4a762.jpg",
+    "title": "IMG_5429",
+    "class": "tobacco_shop",
+    "prob": "0.251687228679657"
+  },
+  {
+    "lat": 31.505847222222233,
+    "long": -25.49725833333333,
+    "photo_url": "http://farm5.static.flickr.com/4385/37431201725_2b51669a35.jpg",
+    "title": "IMG_5437",
+    "class": "bannister",
+    "prob": "0.120876245200634"
+  },
+  {
+    "lat": 31.505944444444445,
+    "long": -25.49724444444445,
+    "photo_url": "http://farm5.static.flickr.com/4386/37288517551_32d88c4ddd.jpg",
+    "title": "IMG_5438",
+    "class": "shopping_cart",
+    "prob": "0.9034135937690735"
+  },
+  {
+    "lat": 31.509277777777786,
+    "long": -25.498244444444445,
+    "photo_url": "http://farm5.static.flickr.com/4486/37288375221_54486f7b36.jpg",
+    "title": "IMG_5479",
+    "class": "traffic_light",
+    "prob": "0.5544871687889099"
+  },
+  {
+    "lat": 31.511494444444452,
+    "long": -25.497238888888887,
+    "photo_url": "http://farm5.static.flickr.com/4446/37288366101_b24d62d9f6.jpg",
+    "title": "IMG_5490",
+    "class": "garbage_truck",
+    "prob": "0.254994660615921"
+  },
+  {
+    "lat": 31.511905555555554,
+    "long": -25.49705,
+    "photo_url": "http://farm5.static.flickr.com/4508/37288363941_b99fee0ee1.jpg",
+    "title": "IMG_5491",
+    "class": "traffic_light",
+    "prob": "0.21111810207366943"
+  },
+  {
+    "lat": 31.50955833333333,
+    "long": -25.49978333333333,
+    "photo_url": "http://farm5.static.flickr.com/4352/37288353061_69a9748fd0.jpg",
+    "title": "IMG_5496",
+    "class": "grocery_store",
+    "prob": "0.0967889055609703"
+  },
+  {
+    "lat": 31.522163888888887,
+    "long": -25.099925,
+    "photo_url": "http://farm5.static.flickr.com/4356/36574029614_ab7fc82d1f.jpg",
+    "title": "Leopard",
+    "class": "cheetah",
+    "prob": "0.9493487477302551"
+  },
+  {
+    "lat": 31.51926666666667,
+    "long": -25.101555555555557,
+    "photo_url": "http://farm5.static.flickr.com/4374/37027738010_55f7f3cea9.jpg",
+    "title": "Leopard playing with a car tyre",
+    "class": "cheetah",
+    "prob": "0.5136083960533142"
+  },
+  {
+    "lat": 31.48766944444445,
+    "long": -25.10798611111111,
+    "photo_url": "http://farm5.static.flickr.com/4349/37283353801_d0cf4d6997.jpg",
+    "title": "Wildebeest",
+    "class": "hartebeest",
+    "prob": "0.6558589339256287"
+  },
+  {
+    "lat": 31.214072222222214,
+    "long": -25.114977777777767,
+    "photo_url": "http://farm5.static.flickr.com/4417/37283313861_df2d2c573b.jpg",
+    "title": "Hippos",
+    "class": "water_buffalo",
+    "prob": "0.8609120845794678"
+  },
+  {
+    "lat": 31.67708888888889,
+    "long": -24.03581388888889,
+    "photo_url": "http://farm5.static.flickr.com/4418/37282488661_a64d3d0585.jpg",
+    "title": "White-fronted Bee-eater",
+    "class": "bee_eater",
+    "prob": "0.9459299445152283"
+  },
+  {
+    "lat": 31.73106111111111,
+    "long": -24.023416666666666,
+    "photo_url": "http://farm5.static.flickr.com/4390/37278609621_775c1cbf7b.jpg",
+    "title": "White Backed Vulture",
+    "class": "vulture",
+    "prob": "0.9627801179885864"
+  },
+  {
+    "lat": 31.92496388888889,
+    "long": -25.120527777777767,
+    "photo_url": "http://farm5.static.flickr.com/4336/37278599551_7a519092c7.jpg",
+    "title": "Great Egret",
+    "class": "American_egret",
+    "prob": "0.8778696656227112"
+  },
+  {
+    "lat": 31.56601388888889,
+    "long": -24.98178333333333,
+    "photo_url": "http://farm5.static.flickr.com/4395/36608953363_0c71ec1612.jpg",
+    "title": "Juvenile Green Backed Heron",
+    "class": "bittern",
+    "prob": "0.8844355344772339"
+  },
+  {
+    "lat": 31.919005555555557,
+    "long": -25.079569444444445,
+    "photo_url": "http://farm5.static.flickr.com/4403/37249206292_6c57bbac46.jpg",
+    "title": "Black Shouldered Kite",
+    "class": "kite",
+    "prob": "0.9905884861946106"
+  },
+  {
+    "lat": 31.917497222222234,
+    "long": -25.119627777777787,
+    "photo_url": "http://farm5.static.flickr.com/4502/37249206332_fc32b3b5ef.jpg",
+    "title": "Kruger",
+    "class": "partridge",
+    "prob": "0.6992706656455994"
+  },
+  {
+    "lat": 31.33381944444445,
+    "long": -25.024277777777765,
+    "photo_url": "http://farm5.static.flickr.com/4343/37219040096_51ebf047c4.jpg",
+    "title": "Fish-Eagle on nest",
+    "class": "bald_eagle",
+    "prob": "0.9187085628509521"
+  },
+  {
+    "lat": 31.333855555555555,
+    "long": -25.02426388888889,
+    "photo_url": "http://farm5.static.flickr.com/4342/37237001422_2f9d8407b3.jpg",
+    "title": "Fish-Eagle",
+    "class": "kite",
+    "prob": "0.3892323970794678"
+  },
+  {
+    "lat": 31.797538888888887,
+    "long": -24.64534166666667,
+    "photo_url": "http://farm5.static.flickr.com/4457/37008013080_16d35a211e.jpg",
+    "title": "The lioness",
+    "class": "lion",
+    "prob": "0.8613136410713196"
+  },
+  {
+    "lat": 31.79498611111111,
+    "long": -24.60909444444445,
+    "photo_url": "http://farm5.static.flickr.com/4434/37007936790_4907019c5b.jpg",
+    "title": "The lioness",
+    "class": "lion",
+    "prob": "0.9494452476501465"
+  },
+  {
+    "lat": 31.79240277777778,
+    "long": -24.572375,
+    "photo_url": "http://farm5.static.flickr.com/4356/37405917755_71b60863a3.jpg",
+    "title": "The lioness",
+    "class": "lion",
+    "prob": "0.9240764379501343"
+  },
+  {
+    "lat": 31.50705,
+    "long": -25.03725833333333,
+    "photo_url": "http://farm5.static.flickr.com/4510/37262502761_26414a0ae3.jpg",
+    "title": "00854 - 20151205.jpg",
+    "class": "spider_monkey",
+    "prob": "0.6536924839019775"
+  },
+  {
+    "lat": 31.279105555555553,
+    "long": -25.02938333333333,
+    "photo_url": "http://farm5.static.flickr.com/4363/37404895675_19dbd8c1de.jpg",
+    "title": "00789 - 20151205.jpg",
+    "class": "lion",
+    "prob": "0.8008379936218262"
+  },
+  {
+    "lat": 31.43411666666667,
+    "long": -25.00255,
+    "photo_url": "http://farm5.static.flickr.com/4453/37233762722_eece74a2f3.jpg",
+    "title": "00778 - 20151205.jpg",
+    "class": "warthog",
+    "prob": "0.5476487278938293"
+  },
+  {
+    "lat": 31.43411666666667,
+    "long": -25.00255,
+    "photo_url": "http://farm5.static.flickr.com/4418/37404794555_8e360028a4.jpg",
+    "title": "00675 - 20151205.jpg",
+    "class": "water_buffalo",
+    "prob": "0.3752617835998535"
+  },
+  {
+    "lat": 31.669027777777767,
+    "long": -24.110255555555558,
+    "photo_url": "http://farm5.static.flickr.com/4388/36548755264_52fbbf0de8.jpg",
+    "title": "Hooded Vulture",
+    "class": "vulture",
+    "prob": "0.9478535652160645"
+  },
+  {
+    "lat": 31.659697222222213,
+    "long": -24.106738888888888,
+    "photo_url": "http://farm5.static.flickr.com/4471/37390736395_be4b39f00e.jpg",
+    "title": "Plains Zebras",
+    "class": "zebra",
+    "prob": "0.8659536838531494"
+  },
+  {
+    "lat": 31.722216666666665,
+    "long": -24.14234722222222,
+    "photo_url": "http://farm5.static.flickr.com/4510/37198491076_2866a2d3e8.jpg",
+    "title": "Male Saddle-billed Stork, KNP",
+    "class": "black_stork",
+    "prob": "0.9003384113311768"
+  },
+  {
+    "lat": 31.70145833333333,
+    "long": -24.503277777777786,
+    "photo_url": "http://farm5.static.flickr.com/4383/37198224546_dce1752cb8.jpg",
+    "title": "Wild dog, KNP",
+    "class": "African_hunting_dog",
+    "prob": "0.9530288577079773"
+  },
+  {
+    "lat": 31.769361111111113,
+    "long": -24.4795,
+    "photo_url": "http://farm5.static.flickr.com/4488/37198219306_aaa5d4fa70.jpg",
+    "title": "Sweni male lion, KNP",
+    "class": "lion",
+    "prob": "0.9570060968399048"
+  },
+  {
+    "lat": 31.769361111111113,
+    "long": -24.4795,
+    "photo_url": "http://farm5.static.flickr.com/4337/36535532924_bd37919118.jpg",
+    "title": "Sweni pride, KNP",
+    "class": "lion",
+    "prob": "0.8576573729515076"
+  },
+  {
+    "lat": 31.768486111111113,
+    "long": -24.37506388888889,
+    "photo_url": "http://farm5.static.flickr.com/4514/36535529334_0799983fa1.jpg",
+    "title": "Hyena with cubs, KNP",
+    "class": "hyena",
+    "prob": "0.9939890503883362"
+  },
+  {
+    "lat": 31.58775833333333,
+    "long": -24.39991388888889,
+    "photo_url": "http://farm5.static.flickr.com/4420/37384009015_faa7617474.jpg",
+    "title": "Hooded Vulture, KNP",
+    "class": "vulture",
+    "prob": "0.949893593788147"
+  },
+  {
+    "lat": 31.809538888888888,
+    "long": -24.398072222222233,
+    "photo_url": "http://farm5.static.flickr.com/4413/37384007415_70f19b783b.jpg",
+    "title": "Kudu sunset, KNP",
+    "class": "impala",
+    "prob": "0.4843427836894989"
+  },
+  {
+    "lat": 31.691275,
+    "long": -24.358963888888887,
+    "photo_url": "http://farm5.static.flickr.com/4443/37384002735_a879293709.jpg",
+    "title": "Glossy Starling, KNP",
+    "class": "coucal",
+    "prob": "0.720416247844696"
+  },
+  {
+    "lat": 31.691275,
+    "long": -24.358963888888887,
+    "photo_url": "http://farm5.static.flickr.com/4372/37383995095_34abcce013.jpg",
+    "title": "Elephant bull fun, KNP",
+    "class": "African_elephant",
+    "prob": "0.6800360679626465"
+  },
+  {
+    "lat": 31.645077777777786,
+    "long": -24.260461111111113,
+    "photo_url": "http://farm5.static.flickr.com/4385/37370976625_7465fc3c67.jpg",
+    "title": "Greater Blue-eared Starling",
+    "class": "indigo_bunting",
+    "prob": "0.4309384822845459"
+  },
+  {
+    "lat": 31.446230555555548,
+    "long": -25.427086111111112,
+    "photo_url": "http://farm5.static.flickr.com/4429/37364425675_9c2f3d97fb.jpg",
+    "title": "Brown-headed parrot",
+    "class": "bee_eater",
+    "prob": "0.18119759857654572"
+  },
+  {
+    "lat": 31.53450555555556,
+    "long": -25.27500555555556,
+    "photo_url": "http://farm5.static.flickr.com/4411/36511740214_3e50476722.jpg",
+    "title": "Leopard in the Kruger national park",
+    "class": "leopard",
+    "prob": "0.9624078273773193"
+  },
+  {
+    "lat": 31.358580555555548,
+    "long": -23.812113888888888,
+    "photo_url": "http://farm5.static.flickr.com/4407/36966926780_b7f8c2901c.jpg",
+    "title": "Suzanne van de Straat",
+    "class": "coucal",
+    "prob": "0.27744990587234497"
+  },
+  {
+    "lat": 31.735166666666668,
+    "long": -25.339841666666665,
+    "photo_url": "http://farm5.static.flickr.com/4373/37174001096_ea9ff584b9.jpg",
+    "title": "Bufflo in the Kruger national park",
+    "class": "water_buffalo",
+    "prob": "0.9354294538497925"
+  },
+  {
+    "lat": 31.704591666666666,
+    "long": -25.380227777777787,
+    "photo_url": "http://farm5.static.flickr.com/4376/37364090775_1f58ea9f22.jpg",
+    "title": "Goliath Heron looking for dinner",
+    "class": "little_blue_heron",
+    "prob": "0.46789854764938354"
+  },
+  {
+    "lat": 31.7028,
+    "long": -25.38249444444445,
+    "photo_url": "http://farm5.static.flickr.com/4383/36966753580_bc91795f74.jpg",
+    "title": "Lolac Breasted Roller in the Kruger national Park",
+    "class": "bee_eater",
+    "prob": "0.9232685565948486"
+  },
+  {
+    "lat": 31.73040833333333,
+    "long": -24.05303888888889,
+    "photo_url": "http://farm5.static.flickr.com/4368/37204651371_d477eb5fef.jpg",
+    "title": "Waterbuck sparring, Balule KNP",
+    "class": "impala",
+    "prob": "0.20987975597381592"
+  },
+  {
+    "lat": 31.642716666666665,
+    "long": -24.242088888888887,
+    "photo_url": "http://farm5.static.flickr.com/4392/37156850296_d3193ffe21.jpg",
+    "title": "Red-billed Quelea, Ratelpan KNP",
+    "class": "ear",
+    "prob": "0.659811794757843"
+  },
+  {
+    "lat": 31.641747222222214,
+    "long": -24.24409444444445,
+    "photo_url": "http://farm5.static.flickr.com/4346/36534964333_0beb2cdf6f.jpg",
+    "title": "Juvenile Saddle-billed Stork, KNP",
+    "class": "black_stork",
+    "prob": "0.941315233707428"
+  },
+  {
+    "lat": 31.835738888888887,
+    "long": -24.72136944444444,
+    "photo_url": "http://farm5.static.flickr.com/4374/37174120922_dda0eaee9e.jpg",
+    "title": "Mazithi dam scene, KNP",
+    "class": "African_elephant",
+    "prob": "0.728577733039856"
+  },
+  {
+    "lat": 31.78950833333333,
+    "long": -24.531225,
+    "photo_url": "http://farm5.static.flickr.com/4348/36506134834_0391c154a1.jpg",
+    "title": "Crocs",
+    "class": "African_crocodile",
+    "prob": "0.9921873807907104"
+  },
+  {
+    "lat": 31.788097222222234,
+    "long": -24.511172222222214,
+    "photo_url": "http://farm5.static.flickr.com/4441/36506129764_07da9dd8c6.jpg",
+    "title": "Waterbuck antelope locking horns",
+    "class": "hartebeest",
+    "prob": "0.17529287934303284"
+  },
+  {
+    "lat": 31.787688888888887,
+    "long": -24.505322222222233,
+    "photo_url": "http://farm5.static.flickr.com/4389/36531646863_850b4fe7ea.jpg",
+    "title": "Antelope locking horns",
+    "class": "impala",
+    "prob": "0.7444459199905396"
+  },
+  {
+    "lat": 31.973255555555554,
+    "long": -24.473536111111112,
+    "photo_url": "http://farm5.static.flickr.com/4399/37168955392_72134753bc.jpg",
+    "title": "Three-banded Plover, KNP",
+    "class": "red-backed_sandpiper",
+    "prob": "0.3473433256149292"
+  },
+  {
+    "lat": 31.973255555555554,
+    "long": -24.473536111111112,
+    "photo_url": "http://farm5.static.flickr.com/4372/37168952522_500692cc11.jpg",
+    "title": "Green-winged Pytilia",
+    "class": "house_finch",
+    "prob": "0.4608449339866638"
+  },
+  {
+    "lat": 31.973255555555554,
+    "long": -24.473536111111112,
+    "photo_url": "http://farm5.static.flickr.com/4439/37168850102_edd236f38b.jpg",
+    "title": "Yellow-billed Stork, KNP",
+    "class": "white_stork",
+    "prob": "0.6124070286750793"
+  },
+  {
+    "lat": 31.514186111111112,
+    "long": -25.03705277777778,
+    "photo_url": "http://farm5.static.flickr.com/4392/37137034406_6fe6b94d45.jpg",
+    "title": "Hippo with Terrapins",
+    "class": "hippopotamus",
+    "prob": "0.42354947328567505"
+  },
+  {
+    "lat": 31.448569444444445,
+    "long": -25.42452500000001,
+    "photo_url": "http://farm5.static.flickr.com/4414/37137030706_7f3eed976e.jpg",
+    "title": "Bearded Woodpecker",
+    "class": "prairie_chicken",
+    "prob": "0.4306865632534027"
+  },
+  {
+    "lat": 31.872797222222214,
+    "long": -24.75861111111111,
+    "photo_url": "http://farm5.static.flickr.com/4430/37137027436_9b4aba0d58.jpg",
+    "title": "Woolly-necked Stork sunning",
+    "class": "bustard",
+    "prob": "0.11249606311321259"
+  },
+  {
+    "lat": 31.973255555555554,
+    "long": -24.473536111111112,
+    "photo_url": "http://farm5.static.flickr.com/4430/37167349641_830d6972bf.jpg",
+    "title": "Hippo dominance display, KNP",
+    "class": "hippopotamus",
+    "prob": "0.9783783555030823"
+  },
+  {
+    "lat": 31.721711111111112,
+    "long": -24.260380555555557,
+    "photo_url": "http://farm5.static.flickr.com/4386/37307235285_8c47bd6b0f.jpg",
+    "title": "Steenbok",
+    "class": "impala",
+    "prob": "0.843590259552002"
+  },
+  {
+    "lat": 31.72323888888889,
+    "long": -24.255861111111113,
+    "photo_url": "http://farm5.static.flickr.com/4361/36492859623_c74dc84948.jpg",
+    "title": "Common Ostrich",
+    "class": "ostrich",
+    "prob": "0.9645698666572571"
+  },
+  {
+    "lat": 31.720372222222213,
+    "long": -24.241013888888887,
+    "photo_url": "http://farm5.static.flickr.com/4414/37163594991_91f5e06ef8.jpg",
+    "title": "Warthog",
+    "class": "warthog",
+    "prob": "0.9793548583984375"
+  },
+  {
+    "lat": 31.79465,
+    "long": -25.03094166666667,
+    "photo_url": "http://farm5.static.flickr.com/4440/37132231282_863f19d4d0.jpg",
+    "title": "White rhino crossing",
+    "class": "car_mirror",
+    "prob": "0.9773573875427246"
+  },
+  {
+    "lat": 31.2758,
+    "long": -22.42250555555556,
+    "photo_url": "http://farm5.static.flickr.com/4346/37159776601_5ee22a8fb4.jpg",
+    "title": "Fever Tree Forest sunset",
+    "class": "church",
+    "prob": "0.14906685054302216"
+  },
+  {
+    "lat": 31.717830555555555,
+    "long": -24.17186388888889,
+    "photo_url": "http://farm5.static.flickr.com/4372/37279461895_a2c6590b51.jpg",
+    "title": "Steenbok",
+    "class": "gazelle",
+    "prob": "0.4258134663105011"
+  },
+  {
+    "lat": 31.593427777777766,
+    "long": -24.993327777777786,
+    "photo_url": "http://farm5.static.flickr.com/4347/36440959454_c836496e7d.jpg",
+    "title": "Safari vehicle",
+    "class": "golfcart",
+    "prob": "0.8821116089820862"
+  },
+  {
+    "lat": 31.591994444444442,
+    "long": -24.99350833333333,
+    "photo_url": "http://farm5.static.flickr.com/4398/37278990495_1a28667972.jpg",
+    "title": "Memorial to dogs that served rangers in Kruger",
+    "class": "maze",
+    "prob": "0.18669003248214722"
+  },
+  {
+    "lat": 31.59341388888889,
+    "long": -24.993088888888888,
+    "photo_url": "http://farm5.static.flickr.com/4358/37278976495_229d4616c8.jpg",
+    "title": "Rondavels",
+    "class": "thatch",
+    "prob": "0.20746950805187225"
+  },
+  {
+    "lat": 31.720263888888887,
+    "long": -24.000625,
+    "photo_url": "http://farm5.static.flickr.com/4400/37078021036_bc74e09e04.jpg",
+    "title": "Milking hyena",
+    "class": "hyena",
+    "prob": "0.9869608283042908"
+  },
+  {
+    "lat": 31.7685,
+    "long": -23.985902777777767,
+    "photo_url": "http://farm5.static.flickr.com/4437/36453514853_85b84929fb.jpg",
+    "title": "Hippos on the Letaba river",
+    "class": "hippopotamus",
+    "prob": "0.643831729888916"
+  },
+  {
+    "lat": 31.740202777777768,
+    "long": -24.00535833333333,
+    "photo_url": "http://farm5.static.flickr.com/4411/37268308255_ae72e0de70.jpg",
+    "title": "Letaba river, Kruger",
+    "class": "promontory",
+    "prob": "0.5686504244804382"
+  },
+  {
+    "lat": 31.77336111111111,
+    "long": -23.980086111111113,
+    "photo_url": "http://farm5.static.flickr.com/4382/36870067330_5a535a9bcd.jpg",
+    "title": "Crocodile sleeping on the Letaba river",
+    "class": "promontory",
+    "prob": "0.5038992762565613"
+  },
+  {
+    "lat": 31.71653611111111,
+    "long": -23.939113888888887,
+    "photo_url": "http://farm5.static.flickr.com/4335/36430356174_8717d47a6a.jpg",
+    "title": "Baobab",
+    "class": "rapeseed",
+    "prob": "0.13115552067756653"
+  },
+  {
+    "lat": 31.801841666666668,
+    "long": -25.053697222222233,
+    "photo_url": "http://farm5.static.flickr.com/4408/36450759633_1175146c5e.jpg",
+    "title": "",
+    "class": "warthog",
+    "prob": "0.47480499744415283"
+  },
+  {
+    "lat": 31.64171111111111,
+    "long": -23.857375,
+    "photo_url": "http://farm5.static.flickr.com/4362/36447156183_b2eda9a804.jpg",
+    "title": "Zebra with a cub",
+    "class": "zebra",
+    "prob": "0.9621025919914246"
+  },
+  {
+    "lat": 31.64139444444445,
+    "long": -23.852013888888887,
+    "photo_url": "http://farm5.static.flickr.com/4339/36423888284_f42c96b983.jpg",
+    "title": "Typical zebra position",
+    "class": "zebra",
+    "prob": "0.9147663712501526"
+  },
+  {
+    "lat": 31.627377777777767,
+    "long": -23.83725,
+    "photo_url": "http://farm5.static.flickr.com/4390/36447011263_b6a0540ef0.jpg",
+    "title": "Hippo family",
+    "class": "hippopotamus",
+    "prob": "0.4613877832889557"
+  },
+  {
+    "lat": 31.626444444444445,
+    "long": -23.837455555555554,
+    "photo_url": "http://farm5.static.flickr.com/4361/37089427862_fe10155759.jpg",
+    "title": "Waterbuck",
+    "class": "hartebeest",
+    "prob": "0.3406752943992615"
+  },
+  {
+    "lat": 31.54899444444445,
+    "long": -23.78005,
+    "photo_url": "http://farm5.static.flickr.com/4439/36421817784_d0aebd1864.jpg",
+    "title": "Hawk",
+    "class": "three-toed_sloth",
+    "prob": "0.5421031713485718"
+  },
+  {
+    "lat": 31.573575,
+    "long": -23.845788888888887,
+    "photo_url": "http://farm5.static.flickr.com/4438/37068699146_12ba7751d1.jpg",
+    "title": "Giraffes in the Kruger",
+    "class": "gazelle",
+    "prob": "0.1689002513885498"
+  },
+  {
+    "lat": 31.58363611111111,
+    "long": -23.822511111111112,
+    "photo_url": "http://farm5.static.flickr.com/4423/37116183971_6be777d31e.jpg",
+    "title": "Hornbill",
+    "class": "hornbill",
+    "prob": "0.9648289680480957"
+  },
+  {
+    "lat": 31.567386111111112,
+    "long": -23.81141388888889,
+    "photo_url": "http://farm5.static.flickr.com/4385/36419484914_7b431e5292.jpg",
+    "title": "Giraffe",
+    "class": "zebra",
+    "prob": "0.2511774003505707"
+  },
+  {
+    "lat": 31.56525833333333,
+    "long": -23.808933333333336,
+    "photo_url": "http://farm5.static.flickr.com/4337/36442915373_f6a508b374.jpg",
+    "title": "Slurp!",
+    "class": "gazelle",
+    "prob": "0.05374463275074959"
+  },
+  {
+    "lat": 31.7199,
+    "long": -24.21896666666667,
+    "photo_url": "http://farm5.static.flickr.com/4437/37255293835_a80c3a0303.jpg",
+    "title": "Gabar Goshawk",
+    "class": "kite",
+    "prob": "0.4787708520889282"
+  },
+  {
+    "lat": 31.73691666666667,
+    "long": -24.04945833333333,
+    "photo_url": "http://farm5.static.flickr.com/4350/37056858856_136ee1cb9f.jpg",
+    "title": "Pel's Fishing Owl",
+    "class": "kite",
+    "prob": "0.2964062988758087"
+  },
+  {
+    "lat": 31.272247222222234,
+    "long": -23.86655277777778,
+    "photo_url": "http://farm5.static.flickr.com/4373/36430171683_5f2eec6faf.jpg",
+    "title": "Trio",
+    "class": "wallaby",
+    "prob": "0.2725333273410797"
+  },
+  {
+    "lat": 31.23693333333333,
+    "long": -23.937313888888887,
+    "photo_url": "http://farm5.static.flickr.com/4424/37101916511_b2cc3b38af.jpg",
+    "title": "Antelops in the Kruger park",
+    "class": "gazelle",
+    "prob": "0.7481678128242493"
+  },
+  {
+    "lat": 31.23699166666667,
+    "long": -23.93731944444445,
+    "photo_url": "http://farm5.static.flickr.com/4356/37100422961_71814efa42.jpg",
+    "title": "Drinking zebras",
+    "class": "zebra",
+    "prob": "0.9279453754425049"
+  },
+  {
+    "lat": 31.236213888888887,
+    "long": -23.937372222222233,
+    "photo_url": "http://farm5.static.flickr.com/4434/37100418651_c6cff763cc.jpg",
+    "title": "Bathing beauties",
+    "class": "African_elephant",
+    "prob": "0.7684347033500671"
+  },
+  {
+    "lat": 31.55129166666667,
+    "long": -25.06740555555556,
+    "photo_url": "http://farm5.static.flickr.com/4373/37230067205_80497f5fef.jpg",
+    "title": "",
+    "class": "valley",
+    "prob": "0.13078148663043976"
+  },
+  {
+    "lat": 31.267916666666665,
+    "long": -25.17018611111111,
+    "photo_url": "http://farm5.static.flickr.com/4383/36831999550_dc7fb30e28.jpg",
+    "title": "",
+    "class": "zebra",
+    "prob": "0.9501901268959045"
+  },
+  {
+    "lat": 31.23616666666667,
+    "long": -25.16686111111111,
+    "photo_url": "http://farm5.static.flickr.com/4437/36392399404_38b28b642d.jpg",
+    "title": "",
+    "class": "apiary",
+    "prob": "0.6954490542411804"
+  },
+  {
+    "lat": 31.55125833333333,
+    "long": -25.067275,
+    "photo_url": "http://farm5.static.flickr.com/4405/37057941072_270c49f6b2.jpg",
+    "title": "",
+    "class": "sunscreen",
+    "prob": "0.227375790476799"
+  },
+  {
+    "lat": 31.59364166666667,
+    "long": -25.003794444444445,
+    "photo_url": "http://farm5.static.flickr.com/4338/36831963790_51f3228c95.jpg",
+    "title": "",
+    "class": "African_elephant",
+    "prob": "0.8540155291557312"
+  },
+  {
+    "lat": 31.59358888888889,
+    "long": -25.00383333333333,
+    "photo_url": "http://farm5.static.flickr.com/4434/37057929072_ffe00a4e2a.jpg",
+    "title": "",
+    "class": "tusker",
+    "prob": "0.8085740804672241"
+  },
+  {
+    "lat": 31.577513888888888,
+    "long": -24.98483611111111,
+    "photo_url": "http://farm5.static.flickr.com/4332/37039388346_40e2a68118.jpg",
+    "title": "",
+    "class": "macaque",
+    "prob": "0.3176085352897644"
+  },
+  {
+    "lat": 31.59360833333333,
+    "long": -25.003797222222214,
+    "photo_url": "http://farm5.static.flickr.com/4405/36831945790_f54519dca4.jpg",
+    "title": "",
+    "class": "tusker",
+    "prob": "0.7202619314193726"
+  },
+  {
+    "lat": 31.45774166666667,
+    "long": -25.102025,
+    "photo_url": "http://farm5.static.flickr.com/4427/37086974571_05a770698c.jpg",
+    "title": "",
+    "class": "gazelle",
+    "prob": "0.6957064270973206"
+  },
+  {
+    "lat": 31.59360833333333,
+    "long": -25.003797222222214,
+    "photo_url": "http://farm5.static.flickr.com/4398/37229989765_5d4b786291.jpg",
+    "title": "",
+    "class": "African_elephant",
+    "prob": "0.9530985951423645"
+  },
+  {
+    "lat": 31.601575,
+    "long": -24.99049722222223,
+    "photo_url": "http://farm5.static.flickr.com/4366/37039330846_8ed26ccda9.jpg",
+    "title": "",
+    "class": "African_crocodile",
+    "prob": "0.5979914665222168"
+  },
+  {
+    "lat": 31.577141666666666,
+    "long": -24.98488888888889,
+    "photo_url": "http://farm5.static.flickr.com/4379/37086958041_a214c6fe36.jpg",
+    "title": "",
+    "class": "lakeside",
+    "prob": "0.6485898494720459"
+  },
+  {
+    "lat": 31.57739166666667,
+    "long": -24.984852777777785,
+    "photo_url": "http://farm5.static.flickr.com/4346/36415211973_43ec105a4b.jpg",
+    "title": "",
+    "class": "lakeside",
+    "prob": "0.42686939239501953"
+  },
+  {
+    "lat": 31.801841666666668,
+    "long": -25.053697222222233,
+    "photo_url": "http://farm5.static.flickr.com/4357/36831881850_953e71a40f.jpg",
+    "title": "",
+    "class": "warthog",
+    "prob": "0.47480499744415283"
+  },
+  {
+    "lat": 31.577141666666666,
+    "long": -24.98488888888889,
+    "photo_url": "http://farm5.static.flickr.com/4367/36415209543_33be98a4a0.jpg",
+    "title": "",
+    "class": "lakeside",
+    "prob": "0.5952355265617371"
+  },
+  {
+    "lat": 31.45775833333333,
+    "long": -25.10205,
+    "photo_url": "http://farm5.static.flickr.com/4388/36415192213_219d68a977.jpg",
+    "title": "",
+    "class": "Arabian_camel",
+    "prob": "0.8160898089408875"
+  },
+  {
+    "lat": 31.49585833333333,
+    "long": -25.10750555555556,
+    "photo_url": "http://farm5.static.flickr.com/4427/37086941901_dc0aab3ba8.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.8393739461898804"
+  },
+  {
+    "lat": 31.57739166666667,
+    "long": -24.984852777777785,
+    "photo_url": "http://farm5.static.flickr.com/4435/36392305864_9c209b0611.jpg",
+    "title": "",
+    "class": "lakeside",
+    "prob": "0.4422051012516022"
+  },
+  {
+    "lat": 31.495822222222234,
+    "long": -25.10753888888889,
+    "photo_url": "http://farm5.static.flickr.com/4380/36392297304_e0f6ec4df4.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.8501129150390625"
+  },
+  {
+    "lat": 31.457711111111113,
+    "long": -25.102025,
+    "photo_url": "http://farm5.static.flickr.com/4367/37086912651_1d5c2abcf1.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.21132822334766388"
+  },
+  {
+    "lat": 31.45774166666667,
+    "long": -25.102025,
+    "photo_url": "http://farm5.static.flickr.com/4415/36831820280_cdc44f9c6d.jpg",
+    "title": "",
+    "class": "gazelle",
+    "prob": "0.6957064270973206"
+  },
+  {
+    "lat": 31.495822222222234,
+    "long": -25.10753888888889,
+    "photo_url": "http://farm5.static.flickr.com/4405/36831815080_df91af2e22.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.8501129150390625"
+  },
+  {
+    "lat": 31.49585833333333,
+    "long": -25.10750555555556,
+    "photo_url": "http://farm5.static.flickr.com/4368/36831809020_c7beacfe06.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.8393739461898804"
+  },
+  {
+    "lat": 31.457725,
+    "long": -25.102047222222232,
+    "photo_url": "http://farm5.static.flickr.com/4405/37057812172_444a699a6c.jpg",
+    "title": "",
+    "class": "Arabian_camel",
+    "prob": "0.7757043242454529"
+  },
+  {
+    "lat": 31.45774166666667,
+    "long": -25.102025,
+    "photo_url": "http://farm5.static.flickr.com/4415/37086859061_5fccbf4e78.jpg",
+    "title": "",
+    "class": "impala",
+    "prob": "0.2501634955406189"
+  },
+  {
+    "lat": 31.457711111111113,
+    "long": -25.102025,
+    "photo_url": "http://farm5.static.flickr.com/4422/36415121053_9f921f64b7.jpg",
+    "title": "",
+    "class": "cheetah",
+    "prob": "0.4266790747642517"
+  },
+  {
+    "lat": 31.45775833333333,
+    "long": -25.10205,
+    "photo_url": "http://farm5.static.flickr.com/4339/37039241526_3df5a49932.jpg",
+    "title": "",
+    "class": "Arabian_camel",
+    "prob": "0.8160898089408875"
+  },
+  {
+    "lat": 31.457725,
+    "long": -25.102047222222232,
+    "photo_url": "http://farm5.static.flickr.com/4371/36415107953_6695b7c5f9.jpg",
+    "title": "",
+    "class": "Arabian_camel",
+    "prob": "0.7757043242454529"
+  },
+  {
+    "lat": 31.23616666666667,
+    "long": -25.16686111111111,
+    "photo_url": "http://farm5.static.flickr.com/4376/36415107153_35f539a745.jpg",
+    "title": "",
+    "class": "apiary",
+    "prob": "0.6954490542411804"
+  },
+  {
+    "lat": 31.267861111111113,
+    "long": -25.17019722222223,
+    "photo_url": "http://farm5.static.flickr.com/4347/37229887895_16708db754.jpg",
+    "title": "",
+    "class": "zebra",
+    "prob": "0.9399150609970093"
+  },
+  {
+    "lat": 31.55120833333333,
+    "long": -25.067397222222233,
+    "photo_url": "http://farm5.static.flickr.com/4430/37039219726_9bfcf712cb.jpg",
+    "title": "",
+    "class": "valley",
+    "prob": "0.11113455146551132"
+  },
+  {
+    "lat": 31.55139722222223,
+    "long": -25.067055555555555,
+    "photo_url": "http://farm5.static.flickr.com/4356/37086777651_0a0b9be0dc.jpg",
+    "title": "",
+    "class": "Newfoundland",
+    "prob": "0.10976006835699081"
+  },
+  {
+    "lat": 31.551280555555557,
+    "long": -25.067275,
+    "photo_url": "http://farm5.static.flickr.com/4395/37086752171_5e527c4159.jpg",
+    "title": "",
+    "class": "sunglasses",
+    "prob": "0.3256136178970337"
+  },
+  {
+    "lat": 31.50670555555556,
+    "long": -25.49599166666667,
+    "photo_url": "http://farm5.static.flickr.com/4512/37288558741_30c7aebe35.jpg",
+    "title": "IMG_5408",
+    "class": "tobacco_shop",
+    "prob": "0.2240312397480011"
+  },
+  {
+    "lat": 31.506455555555554,
+    "long": -25.496247222222234,
+    "photo_url": "http://farm5.static.flickr.com/4471/37288553791_f7fd47c0cb.jpg",
+    "title": "IMG_5411",
+    "class": "bakery",
+    "prob": "0.4695027470588684"
+  },
+  {
+    "lat": 31.506305555555556,
+    "long": -25.49634444444445,
+    "photo_url": "http://farm5.static.flickr.com/4502/37288550411_e0503fdf6d.jpg",
+    "title": "IMG_5413",
+    "class": "tobacco_shop",
+    "prob": "0.2618310749530792"
+  },
+  {
+    "lat": 31.506322222222234,
+    "long": -25.496419444444445,
+    "photo_url": "http://farm5.static.flickr.com/4417/37241676846_c5922e4f53.jpg",
+    "title": "IMG_5414",
+    "class": "bakery",
+    "prob": "0.14701059460639954"
+  },
+  {
+    "lat": 31.506516666666666,
+    "long": -25.49651666666667,
+    "photo_url": "http://farm5.static.flickr.com/4511/36578609114_e36266cd48.jpg",
+    "title": "IMG_5415",
+    "class": "bakery",
+    "prob": "0.47302865982055664"
+  },
+  {
+    "lat": 31.50651388888889,
+    "long": -25.49657777777778,
+    "photo_url": "http://farm5.static.flickr.com/4514/36619004013_ca4cb15811.jpg",
+    "title": "IMG_5416",
+    "class": "bakery",
+    "prob": "0.5455827116966248"
+  },
+  {
+    "lat": 31.50641388888889,
+    "long": -25.496713888888888,
+    "photo_url": "http://farm5.static.flickr.com/4461/36578607104_2fd67aa56b.jpg",
+    "title": "IMG_5417",
+    "class": "grocery_store",
+    "prob": "0.3208477199077606"
+  },
+  {
+    "lat": 31.506397222222233,
+    "long": -25.49671666666667,
+    "photo_url": "http://farm5.static.flickr.com/4350/37241669546_06feb6f09b.jpg",
+    "title": "IMG_5418",
+    "class": "turnstile",
+    "prob": "0.9628327488899231"
+  },
+  {
+    "lat": 31.506297222222226,
+    "long": -25.496636111111112,
+    "photo_url": "http://farm5.static.flickr.com/4435/37241667236_edd35f23d0.jpg",
+    "title": "IMG_5419",
+    "class": "tobacco_shop",
+    "prob": "0.2783854901790619"
+  },
+  {
+    "lat": 31.506327777777766,
+    "long": -25.49665,
+    "photo_url": "http://farm5.static.flickr.com/4434/37241664936_94543ee018.jpg",
+    "title": "IMG_5420",
+    "class": "cinema",
+    "prob": "0.7019125819206238"
+  },
+  {
+    "lat": 31.50643333333333,
+    "long": -25.496758333333336,
+    "photo_url": "http://farm5.static.flickr.com/4484/37259232222_ec83f8284a.jpg",
+    "title": "IMG_5421",
+    "class": "sliding_door",
+    "prob": "0.5267047882080078"
+  },
+  {
+    "lat": 31.506186111111113,
+    "long": -25.49696388888889,
+    "photo_url": "http://farm5.static.flickr.com/4396/37241658306_3df41fa95d.jpg",
+    "title": "IMG_5424",
+    "class": "sliding_door",
+    "prob": "0.3698962330818176"
+  },
+  {
+    "lat": 31.506069444444453,
+    "long": -25.49702222222223,
+    "photo_url": "http://farm5.static.flickr.com/4453/37288525421_f4c970668e.jpg",
+    "title": "IMG_5426",
+    "class": "tobacco_shop",
+    "prob": "0.3607637882232666"
+  },
+  {
+    "lat": 31.50603611111111,
+    "long": -25.49704444444445,
+    "photo_url": "http://farm5.static.flickr.com/4437/37288524221_2118d54790.jpg",
+    "title": "IMG_5427",
+    "class": "shoe_shop",
+    "prob": "0.9691926836967468"
+  },
+  {
+    "lat": 31.505944444444445,
+    "long": -25.49709444444445,
+    "photo_url": "http://farm5.static.flickr.com/4488/36618978283_74105a2261.jpg",
+    "title": "IMG_5428",
+    "class": "bakery",
+    "prob": "0.3858206570148468"
+  },
+  {
+    "lat": 31.50581666666667,
+    "long": -25.49715833333333,
+    "photo_url": "http://farm5.static.flickr.com/4401/37431206265_197e453147.jpg",
+    "title": "IMG_5430",
+    "class": "shoe_shop",
+    "prob": "0.7627466917037964"
+  },
+  {
+    "lat": 31.505747222222233,
+    "long": -25.4972,
+    "photo_url": "http://farm5.static.flickr.com/4393/37032538250_d7dee6fe9a.jpg",
+    "title": "IMG_5431",
+    "class": "bakery",
+    "prob": "0.37199926376342773"
+  },
+  {
+    "lat": 31.505705555555554,
+    "long": -25.49722777777778,
+    "photo_url": "http://farm5.static.flickr.com/4381/37032537720_22cf1dbafe.jpg",
+    "title": "IMG_5432",
+    "class": "cash_machine",
+    "prob": "0.5976700186729431"
+  },
+  {
+    "lat": 31.50563055555555,
+    "long": -25.49726111111111,
+    "photo_url": "http://farm5.static.flickr.com/4428/36578588614_43075a5594.jpg",
+    "title": "IMG_5433",
+    "class": "soccer_ball",
+    "prob": "0.9270699620246887"
+  },
+  {
+    "lat": 31.505572222222234,
+    "long": -25.497330555555557,
+    "photo_url": "http://farm5.static.flickr.com/4450/36578587524_0214a03e21.jpg",
+    "title": "IMG_5434",
+    "class": "pier",
+    "prob": "0.10554974526166916"
+  },
+  {
+    "lat": 31.505841666666665,
+    "long": -25.49742777777778,
+    "photo_url": "http://farm5.static.flickr.com/4468/37241645456_2590a11991.jpg",
+    "title": "IMG_5435",
+    "class": "toyshop",
+    "prob": "0.1108386218547821"
+  },
+  {
+    "lat": 31.505805555555554,
+    "long": -25.49730555555556,
+    "photo_url": "http://farm5.static.flickr.com/4403/36618975033_cf6c4148a9.jpg",
+    "title": "IMG_5436",
+    "class": "bakery",
+    "prob": "0.8731533885002136"
+  },
+  {
+    "lat": 31.506097222222234,
+    "long": -25.49736111111111,
+    "photo_url": "http://farm5.static.flickr.com/4496/37288515891_0ca53e67a2.jpg",
+    "title": "IMG_5440",
+    "class": "bakery",
+    "prob": "0.6951836943626404"
+  },
+  {
+    "lat": 31.506177777777786,
+    "long": -25.497463888888888,
+    "photo_url": "http://farm5.static.flickr.com/4439/37288515031_84fa70a9b3.jpg",
+    "title": "IMG_5441",
+    "class": "bakery",
+    "prob": "0.41518935561180115"
+  },
+  {
+    "lat": 31.506352777777767,
+    "long": -25.49756666666667,
+    "photo_url": "http://farm5.static.flickr.com/4405/37288514301_ed3c1ea8d6.jpg",
+    "title": "IMG_5442",
+    "class": "bakery",
+    "prob": "0.17276620864868164"
+  },
+  {
+    "lat": 31.50641666666667,
+    "long": -25.497677777777767,
+    "photo_url": "http://farm5.static.flickr.com/4404/37259206282_3435ccc179.jpg",
+    "title": "IMG_5443",
+    "class": "tobacco_shop",
+    "prob": "0.6537225246429443"
+  },
+  {
+    "lat": 31.506466666666668,
+    "long": -25.497797222222232,
+    "photo_url": "http://farm5.static.flickr.com/4378/37259205642_eecc5a83a4.jpg",
+    "title": "IMG_5444",
+    "class": "tobacco_shop",
+    "prob": "0.37199869751930237"
+  },
+  {
+    "lat": 31.506497222222233,
+    "long": -25.49789166666667,
+    "photo_url": "http://farm5.static.flickr.com/4362/37259204952_b82b88322d.jpg",
+    "title": "IMG_5445",
+    "class": "tobacco_shop",
+    "prob": "0.34762412309646606"
+  },
+  {
+    "lat": 31.506577777777785,
+    "long": -25.497933333333336,
+    "photo_url": "http://farm5.static.flickr.com/4505/37259204292_d76a4cf54a.jpg",
+    "title": "IMG_5446",
+    "class": "tobacco_shop",
+    "prob": "0.5983319878578186"
+  },
+  {
+    "lat": 31.506694444444445,
+    "long": -25.49799444444445,
+    "photo_url": "http://farm5.static.flickr.com/4444/36618970633_21f5d05995.jpg",
+    "title": "IMG_5447",
+    "class": "bakery",
+    "prob": "0.2015840858221054"
+  },
+  {
+    "lat": 31.506691666666665,
+    "long": -25.49813333333333,
+    "photo_url": "http://farm5.static.flickr.com/4385/37431194595_02334df02e.jpg",
+    "title": "IMG_5448",
+    "class": "cinema",
+    "prob": "0.6624494194984436"
+  },
+  {
+    "lat": 31.5067,
+    "long": -25.49815833333333,
+    "photo_url": "http://farm5.static.flickr.com/4372/36618970123_dab3aaf727.jpg",
+    "title": "IMG_5449",
+    "class": "cinema",
+    "prob": "0.7912700772285461"
+  },
+  {
+    "lat": 31.506691666666665,
+    "long": -25.498166666666666,
+    "photo_url": "http://farm5.static.flickr.com/4431/37259201572_41c9b2769c.jpg",
+    "title": "IMG_5450",
+    "class": "cinema",
+    "prob": "0.8917544484138489"
+  },
+  {
+    "lat": 31.50668888888889,
+    "long": -25.498172222222234,
+    "photo_url": "http://farm5.static.flickr.com/4370/37259200822_8f444ab840.jpg",
+    "title": "IMG_5451",
+    "class": "patio",
+    "prob": "0.39268723130226135"
+  },
+  {
+    "lat": 31.50681388888889,
+    "long": -25.498172222222234,
+    "photo_url": "http://farm5.static.flickr.com/4407/36618969213_f98250e331.jpg",
+    "title": "IMG_5452",
+    "class": "dome",
+    "prob": "0.23209911584854126"
+  },
+  {
+    "lat": 31.506827777777787,
+    "long": -25.49816944444445,
+    "photo_url": "http://farm5.static.flickr.com/4401/37259199432_45fe5e2416.jpg",
+    "title": "IMG_5453",
+    "class": "limousine",
+    "prob": "0.1880132257938385"
+  },
+  {
+    "lat": 31.507377777777766,
+    "long": -25.497836111111113,
+    "photo_url": "http://farm5.static.flickr.com/4514/36618968393_ec50c2eac5.jpg",
+    "title": "IMG_5454",
+    "class": "prison",
+    "prob": "0.20788626372814178"
+  },
+  {
+    "lat": 31.50745833333333,
+    "long": -25.49783055555556,
+    "photo_url": "http://farm5.static.flickr.com/4504/37288507231_eeb5765bb7.jpg",
+    "title": "IMG_5455",
+    "class": "bakery",
+    "prob": "0.3218819200992584"
+  },
+  {
+    "lat": 31.507586111111113,
+    "long": -25.49786666666667,
+    "photo_url": "http://farm5.static.flickr.com/4382/37288506591_8a3b2c9a69.jpg",
+    "title": "IMG_5456",
+    "class": "tobacco_shop",
+    "prob": "0.14693057537078857"
+  },
+  {
+    "lat": 31.50780833333333,
+    "long": -25.4979,
+    "photo_url": "http://farm5.static.flickr.com/4353/36618966063_0ed06db5ba.jpg",
+    "title": "IMG_5458",
+    "class": "tobacco_shop",
+    "prob": "0.6055900454521179"
+  },
+  {
+    "lat": 31.50796666666667,
+    "long": -25.497933333333336,
+    "photo_url": "http://farm5.static.flickr.com/4413/36618965413_a4f67aa21a.jpg",
+    "title": "IMG_5459",
+    "class": "restaurant",
+    "prob": "0.22451971471309662"
+  },
+  {
+    "lat": 31.507897222222233,
+    "long": -25.49791666666667,
+    "photo_url": "http://farm5.static.flickr.com/4384/36618964713_c94e74199b.jpg",
+    "title": "IMG_5460",
+    "class": "cinema",
+    "prob": "0.18814492225646973"
+  },
+  {
+    "lat": 31.507397222222234,
+    "long": -25.497802777777785,
+    "photo_url": "http://farm5.static.flickr.com/4502/37241631146_2a63292cc0.jpg",
+    "title": "IMG_5461",
+    "class": "cinema",
+    "prob": "0.2914366126060486"
+  },
+  {
+    "lat": 31.50739166666667,
+    "long": -25.4978,
+    "photo_url": "http://farm5.static.flickr.com/4355/37241630686_aa638cea51.jpg",
+    "title": "IMG_5462",
+    "class": "tobacco_shop",
+    "prob": "0.6792528033256531"
+  },
+  {
+    "lat": 31.507313888888888,
+    "long": -25.497780555555558,
+    "photo_url": "http://farm5.static.flickr.com/4382/37032519470_81e22db967.jpg",
+    "title": "IMG_5463",
+    "class": "barbershop",
+    "prob": "0.4367298185825348"
+  },
+  {
+    "lat": 31.50718611111111,
+    "long": -25.49765833333333,
+    "photo_url": "http://farm5.static.flickr.com/4416/37241629376_a8967baa25.jpg",
+    "title": "IMG_5464",
+    "class": "cash_machine",
+    "prob": "0.12728415429592133"
+  },
+  {
+    "lat": 31.507144444444453,
+    "long": -25.4975,
+    "photo_url": "http://farm5.static.flickr.com/4484/37288494691_5d59caa64b.jpg",
+    "title": "IMG_5465",
+    "class": "barbershop",
+    "prob": "0.05843856558203697"
+  },
+  {
+    "lat": 31.50708611111111,
+    "long": -25.497394444444453,
+    "photo_url": "http://farm5.static.flickr.com/4409/37288493171_57850dee54.jpg",
+    "title": "IMG_5466",
+    "class": "tobacco_shop",
+    "prob": "0.6763026714324951"
+  },
+  {
+    "lat": 31.50703888888889,
+    "long": -25.49731388888889,
+    "photo_url": "http://farm5.static.flickr.com/4352/37288491301_f6ca1ba2eb.jpg",
+    "title": "IMG_5467",
+    "class": "minibus",
+    "prob": "0.6644884347915649"
+  },
+  {
+    "lat": 31.50688611111111,
+    "long": -25.497038888888888,
+    "photo_url": "http://farm5.static.flickr.com/4426/36578569624_a899b8cd3d.jpg",
+    "title": "IMG_5468",
+    "class": "mosque",
+    "prob": "0.5371196269989014"
+  },
+  {
+    "lat": 31.506916666666665,
+    "long": -25.497027777777767,
+    "photo_url": "http://farm5.static.flickr.com/4365/37288487151_ff051e3443.jpg",
+    "title": "IMG_5469",
+    "class": "grocery_store",
+    "prob": "0.5797688961029053"
+  },
+  {
+    "lat": 31.509891666666668,
+    "long": -25.502419444444445,
+    "photo_url": "http://farm5.static.flickr.com/4408/37288380411_28cfdd46fe.jpg",
+    "title": "IMG_5472",
+    "class": "grocery_store",
+    "prob": "0.1664697825908661"
+  },
+  {
+    "lat": 31.508872222222234,
+    "long": -25.4987,
+    "photo_url": "http://farm5.static.flickr.com/4333/37288379641_ced94d0c6d.jpg",
+    "title": "IMG_5473",
+    "class": "cinema",
+    "prob": "0.2703210115432739"
+  },
+  {
+    "lat": 31.508888888888887,
+    "long": -25.498627777777767,
+    "photo_url": "http://farm5.static.flickr.com/4350/37288379011_3f48074b50.jpg",
+    "title": "IMG_5474",
+    "class": "cinema",
+    "prob": "0.5489410161972046"
+  },
+  {
+    "lat": 31.508975,
+    "long": -25.49870555555556,
+    "photo_url": "http://farm5.static.flickr.com/4503/37032450790_1933f29744.jpg",
+    "title": "IMG_5475",
+    "class": "car_mirror",
+    "prob": "0.1504882127046585"
+  },
+  {
+    "lat": 31.509,
+    "long": -25.498769444444445,
+    "photo_url": "http://farm5.static.flickr.com/4411/37259095432_75d4e2c3e3.jpg",
+    "title": "IMG_5476",
+    "class": "cinema",
+    "prob": "0.3258054256439209"
+  },
+  {
+    "lat": 31.50903611111111,
+    "long": -25.498877777777786,
+    "photo_url": "http://farm5.static.flickr.com/4445/37259094782_ea624b8cc4.jpg",
+    "title": "IMG_5477",
+    "class": "limousine",
+    "prob": "0.1956278681755066"
+  },
+  {
+    "lat": 31.50985833333333,
+    "long": -25.4986,
+    "photo_url": "http://farm5.static.flickr.com/4352/37032449420_6e79543a0d.jpg",
+    "title": "IMG_5478",
+    "class": "bakery",
+    "prob": "0.6473775506019592"
+  },
+  {
+    "lat": 31.50966666666667,
+    "long": -25.498105555555558,
+    "photo_url": "http://farm5.static.flickr.com/4346/37288374401_e18d53d596.jpg",
+    "title": "IMG_5480",
+    "class": "car_mirror",
+    "prob": "0.997789740562439"
+  },
+  {
+    "lat": 31.509816666666666,
+    "long": -25.49798333333333,
+    "photo_url": "http://farm5.static.flickr.com/4458/37259092972_e83a7876cf.jpg",
+    "title": "IMG_5481",
+    "class": "parking_meter",
+    "prob": "0.5795204639434814"
+  },
+  {
+    "lat": 31.51005,
+    "long": -25.49789722222223,
+    "photo_url": "http://farm5.static.flickr.com/4341/37431051055_fd73ffc461.jpg",
+    "title": "IMG_5482",
+    "class": "grocery_store",
+    "prob": "0.9122621417045593"
+  },
+  {
+    "lat": 31.510161111111113,
+    "long": -25.49785,
+    "photo_url": "http://farm5.static.flickr.com/4336/37032447330_905559fde0.jpg",
+    "title": "IMG_5483",
+    "class": "seat_belt",
+    "prob": "0.17840935289859772"
+  },
+  {
+    "lat": 31.510244444444453,
+    "long": -25.4978,
+    "photo_url": "http://farm5.static.flickr.com/4365/37032446970_a07afba6fe.jpg",
+    "title": "IMG_5484",
+    "class": "minivan",
+    "prob": "0.37498360872268677"
+  },
+  {
+    "lat": 31.510302777777767,
+    "long": -25.497763888888887,
+    "photo_url": "http://farm5.static.flickr.com/4387/37259091202_f3d70b0536.jpg",
+    "title": "IMG_5485",
+    "class": "car_mirror",
+    "prob": "0.11827239394187927"
+  },
+  {
+    "lat": 31.510361111111113,
+    "long": -25.49773055555556,
+    "photo_url": "http://farm5.static.flickr.com/4473/37288370141_fa0bfffcfe.jpg",
+    "title": "IMG_5486",
+    "class": "car_mirror",
+    "prob": "0.8983986973762512"
+  },
+  {
+    "lat": 31.51043611111111,
+    "long": -25.497697222222214,
+    "photo_url": "http://farm5.static.flickr.com/4477/37032444990_942207c45a.jpg",
+    "title": "IMG_5487",
+    "class": "thatch",
+    "prob": "0.5583633184432983"
+  },
+  {
+    "lat": 31.51073611111111,
+    "long": -25.49756111111111,
+    "photo_url": "http://farm5.static.flickr.com/4350/37288368491_a736af9f5f.jpg",
+    "title": "IMG_5488",
+    "class": "car_mirror",
+    "prob": "0.26472750306129456"
+  },
+  {
+    "lat": 31.511069444444445,
+    "long": -25.497430555555557,
+    "photo_url": "http://farm5.static.flickr.com/4506/37032443290_dfd8fa82df.jpg",
+    "title": "IMG_5489",
+    "class": "car_mirror",
+    "prob": "0.9201124310493469"
+  },
+  {
+    "lat": 31.51208055555556,
+    "long": -25.496972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4455/37431033405_932a86d2f1.jpg",
+    "title": "IMG_5492",
+    "class": "car_mirror",
+    "prob": "0.9966268539428711"
+  },
+  {
+    "lat": 31.51371111111111,
+    "long": -25.496447222222233,
+    "photo_url": "http://farm5.static.flickr.com/4365/37288358841_22a45dde66.jpg",
+    "title": "IMG_5493",
+    "class": "car_mirror",
+    "prob": "0.32665449380874634"
+  },
+  {
+    "lat": 31.509516666666666,
+    "long": -25.49981111111111,
+    "photo_url": "http://farm5.static.flickr.com/4413/37288357311_06593a2710.jpg",
+    "title": "IMG_5494",
+    "class": "limousine",
+    "prob": "0.9445488452911377"
+  },
+  {
+    "lat": 31.50955833333333,
+    "long": -25.49978611111111,
+    "photo_url": "http://farm5.static.flickr.com/4505/37431029785_099c03c779.jpg",
+    "title": "IMG_5495",
+    "class": "car_mirror",
+    "prob": "0.9450704455375671"
+  },
+  {
+    "lat": 31.509725,
+    "long": -25.49964166666667,
+    "photo_url": "http://farm5.static.flickr.com/4450/37288348901_6f8c5a1f72.jpg",
+    "title": "IMG_5497",
+    "class": "car_mirror",
+    "prob": "0.9299241900444031"
+  },
+  {
+    "lat": 31.508775,
+    "long": -25.49971111111111,
+    "photo_url": "http://farm5.static.flickr.com/4472/37431020865_fd809f97eb.jpg",
+    "title": "IMG_5498",
+    "class": "prison",
+    "prob": "0.2937055230140686"
+  },
+  {
+    "lat": 31.51919444444445,
+    "long": -25.10159722222223,
+    "photo_url": "http://farm5.static.flickr.com/4473/37236803216_a16a41cf54.jpg",
+    "title": "Leopard playing with a car tyre",
+    "class": "leopard",
+    "prob": "0.8153930306434631"
+  },
+  {
+    "lat": 31.514447222222234,
+    "long": -25.104355555555557,
+    "photo_url": "http://farm5.static.flickr.com/4471/36573839394_153ff62432.jpg",
+    "title": "Leopard playing with a car tyre",
+    "class": "cheetah",
+    "prob": "0.6774879097938538"
+  },
+  {
+    "lat": 31.51408888888889,
+    "long": -25.104563888888887,
+    "photo_url": "http://farm5.static.flickr.com/4453/37425961205_2077cde973.jpg",
+    "title": "Leopard playing with a car tyre",
+    "class": "cheetah",
+    "prob": "0.8452801704406738"
+  },
+  {
+    "lat": 31.207647222222214,
+    "long": -25.116905555555554,
+    "photo_url": "http://farm5.static.flickr.com/4437/36573593104_7c1d5b00ac.jpg",
+    "title": "Bird (?)",
+    "class": "bustard",
+    "prob": "0.961219310760498"
+  },
+  {
+    "lat": 31.784055555555558,
+    "long": -24.45363888888889,
+    "photo_url": "http://farm5.static.flickr.com/4357/37344369895_e7a2fcebf8.jpg",
+    "title": "A buffalo",
+    "class": "water_buffalo",
+    "prob": "0.6314888596534729"
+  },
+  {
+    "lat": 31.78394166666667,
+    "long": -24.451994444444445,
+    "photo_url": "http://farm5.static.flickr.com/4362/37344364585_34c248feea.jpg",
+    "title": "Buffaloes at rest",
+    "class": "water_buffalo",
+    "prob": "0.7235150933265686"
+  },
+  {
+    "lat": 31.749533333333336,
+    "long": -24.30828888888889,
+    "photo_url": "http://farm5.static.flickr.com/4362/37153269096_9992895c66.jpg",
+    "title": "Kudu's lunch",
+    "class": "hartebeest",
+    "prob": "0.4960991144180298"
+  },
+  {
+    "lat": 31.731244444444442,
+    "long": -24.27076944444445,
+    "photo_url": "http://farm5.static.flickr.com/4350/37344324895_ca9fa6862c.jpg",
+    "title": "Keep left",
+    "class": "ostrich",
+    "prob": "0.749935507774353"
+  },
+  {
+    "lat": 31.719630555555554,
+    "long": -24.21441388888889,
+    "photo_url": "http://farm5.static.flickr.com/4416/36452462814_f5dd686b4b.jpg",
+    "title": "A cheetah in the Kruger park",
+    "class": "cheetah",
+    "prob": "0.9592498540878296"
+  },
+  {
+    "lat": 31.719586111111113,
+    "long": -24.21346388888889,
+    "photo_url": "http://farm5.static.flickr.com/4370/37279865575_08e2e01003.jpg",
+    "title": "A cheetah encountered on the street",
+    "class": "cheetah",
+    "prob": "0.969186007976532"
+  },
+  {
+    "lat": 31.71958333333333,
+    "long": -24.213441666666665,
+    "photo_url": "http://farm5.static.flickr.com/4434/36464789513_916fbcf030.jpg",
+    "title": "A cheetah encountered on the street",
+    "class": "cheetah",
+    "prob": "0.9637384414672852"
+  },
+  {
+    "lat": 31.71911944444444,
+    "long": -24.203688888888887,
+    "photo_url": "http://farm5.static.flickr.com/4383/37088949216_67243eabba.jpg",
+    "title": "Baby zebra",
+    "class": "zebra",
+    "prob": "0.961003839969635"
+  },
+  {
+    "lat": 31.719055555555553,
+    "long": -24.20233888888889,
+    "photo_url": "http://farm5.static.flickr.com/4348/37279770855_3764f6e37c.jpg",
+    "title": "Zebra",
+    "class": "zebra",
+    "prob": "0.9344815611839294"
+  },
+  {
+    "lat": 31.717730555555555,
+    "long": -24.17128611111111,
+    "photo_url": "http://farm5.static.flickr.com/4425/37088640986_62684eccc8.jpg",
+    "title": "Steenbok",
+    "class": "impala",
+    "prob": "0.761555552482605"
+  },
+  {
+    "lat": 31.729697222222214,
+    "long": -24.05251388888889,
+    "photo_url": "http://farm5.static.flickr.com/4396/36453554913_f3e6c24fc3.jpg",
+    "title": "Waterbuck on the Letaba river",
+    "class": "impala",
+    "prob": "0.6686722040176392"
+  },
+  {
+    "lat": 31.477405555555553,
+    "long": -23.7956,
+    "photo_url": "http://farm5.static.flickr.com/4388/37260038025_c74cf16335.jpg",
+    "title": "Herd of buffaloes",
+    "class": "zebra",
+    "prob": "0.7249553203582764"
+  },
+  {
+    "lat": 31.287294444444445,
+    "long": -23.869152777777767,
+    "photo_url": "http://farm5.static.flickr.com/4430/37072772182_87915e21af.jpg",
+    "title": "Buffalo",
+    "class": "water_buffalo",
+    "prob": "0.9090290665626526"
+  },
+  {
+    "lat": 31.267916666666665,
+    "long": -25.17018611111111,
+    "photo_url": "http://farm5.static.flickr.com/4352/36415013043_156e8ceeee.jpg",
+    "title": "",
+    "class": "zebra",
+    "prob": "0.9380620121955872"
+  },
+  {
+    "lat": 31.73613888888889,
+    "long": -24.050994444444445,
+    "photo_url": "http://farm5.static.flickr.com/4384/36388659574_220e701523.jpg",
+    "title": "Spotted Hyena",
+    "class": "hyena",
+    "prob": "0.8376371264457703"
+  },
+  {
+    "lat": 31.73613888888889,
+    "long": -24.050994444444445,
+    "photo_url": "http://farm5.static.flickr.com/4401/36812253670_eb26b605a4.jpg",
+    "title": "Spotted Hyena",
+    "class": "hyena",
+    "prob": "0.8516491055488586"
+  },
+  {
+    "lat": 31.74968333333333,
+    "long": -23.953866666666666,
+    "photo_url": "http://farm5.static.flickr.com/4409/37190883825_eee87ae728.jpg",
+    "title": "Black-bellied Bustard",
+    "class": "bustard",
+    "prob": "0.9760643243789673"
+  },
+  {
+    "lat": 31.604519444444445,
+    "long": -23.850352777777786,
+    "photo_url": "http://farm5.static.flickr.com/4350/37028902301_4afc39efc7.jpg",
+    "title": "Hippopotamus",
+    "class": "hippopotamus",
+    "prob": "0.8848073482513428"
+  },
+  {
+    "lat": 31.34735555555556,
+    "long": -25.11396944444445,
+    "photo_url": "http://farm5.static.flickr.com/4397/36772385050_b82ef9c4ee.jpg",
+    "title": "20170809-_MRA4637",
+    "class": "zebra",
+    "prob": "0.9394301772117615"
+  },
+  {
+    "lat": 31.378538888888887,
+    "long": -25.10761666666667,
+    "photo_url": "http://farm5.static.flickr.com/4363/36355811883_5b2fa037c7.jpg",
+    "title": "20170809-_MRA4648",
+    "class": "bustard",
+    "prob": "0.12168654799461365"
+  },
+  {
+    "lat": 31.54978611111111,
+    "long": -25.068930555555557,
+    "photo_url": "http://farm5.static.flickr.com/4379/37027881761_8a90939867.jpg",
+    "title": "20170809-_MRA4652",
+    "class": "guenon",
+    "prob": "0.8941256403923035"
+  },
+  {
+    "lat": 31.589905555555553,
+    "long": -25.04706388888889,
+    "photo_url": "http://farm5.static.flickr.com/4381/36355802423_6f8882f92d.jpg",
+    "title": "20170809-_MRA4670",
+    "class": "gazelle",
+    "prob": "0.4209628403186798"
+  },
+  {
+    "lat": 31.592597222222214,
+    "long": -25.05126666666667,
+    "photo_url": "http://farm5.static.flickr.com/4409/36980488456_4b29caaa43.jpg",
+    "title": "20170809-_MRA4672",
+    "class": "langur",
+    "prob": "0.18505926430225372"
+  },
+  {
+    "lat": 31.61105555555556,
+    "long": -25.148877777777766,
+    "photo_url": "http://farm5.static.flickr.com/4364/36998508352_fcd778d5b5.jpg",
+    "title": "20170809-_MRA4684",
+    "class": "bee_eater",
+    "prob": "0.9526363015174866"
+  },
+  {
+    "lat": 31.623405555555557,
+    "long": -25.279141666666664,
+    "photo_url": "http://farm5.static.flickr.com/4362/36998507112_5f1b4ba1aa.jpg",
+    "title": "20170809-_MRA4690",
+    "class": "African_crocodile",
+    "prob": "0.9711799621582031"
+  },
+  {
+    "lat": 31.614252777777786,
+    "long": -25.28980277777778,
+    "photo_url": "http://farm5.static.flickr.com/4356/36998505702_4d9075beb8.jpg",
+    "title": "20170809-_MRA4694",
+    "class": "hornbill",
+    "prob": "0.9807802438735962"
+  },
+  {
+    "lat": 31.532091666666666,
+    "long": -25.286405555555557,
+    "photo_url": "http://farm5.static.flickr.com/4432/37169972915_d1b1cffd12.jpg",
+    "title": "20170809-_MRA4709",
+    "class": "hornbill",
+    "prob": "0.9921506643295288"
+  },
+  {
+    "lat": 31.532086111111113,
+    "long": -25.28646388888889,
+    "photo_url": "http://farm5.static.flickr.com/4382/36980472916_cb832ea135.jpg",
+    "title": "20170809-_MRA4715",
+    "class": "hornbill",
+    "prob": "0.9088299870491028"
+  },
+  {
+    "lat": 31.46626388888889,
+    "long": -25.252341666666666,
+    "photo_url": "http://farm5.static.flickr.com/4417/36333408424_0f595ce591.jpg",
+    "title": "20170809-_MRA4729",
+    "class": "African_elephant",
+    "prob": "0.5519189834594727"
+  },
+  {
+    "lat": 31.466277777777766,
+    "long": -25.252305555555555,
+    "photo_url": "http://farm5.static.flickr.com/4388/36355792223_698d5847da.jpg",
+    "title": "20170809-_MRA4737",
+    "class": "African_elephant",
+    "prob": "0.9524244070053101"
+  },
+  {
+    "lat": 31.387911111111112,
+    "long": -24.54370833333333,
+    "photo_url": "http://farm5.static.flickr.com/4342/36355766883_32ac399d2b.jpg",
+    "title": "20170810-_MRA4800",
+    "class": "water_buffalo",
+    "prob": "0.7660906910896301"
+  },
+  {
+    "lat": 31.463066666666666,
+    "long": -24.592294444444452,
+    "photo_url": "http://farm5.static.flickr.com/4393/37027851421_db96b33c91.jpg",
+    "title": "20170810-_MRA4814",
+    "class": "bustard",
+    "prob": "0.44926315546035767"
+  },
+  {
+    "lat": 31.464852777777786,
+    "long": -24.59171944444445,
+    "photo_url": "http://farm5.static.flickr.com/4349/36772328790_d472d11b94.jpg",
+    "title": "20170810-_MRA4858",
+    "class": "lion",
+    "prob": "0.984137237071991"
+  },
+  {
+    "lat": 31.464852777777786,
+    "long": -24.59171944444445,
+    "photo_url": "http://farm5.static.flickr.com/4374/37027847791_2def20c855.jpg",
+    "title": "20170810-_MRA4865",
+    "class": "lion",
+    "prob": "0.9509618282318115"
+  },
+  {
+    "lat": 31.464852777777786,
+    "long": -24.591702777777765,
+    "photo_url": "http://farm5.static.flickr.com/4340/37169947885_337864e571.jpg",
+    "title": "20170810-_MRA4896",
+    "class": "lion",
+    "prob": "0.9701768159866333"
+  },
+  {
+    "lat": 31.464852777777786,
+    "long": -24.591702777777765,
+    "photo_url": "http://farm5.static.flickr.com/4376/37169946075_94f0880d33.jpg",
+    "title": "20170810-_MRA4900",
+    "class": "lion",
+    "prob": "0.9874932765960693"
+  },
+  {
+    "lat": 31.464852777777786,
+    "long": -24.591697222222226,
+    "photo_url": "http://farm5.static.flickr.com/4364/36333375264_1cb6fe409f.jpg",
+    "title": "20170810-_MRA4914",
+    "class": "lion",
+    "prob": "0.9973633885383606"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.59166388888889,
+    "photo_url": "http://farm5.static.flickr.com/4366/36998453002_73cdfce505.jpg",
+    "title": "20170810-_MRA4941",
+    "class": "lion",
+    "prob": "0.9152177572250366"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.591647222222214,
+    "photo_url": "http://farm5.static.flickr.com/4338/36333369854_773a0cb4b8.jpg",
+    "title": "20170810-_MRA4958",
+    "class": "lion",
+    "prob": "0.9100725054740906"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.59164444444445,
+    "photo_url": "http://farm5.static.flickr.com/4385/36772301350_e0182082e7.jpg",
+    "title": "20170810-_MRA4982-Edit",
+    "class": "lion",
+    "prob": "0.916746199131012"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.591641666666664,
+    "photo_url": "http://farm5.static.flickr.com/4424/36998432802_846d56f941.jpg",
+    "title": "20170810-_MRA4985",
+    "class": "lion",
+    "prob": "0.9027532935142517"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.591630555555554,
+    "photo_url": "http://farm5.static.flickr.com/4374/36998427872_419ef8e7b5.jpg",
+    "title": "20170810-_MRA4991",
+    "class": "lion",
+    "prob": "0.9702289700508118"
+  },
+  {
+    "lat": 31.46485,
+    "long": -24.591630555555554,
+    "photo_url": "http://farm5.static.flickr.com/4429/37027818761_c8e8ba17e2.jpg",
+    "title": "20170810-_MRA4991-Edit",
+    "class": "lion",
+    "prob": "0.8650878667831421"
+  },
+  {
+    "lat": 31.464830555555555,
+    "long": -24.591738888888887,
+    "photo_url": "http://farm5.static.flickr.com/4341/36980428896_fbf7e292cb.jpg",
+    "title": "20170810-_MRA5007",
+    "class": "lion",
+    "prob": "0.92840975522995"
+  },
+  {
+    "lat": 31.47693888888889,
+    "long": -24.594569444444442,
+    "photo_url": "http://farm5.static.flickr.com/4431/36772290230_39735b527e.jpg",
+    "title": "20170810-_MRA5017",
+    "class": "rapeseed",
+    "prob": "0.9081244468688965"
+  },
+  {
+    "lat": 31.477663888888888,
+    "long": -24.594725,
+    "photo_url": "http://farm5.static.flickr.com/4338/36980425666_e11ee84405.jpg",
+    "title": "20170810-_MRA5033",
+    "class": "African_elephant",
+    "prob": "0.558426022529602"
+  },
+  {
+    "lat": 31.494072222222233,
+    "long": -24.59241111111111,
+    "photo_url": "http://farm5.static.flickr.com/4346/36772271760_9679b1b2bc.jpg",
+    "title": "20170810-DSC_0476",
+    "class": "lakeside",
+    "prob": "0.06064038723707199"
+  },
+  {
+    "lat": 31.37710555555556,
+    "long": -24.52743611111111,
+    "photo_url": "http://farm5.static.flickr.com/4411/36998397372_3bc6f33e1e.jpg",
+    "title": "20170811-_MRA5041",
+    "class": "lakeside",
+    "prob": "0.8150233626365662"
+  },
+  {
+    "lat": 31.390322222222213,
+    "long": -24.481872222222233,
+    "photo_url": "http://farm5.static.flickr.com/4441/36980394926_d3d27d0dd6.jpg",
+    "title": "20170811-_MRA5044",
+    "class": "rapeseed",
+    "prob": "0.2602819800376892"
+  },
+  {
+    "lat": 31.390338888888888,
+    "long": -24.481713888888887,
+    "photo_url": "http://farm5.static.flickr.com/4408/37169884545_b1043253f4.jpg",
+    "title": "20170811-_MRA5045",
+    "class": "hornbill",
+    "prob": "0.9829257726669312"
+  },
+  {
+    "lat": 31.51789444444445,
+    "long": -24.41556111111111,
+    "photo_url": "http://farm5.static.flickr.com/4433/37169879465_23834e4c23.jpg",
+    "title": "20170811-_MRA5056",
+    "class": "spider_monkey",
+    "prob": "0.60408616065979"
+  },
+  {
+    "lat": 31.56365555555556,
+    "long": -24.41128333333333,
+    "photo_url": "http://farm5.static.flickr.com/4414/37169869575_371e5c268b.jpg",
+    "title": "20170811-_MRA5078",
+    "class": "cheetah",
+    "prob": "0.8937497138977051"
+  },
+  {
+    "lat": 31.563319444444453,
+    "long": -24.412252777777766,
+    "photo_url": "http://farm5.static.flickr.com/4366/36980382696_807437d72d.jpg",
+    "title": "20170811-_MRA5096",
+    "class": "cheetah",
+    "prob": "0.8077456951141357"
+  },
+  {
+    "lat": 31.587888888888887,
+    "long": -24.39993611111111,
+    "photo_url": "http://farm5.static.flickr.com/4332/37027772511_7daa08f44d.jpg",
+    "title": "20170811-_MRA5132",
+    "class": "African_elephant",
+    "prob": "0.871174693107605"
+  },
+  {
+    "lat": 31.58783055555556,
+    "long": -24.399977777777767,
+    "photo_url": "http://farm5.static.flickr.com/4336/36355670123_24f4eabfaf.jpg",
+    "title": "20170811-_MRA5140",
+    "class": "African_elephant",
+    "prob": "0.9062821865081787"
+  },
+  {
+    "lat": 31.58937222222222,
+    "long": -24.397522222222214,
+    "photo_url": "http://farm5.static.flickr.com/4347/36998377972_5ba6a0c5cc.jpg",
+    "title": "20170811-_MRA5151",
+    "class": "African_elephant",
+    "prob": "0.7514313459396362"
+  },
+  {
+    "lat": 31.58937222222222,
+    "long": -24.397522222222214,
+    "photo_url": "http://farm5.static.flickr.com/4415/36333309874_e52b270b26.jpg",
+    "title": "20170811-_MRA5155",
+    "class": "tusker",
+    "prob": "0.7797965407371521"
+  },
+  {
+    "lat": 31.58937222222222,
+    "long": -24.397522222222214,
+    "photo_url": "http://farm5.static.flickr.com/4403/37027752191_c5ae9c1b85.jpg",
+    "title": "20170811-_MRA5168",
+    "class": "African_elephant",
+    "prob": "0.7111497521400452"
+  },
+  {
+    "lat": 31.61428888888889,
+    "long": -24.38717777777777,
+    "photo_url": "http://farm5.static.flickr.com/4434/36333304644_3ea95f48d0.jpg",
+    "title": "20170811-_MRA5172",
+    "class": "hartebeest",
+    "prob": "0.5238099694252014"
+  },
+  {
+    "lat": 31.612372222222234,
+    "long": -24.411561111111112,
+    "photo_url": "http://farm5.static.flickr.com/4335/36772244860_09f62cb76d.jpg",
+    "title": "20170811-_MRA5176",
+    "class": "warthog",
+    "prob": "0.5819626450538635"
+  },
+  {
+    "lat": 31.642747222222226,
+    "long": -24.388547222222233,
+    "photo_url": "http://farm5.static.flickr.com/4374/36980356296_b9f57a8423.jpg",
+    "title": "20170811-_MRA5187",
+    "class": "impala",
+    "prob": "0.16675527393817902"
+  },
+  {
+    "lat": 31.614752777777767,
+    "long": -24.41995277777778,
+    "photo_url": "http://farm5.static.flickr.com/4373/36772239070_95273ed8ed.jpg",
+    "title": "20170811-_MRA5207-Edit",
+    "class": "leopard",
+    "prob": "0.8980822563171387"
+  },
+  {
+    "lat": 31.622197222222226,
+    "long": -24.44260833333333,
+    "photo_url": "http://farm5.static.flickr.com/4388/36980350716_37045b76ca.jpg",
+    "title": "20170811-_MRA5223",
+    "class": "African_elephant",
+    "prob": "0.6013190150260925"
+  },
+  {
+    "lat": 31.622197222222226,
+    "long": -24.44260833333333,
+    "photo_url": "http://farm5.static.flickr.com/4379/37027729581_ca664ee317.jpg",
+    "title": "20170811-_MRA5230",
+    "class": "African_elephant",
+    "prob": "0.4650801420211792"
+  },
+  {
+    "lat": 31.622197222222226,
+    "long": -24.44260833333333,
+    "photo_url": "http://farm5.static.flickr.com/4347/36980345256_4bf6a0682c.jpg",
+    "title": "20170811-_MRA5233",
+    "class": "tusker",
+    "prob": "0.7438100576400757"
+  },
+  {
+    "lat": 31.748072222222234,
+    "long": -24.487969444444445,
+    "photo_url": "http://farm5.static.flickr.com/4357/36772233900_e66b272f27.jpg",
+    "title": "20170811-_MRA5240",
+    "class": "impala",
+    "prob": "0.8888825178146362"
+  },
+  {
+    "lat": 31.768972222222214,
+    "long": -24.48013611111111,
+    "photo_url": "http://farm5.static.flickr.com/4438/37169841555_937d928e3d.jpg",
+    "title": "20170811-_MRA5257",
+    "class": "lion",
+    "prob": "0.9677006006240845"
+  },
+  {
+    "lat": 31.768972222222214,
+    "long": -24.480130555555554,
+    "photo_url": "http://farm5.static.flickr.com/4353/37169838845_42ba895bdd.jpg",
+    "title": "20170811-_MRA5275",
+    "class": "lion",
+    "prob": "0.7474781274795532"
+  },
+  {
+    "lat": 31.768963888888887,
+    "long": -24.48007222222222,
+    "photo_url": "http://farm5.static.flickr.com/4356/36980332656_6dd3b442e8.jpg",
+    "title": "20170811-_MRA5283",
+    "class": "lion",
+    "prob": "0.943638026714325"
+  },
+  {
+    "lat": 31.76918611111111,
+    "long": -24.480252777777768,
+    "photo_url": "http://farm5.static.flickr.com/4404/36998350222_b19162da32.jpg",
+    "title": "20170811-_MRA5291",
+    "class": "lion",
+    "prob": "0.9220291972160339"
+  },
+  {
+    "lat": 31.76915833333333,
+    "long": -24.480180555555553,
+    "photo_url": "http://farm5.static.flickr.com/4380/36333274764_d8016afb4a.jpg",
+    "title": "20170811-_MRA5293",
+    "class": "lion",
+    "prob": "0.9309238791465759"
+  },
+  {
+    "lat": 31.769172222222213,
+    "long": -24.480122222222214,
+    "photo_url": "http://farm5.static.flickr.com/4354/36998346792_e5df021ddb.jpg",
+    "title": "20170811-_MRA5298",
+    "class": "lion",
+    "prob": "0.3754292130470276"
+  },
+  {
+    "lat": 31.769180555555554,
+    "long": -24.480158333333332,
+    "photo_url": "http://farm5.static.flickr.com/4380/36333270764_869bec286b.jpg",
+    "title": "20170811-_MRA5302",
+    "class": "lion",
+    "prob": "0.9523118734359741"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4442/36333269154_4699240859.jpg",
+    "title": "20170811-_MRA5305",
+    "class": "lion",
+    "prob": "0.8725767731666565"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4422/36333266554_7d50597b9c.jpg",
+    "title": "20170811-_MRA5319",
+    "class": "warthog",
+    "prob": "0.9643509984016418"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4343/36772217470_7dd1ba9eff.jpg",
+    "title": "20170811-_MRA5321",
+    "class": "lion",
+    "prob": "0.40986552834510803"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4416/36980309766_8870d86d90.jpg",
+    "title": "20170811-_MRA5322",
+    "class": "lion",
+    "prob": "0.6127613186836243"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4435/37027689501_e9d4bd8af8.jpg",
+    "title": "20170811-_MRA5328",
+    "class": "lion",
+    "prob": "0.9509300589561462"
+  },
+  {
+    "lat": 31.65835277777777,
+    "long": -24.38891666666667,
+    "photo_url": "http://farm5.static.flickr.com/4341/36355624513_e33bfb03c3.jpg",
+    "title": "20170811-_MRA5332",
+    "class": "lion",
+    "prob": "0.8902447819709778"
+  },
+  {
+    "lat": 31.71733055555555,
+    "long": -24.39291111111111,
+    "photo_url": "http://farm5.static.flickr.com/4438/36772211830_303a4a4415.jpg",
+    "title": "20170811-_MRA5371",
+    "class": "tusker",
+    "prob": "0.6169016361236572"
+  },
+  {
+    "lat": 31.717341666666666,
+    "long": -24.392905555555554,
+    "photo_url": "http://farm5.static.flickr.com/4365/36980298366_481305b3d3.jpg",
+    "title": "20170811-_MRA5373",
+    "class": "African_elephant",
+    "prob": "0.9398501515388489"
+  },
+  {
+    "lat": 31.6189,
+    "long": -24.386727777777786,
+    "photo_url": "http://farm5.static.flickr.com/4437/37027680661_f332d75fb0.jpg",
+    "title": "20170811-_MRA5422",
+    "class": "ostrich",
+    "prob": "0.9869644045829773"
+  },
+  {
+    "lat": 31.6189,
+    "long": -24.386727777777786,
+    "photo_url": "http://farm5.static.flickr.com/4340/36772206820_56d7e066b0.jpg",
+    "title": "20170811-_MRA5427",
+    "class": "ostrich",
+    "prob": "0.9785476922988892"
+  },
+  {
+    "lat": 31.52372777777777,
+    "long": -24.40611388888889,
+    "photo_url": "http://farm5.static.flickr.com/4367/36333245684_13bc40a7c3.jpg",
+    "title": "20170811-_MRA5428",
+    "class": "baboon",
+    "prob": "0.1527101993560791"
+  },
+  {
+    "lat": 31.49936944444445,
+    "long": -24.43334444444445,
+    "photo_url": "http://farm5.static.flickr.com/4356/36980285116_7f141ffd72.jpg",
+    "title": "20170811-_MRA5441",
+    "class": "impala",
+    "prob": "0.5444736480712891"
+  },
+  {
+    "lat": 31.575716666666665,
+    "long": -23.852811111111112,
+    "photo_url": "http://farm5.static.flickr.com/4440/36328672933_01c4b640e6.jpg",
+    "title": "Yellow-billed Kite",
+    "class": "kite",
+    "prob": "0.9807353019714355"
+  },
+  {
+    "lat": 31.38443333333333,
+    "long": -24.18409722222223,
+    "photo_url": "http://farm5.static.flickr.com/4403/37137979385_3f9c75cfd3.jpg",
+    "title": "Us",
+    "class": "cowboy_hat",
+    "prob": "0.28218525648117065"
+  },
+  {
+    "lat": 31.384530555555553,
+    "long": -24.18388333333333,
+    "photo_url": "http://farm5.static.flickr.com/4382/36740220920_904b8640e8.jpg",
+    "title": "Breakfast in the Motswari",
+    "class": "restaurant",
+    "prob": "0.7668071985244751"
+  },
+  {
+    "lat": 31.35725,
+    "long": -24.22019444444444,
+    "photo_url": "http://farm5.static.flickr.com/4337/37121037215_300afcd43c.jpg",
+    "title": "The giraffe's spa",
+    "class": "leopard",
+    "prob": "0.04190557450056076"
+  },
+  {
+    "lat": 31.357197222222233,
+    "long": -24.22024722222222,
+    "photo_url": "http://farm5.static.flickr.com/4437/36308379413_a4bcd34fb2.jpg",
+    "title": "Giraffe with oxpeckers",
+    "class": "hartebeest",
+    "prob": "0.128069207072258"
+  },
+  {
+    "lat": 31.35708888888889,
+    "long": -24.220366666666663,
+    "photo_url": "http://farm5.static.flickr.com/4380/36932478126_f465d8c900.jpg",
+    "title": "The cleaning company",
+    "class": "velvet",
+    "prob": "0.12546411156654358"
+  },
+  {
+    "lat": 31.34044444444445,
+    "long": -24.23324444444444,
+    "photo_url": "http://farm5.static.flickr.com/4417/36979326581_60329fab29.jpg",
+    "title": "Wild dog",
+    "class": "African_hunting_dog",
+    "prob": "0.8738918900489807"
+  },
+  {
+    "lat": 31.34116388888889,
+    "long": -24.23299444444445,
+    "photo_url": "http://farm5.static.flickr.com/4335/36950507232_642064f7ae.jpg",
+    "title": "Wild dog litter",
+    "class": "African_hunting_dog",
+    "prob": "0.9626427292823792"
+  },
+  {
+    "lat": 31.34429444444445,
+    "long": -24.231886111111113,
+    "photo_url": "http://farm5.static.flickr.com/4356/36285199824_df413c4681.jpg",
+    "title": "Wild dog",
+    "class": "African_hunting_dog",
+    "prob": "0.8363677859306335"
+  },
+  {
+    "lat": 31.34941388888889,
+    "long": -24.23007777777777,
+    "photo_url": "http://farm5.static.flickr.com/4343/36979200501_da491b1840.jpg",
+    "title": "Wild dogs",
+    "class": "African_hunting_dog",
+    "prob": "0.9376856088638306"
+  },
+  {
+    "lat": 31.349819444444442,
+    "long": -24.22993333333333,
+    "photo_url": "http://farm5.static.flickr.com/4401/36979164741_bacfcb70de.jpg",
+    "title": "Wild dogs feeding the pups",
+    "class": "African_hunting_dog",
+    "prob": "0.989249587059021"
+  },
+  {
+    "lat": 31.35003888888889,
+    "long": -24.22985555555555,
+    "photo_url": "http://farm5.static.flickr.com/4412/36979130181_910855b754.jpg",
+    "title": "Wild dogs feeding the pups",
+    "class": "African_hunting_dog",
+    "prob": "0.8435386419296265"
+  },
+  {
+    "lat": 31.579077777777766,
+    "long": -23.83810833333333,
+    "photo_url": "http://farm5.static.flickr.com/4340/36723043200_6961bec0e0.jpg",
+    "title": "Lilac-breasted Roller",
+    "class": "coucal",
+    "prob": "0.39574146270751953"
+  },
+  {
+    "lat": 31.613169444444445,
+    "long": -23.838630555555554,
+    "photo_url": "http://farm5.static.flickr.com/4395/36978249311_a9d6fee968.jpg",
+    "title": "Klipspringer",
+    "class": "gazelle",
+    "prob": "0.4884660243988037"
+  },
+  {
+    "lat": 31.379261111111113,
+    "long": -24.205216666666665,
+    "photo_url": "http://farm5.static.flickr.com/4399/36946582632_003c036e90.jpg",
+    "title": "The old giraffe",
+    "class": "Arabian_camel",
+    "prob": "0.6119830012321472"
+  },
+  {
+    "lat": 31.379855555555555,
+    "long": -24.197197222222233,
+    "photo_url": "http://farm5.static.flickr.com/4368/36304187393_61965b87df.jpg",
+    "title": "Crocodile",
+    "class": "Komodo_dragon",
+    "prob": "0.12264365702867508"
+  },
+  {
+    "lat": 31.380097222222233,
+    "long": -24.197247222222234,
+    "photo_url": "http://farm5.static.flickr.com/4351/36720071890_c0b279d517.jpg",
+    "title": "Hippo",
+    "class": "lakeside",
+    "prob": "0.3599044680595398"
+  },
+  {
+    "lat": 31.38118055555556,
+    "long": -24.197122222222234,
+    "photo_url": "http://farm5.static.flickr.com/4386/36975240741_a5479fb586.jpg",
+    "title": "Hippo",
+    "class": "goose",
+    "prob": "0.20996317267417908"
+  },
+  {
+    "lat": 31.588230555555555,
+    "long": -24.988775,
+    "photo_url": "http://farm5.static.flickr.com/4335/36693625150_edb814da73.jpg",
+    "title": "Dinner at House no. 1",
+    "class": "spatula",
+    "prob": "0.28712987899780273"
+  },
+  {
+    "lat": 31.588230555555555,
+    "long": -24.988775,
+    "photo_url": "http://farm5.static.flickr.com/4332/36693624250_9aeb01b206.jpg",
+    "title": "Dinner at House #1",
+    "class": "dining_table",
+    "prob": "0.3529931902885437"
+  },
+  {
+    "lat": 31.588205555555554,
+    "long": -24.98875,
+    "photo_url": "http://farm5.static.flickr.com/4359/36693623060_9e4b021fee.jpg",
+    "title": "Bob, Carolyn, Sandy, Dick, Judith, Inger, Mike, Laurence - Sundowners at Skukuza no. 1",
+    "class": "unicycle",
+    "prob": "0.18031767010688782"
+  },
+  {
+    "lat": 31.58826388888889,
+    "long": -24.98881111111111,
+    "photo_url": "http://farm5.static.flickr.com/4391/36693619550_9db5338b5a.jpg",
+    "title": "Sundowners",
+    "class": "park_bench",
+    "prob": "0.5429651737213135"
+  },
+  {
+    "lat": 31.588316666666664,
+    "long": -24.98884166666667,
+    "photo_url": "http://farm5.static.flickr.com/4358/36693618800_0425bf5192.jpg",
+    "title": "Sundowners",
+    "class": "patio",
+    "prob": "0.9303200244903564"
+  },
+  {
+    "lat": 31.58821944444445,
+    "long": -24.98879722222223,
+    "photo_url": "http://farm5.static.flickr.com/4358/37089934565_31b1568a48.jpg",
+    "title": "Sundowners",
+    "class": "goblet",
+    "prob": "0.33363065123558044"
+  },
+  {
+    "lat": 31.588694444444442,
+    "long": -24.989102777777767,
+    "photo_url": "http://farm5.static.flickr.com/4440/37089934475_d4300508bd.jpg",
+    "title": "View from Skukuza #1",
+    "class": "lakeside",
+    "prob": "0.4714387357234955"
+  },
+  {
+    "lat": 31.58873611111111,
+    "long": -24.98911944444445,
+    "photo_url": "http://farm5.static.flickr.com/4359/37089933675_49d1def46f.jpg",
+    "title": "View from Skukuza #1",
+    "class": "valley",
+    "prob": "0.16061536967754364"
+  },
+  {
+    "lat": 31.588725,
+    "long": -24.989130555555555,
+    "photo_url": "http://farm5.static.flickr.com/4378/37089932265_24153b3eb1.jpg",
+    "title": "View from Skukuza #1",
+    "class": "sandbar",
+    "prob": "0.9414284825325012"
+  },
+  {
+    "lat": 31.58856111111111,
+    "long": -24.995458333333332,
+    "photo_url": "http://farm5.static.flickr.com/4406/37089931805_c259179fe6.jpg",
+    "title": "OTS training center",
+    "class": "library",
+    "prob": "0.2793109714984894"
+  },
+  {
+    "lat": 31.58880555555556,
+    "long": -24.99575,
+    "photo_url": "http://farm5.static.flickr.com/4382/36919668602_d2acba3cc3.jpg",
+    "title": "OTS training center",
+    "class": "library",
+    "prob": "0.9328364133834839"
+  },
+  {
+    "lat": 31.58843611111111,
+    "long": -24.99561388888889,
+    "photo_url": "http://farm5.static.flickr.com/4354/36919667302_c31fe1d300.jpg",
+    "title": "OTS training center",
+    "class": "rain_barrel",
+    "prob": "0.3234172761440277"
+  },
+  {
+    "lat": 31.58840833333333,
+    "long": -24.99561388888889,
+    "photo_url": "http://farm5.static.flickr.com/4373/36919666622_806986d5c4.jpg",
+    "title": "OTS training center",
+    "class": "caldron",
+    "prob": "0.44471386075019836"
+  },
+  {
+    "lat": 31.588427777777767,
+    "long": -24.995627777777766,
+    "photo_url": "http://farm5.static.flickr.com/4418/36919665202_61d3bca44c.jpg",
+    "title": "OTS training center",
+    "class": "moving_van",
+    "prob": "0.2867024540901184"
+  },
+  {
+    "lat": 31.58829444444445,
+    "long": -24.99561666666667,
+    "photo_url": "http://farm5.static.flickr.com/4333/36919664792_1deacdb2e0.jpg",
+    "title": "OTS training center",
+    "class": "agama",
+    "prob": "0.08786346018314362"
+  },
+  {
+    "lat": 31.58826388888889,
+    "long": -24.995675,
+    "photo_url": "http://farm5.static.flickr.com/4423/36919662392_8a25ab9883.jpg",
+    "title": "OTS training center",
+    "class": "waffle_iron",
+    "prob": "0.8906168341636658"
+  },
+  {
+    "lat": 31.58825555555556,
+    "long": -24.995622222222234,
+    "photo_url": "http://farm5.static.flickr.com/4381/36919661502_378622d112.jpg",
+    "title": "OTS training center",
+    "class": "solar_dish",
+    "prob": "0.8245996236801147"
+  },
+  {
+    "lat": 31.578211111111113,
+    "long": -24.978344444444442,
+    "photo_url": "http://farm5.static.flickr.com/4375/36919660252_20f167af61.jpg",
+    "title": "Rhino relocation center",
+    "class": "warthog",
+    "prob": "0.9512487053871155"
+  },
+  {
+    "lat": 31.57821388888889,
+    "long": -24.97833888888889,
+    "photo_url": "http://farm5.static.flickr.com/4375/36919659772_d7b02ef65b.jpg",
+    "title": "Rhino relocation center",
+    "class": "warthog",
+    "prob": "0.7086701393127441"
+  },
+  {
+    "lat": 31.578211111111113,
+    "long": -24.97835833333333,
+    "photo_url": "http://farm5.static.flickr.com/4364/36919659012_e472c8cdd9.jpg",
+    "title": "Rhino relocation center",
+    "class": "warthog",
+    "prob": "0.8429647088050842"
+  },
+  {
+    "lat": 31.578325,
+    "long": -24.978825,
+    "photo_url": "http://farm5.static.flickr.com/4424/36919556942_f62beaf8e9.jpg",
+    "title": "Rhino relocation center",
+    "class": "water_buffalo",
+    "prob": "0.5258271098136902"
+  },
+  {
+    "lat": 31.578394444444445,
+    "long": -24.978977777777768,
+    "photo_url": "http://farm5.static.flickr.com/4372/36276643933_1a028c46a7.jpg",
+    "title": "Rhino relocation center",
+    "class": "hog",
+    "prob": "0.5994492769241333"
+  },
+  {
+    "lat": 31.578397222222232,
+    "long": -24.978980555555548,
+    "photo_url": "http://farm5.static.flickr.com/4333/36276642653_53f61d2f00.jpg",
+    "title": "Rhino relocation center",
+    "class": "warthog",
+    "prob": "0.16131314635276794"
+  },
+  {
+    "lat": 31.57840833333333,
+    "long": -24.979191666666665,
+    "photo_url": "http://farm5.static.flickr.com/4373/36276642163_72cbd36e8c.jpg",
+    "title": "Rhino relocation center",
+    "class": "military_uniform",
+    "prob": "0.18441112339496613"
+  },
+  {
+    "lat": 31.57845833333333,
+    "long": -24.97921944444445,
+    "photo_url": "http://farm5.static.flickr.com/4332/36276641263_9f1f119522.jpg",
+    "title": "Rhino relocation center",
+    "class": "hippopotamus",
+    "prob": "0.49158111214637756"
+  },
+  {
+    "lat": 31.57845,
+    "long": -24.97922222222222,
+    "photo_url": "http://farm5.static.flickr.com/4429/36276640503_0f0c6c192c.jpg",
+    "title": "Rhino relocation center",
+    "class": "triceratops",
+    "prob": "0.34773385524749756"
+  },
+  {
+    "lat": 31.57844444444445,
+    "long": -24.9792,
+    "photo_url": "http://farm5.static.flickr.com/4333/36254685554_97a8b7b1c2.jpg",
+    "title": "Rhino relocation center",
+    "class": "Band_Aid",
+    "prob": "0.1379357874393463"
+  },
+  {
+    "lat": 31.57843055555556,
+    "long": -24.979211111111113,
+    "photo_url": "http://farm5.static.flickr.com/4407/36254675934_101e926ee0.jpg",
+    "title": "Rhino relocation center",
+    "class": "warthog",
+    "prob": "0.4996699392795563"
+  },
+  {
+    "lat": 31.57840833333333,
+    "long": -24.97918611111111,
+    "photo_url": "http://farm5.static.flickr.com/4392/36254666774_964feeb23d.jpg",
+    "title": "Rhino relocation center",
+    "class": "worm_fence",
+    "prob": "0.18357166647911072"
+  },
+  {
+    "lat": 31.578397222222232,
+    "long": -24.97915,
+    "photo_url": "http://farm5.static.flickr.com/4395/36254660984_834363fb11.jpg",
+    "title": "Rhino relocation center",
+    "class": "picket_fence",
+    "prob": "0.3251397907733917"
+  },
+  {
+    "lat": 31.592236111111113,
+    "long": -24.99238888888889,
+    "photo_url": "http://farm5.static.flickr.com/4442/36693424450_0c27683eb9.jpg",
+    "title": "Skukuza",
+    "class": "consomme",
+    "prob": "0.6610022783279419"
+  },
+  {
+    "lat": 31.592211111111112,
+    "long": -24.99241111111111,
+    "photo_url": "http://farm5.static.flickr.com/4441/36693423800_6ea990c979.jpg",
+    "title": "Skukuza",
+    "class": "plate",
+    "prob": "0.8334276080131531"
+  },
+  {
+    "lat": 31.59218611111111,
+    "long": -24.99225555555555,
+    "photo_url": "http://farm5.static.flickr.com/4441/36693423170_71507ff47c.jpg",
+    "title": "Skukuza",
+    "class": "restaurant",
+    "prob": "0.9501637816429138"
+  },
+  {
+    "lat": 31.587944444444442,
+    "long": -24.989002777777767,
+    "photo_url": "http://farm5.static.flickr.com/4392/36919461412_848875105c.jpg",
+    "title": "Skukuza, House no. 1",
+    "class": "patio",
+    "prob": "0.3990558981895447"
+  },
+  {
+    "lat": 31.593755555555553,
+    "long": -24.967516666666665,
+    "photo_url": "http://farm5.static.flickr.com/4403/36919459482_455a33d8aa.jpg",
+    "title": "Skukuza",
+    "class": "ox",
+    "prob": "0.4082421064376831"
+  },
+  {
+    "lat": 31.59365833333333,
+    "long": -24.967627777777768,
+    "photo_url": "http://farm5.static.flickr.com/4440/36919458772_41be486a71.jpg",
+    "title": "Skukuza",
+    "class": "thatch",
+    "prob": "0.8557037115097046"
+  },
+  {
+    "lat": 31.593138888888888,
+    "long": -24.967425,
+    "photo_url": "http://farm5.static.flickr.com/4359/36919457302_e73c36423e.jpg",
+    "title": "Skukuza",
+    "class": "greenhouse",
+    "prob": "0.08256025612354279"
+  },
+  {
+    "lat": 31.59314444444445,
+    "long": -24.967497222222214,
+    "photo_url": "http://farm5.static.flickr.com/4356/36919456232_7acd197cd3.jpg",
+    "title": "Skukuza",
+    "class": "chain_saw",
+    "prob": "0.0750165581703186"
+  },
+  {
+    "lat": 31.34212777777777,
+    "long": -24.24961111111111,
+    "photo_url": "http://farm5.static.flickr.com/4369/36275537633_824fa90cd4.jpg",
+    "title": "An African sunset",
+    "class": "rapeseed",
+    "prob": "0.7556966543197632"
+  },
+  {
+    "lat": 31.374030555555557,
+    "long": -24.23074444444445,
+    "photo_url": "http://farm5.static.flickr.com/4349/36900216376_edd188e8c7.jpg",
+    "title": "The buffalos",
+    "class": "water_buffalo",
+    "prob": "0.7525532841682434"
+  },
+  {
+    "lat": 31.388847222222214,
+    "long": -24.183797222222214,
+    "photo_url": "http://farm5.static.flickr.com/4331/36692218340_8473af4c8a.jpg",
+    "title": "That's life!",
+    "class": "plow",
+    "prob": "0.1780015379190445"
+  },
+  {
+    "lat": 31.38883333333333,
+    "long": -24.18328888888889,
+    "photo_url": "http://farm5.static.flickr.com/4402/37088539725_cf21d10f0d.jpg",
+    "title": "The warthoggy family",
+    "class": "warthog",
+    "prob": "0.9758515954017639"
+  },
+  {
+    "lat": 31.311122222222235,
+    "long": -23.717072222222214,
+    "photo_url": "http://farm5.static.flickr.com/4336/36930387731_ceed2e30d6.jpg",
+    "title": "Waterbuck",
+    "class": "impala",
+    "prob": "0.6526222825050354"
+  },
+  {
+    "lat": 31.45328333333333,
+    "long": -24.89553888888889,
+    "photo_url": "http://farm5.static.flickr.com/4351/36864257966_29c9654bc4.jpg",
+    "title": "Flying to Kruger NP",
+    "class": "volcano",
+    "prob": "0.4360933005809784"
+  },
+  {
+    "lat": 31.45328333333333,
+    "long": -24.89553888888889,
+    "photo_url": "http://farm5.static.flickr.com/4437/36864257486_d3f4d527a6.jpg",
+    "title": "Flying to Kruger NP",
+    "class": "valley",
+    "prob": "0.4891434907913208"
+  },
+  {
+    "lat": 31.45328333333333,
+    "long": -24.89553888888889,
+    "photo_url": "http://farm5.static.flickr.com/4391/36244766093_8e6434744a.jpg",
+    "title": "Flying to Kruger NP",
+    "class": "wing",
+    "prob": "0.44603660702705383"
+  },
+  {
+    "lat": 31.45328333333333,
+    "long": -24.89553888888889,
+    "photo_url": "http://farm5.static.flickr.com/4354/36244765173_c7a09b9181.jpg",
+    "title": "Flying to Kruger NP",
+    "class": "valley",
+    "prob": "0.9009440541267395"
+  },
+  {
+    "lat": 31.388930555555554,
+    "long": -24.183269444444445,
+    "photo_url": "http://farm5.static.flickr.com/4362/36879453462_cfa1edf31d.jpg",
+    "title": "I have an itch to scratch",
+    "class": "warthog",
+    "prob": "0.940946102142334"
+  },
+  {
+    "lat": 31.388622222222214,
+    "long": -24.18351388888889,
+    "photo_url": "http://farm5.static.flickr.com/4354/36861681596_2c4a1908ee.jpg",
+    "title": "Vervet monkey",
+    "class": "capuchin",
+    "prob": "0.753364622592926"
+  },
+  {
+    "lat": 31.38892222222222,
+    "long": -24.1835,
+    "photo_url": "http://farm5.static.flickr.com/4346/36879270392_006bd176b1.jpg",
+    "title": "Young kudu",
+    "class": "impala",
+    "prob": "0.3621985912322998"
+  },
+  {
+    "lat": 31.38900833333333,
+    "long": -24.18345,
+    "photo_url": "http://farm5.static.flickr.com/4414/36242191123_e45417ce89.jpg",
+    "title": "Young kudu",
+    "class": "impala",
+    "prob": "0.8670000433921814"
+  },
+  {
+    "lat": 31.389025,
+    "long": -24.183438888888887,
+    "photo_url": "http://farm5.static.flickr.com/4373/36652513280_60694e6810.jpg",
+    "title": "The smiling young kudu",
+    "class": "gazelle",
+    "prob": "0.48600733280181885"
+  },
+  {
+    "lat": 31.26855,
+    "long": -23.71351944444445,
+    "photo_url": "http://farm5.static.flickr.com/4380/36212196654_e9c6e325d0.jpg",
+    "title": "Crested Barbet",
+    "class": "goldfinch",
+    "prob": "0.30440130829811096"
+  },
+  {
+    "lat": 31.340069444444442,
+    "long": -24.227038888888888,
+    "photo_url": "http://farm5.static.flickr.com/4431/36223150883_090765b4a8.jpg",
+    "title": "The end of the banquet",
+    "class": "hyena",
+    "prob": "0.41772666573524475"
+  },
+  {
+    "lat": 31.33858888888889,
+    "long": -24.227411111111113,
+    "photo_url": "http://farm5.static.flickr.com/4437/36842671136_ceddc02f0e.jpg",
+    "title": "Le grand macabre",
+    "class": "hyena",
+    "prob": "0.9665266871452332"
+  },
+  {
+    "lat": 31.264772222222234,
+    "long": -23.71613888888889,
+    "photo_url": "http://farm5.static.flickr.com/4418/36193819104_ea3b1e0c68.jpg",
+    "title": "Brown-headed Parrot",
+    "class": "indigo_bunting",
+    "prob": "0.11372581869363785"
+  },
+  {
+    "lat": 31.338452777777768,
+    "long": -24.227555555555554,
+    "photo_url": "http://farm5.static.flickr.com/4360/36193418704_326baaa068.jpg",
+    "title": "Cabin crew prepare for landing",
+    "class": "coucal",
+    "prob": "0.19010624289512634"
+  },
+  {
+    "lat": 31.33848333333333,
+    "long": -24.22761944444445,
+    "photo_url": "http://farm5.static.flickr.com/4418/36887824681_1209fc7ef4.jpg",
+    "title": "The meal is near",
+    "class": "vulture",
+    "prob": "0.9810834527015686"
+  },
+  {
+    "lat": 31.50666666666667,
+    "long": -24.93305555555556,
+    "photo_url": "http://farm5.static.flickr.com/4345/36875361391_0ea93dd5bb.jpg",
+    "title": "Elephants",
+    "class": "African_elephant",
+    "prob": "0.9745122194290161"
+  },
+  {
+    "lat": 31.333480555555553,
+    "long": -24.22969444444445,
+    "photo_url": "http://farm5.static.flickr.com/4418/37001504275_c912eae7ef.jpg",
+    "title": "The cousins",
+    "class": "lion",
+    "prob": "0.9869045615196228"
+  },
+  {
+    "lat": 31.33348611111111,
+    "long": -24.22855,
+    "photo_url": "http://farm5.static.flickr.com/4384/36813333626_594f68408f.jpg",
+    "title": "Yawn!",
+    "class": "lion",
+    "prob": "0.9807849526405334"
+  },
+  {
+    "lat": 31.333488888888887,
+    "long": -24.22854444444444,
+    "photo_url": "http://farm5.static.flickr.com/4432/36829280472_9a8d87a473.jpg",
+    "title": "His majesty",
+    "class": "lion",
+    "prob": "0.9368907809257507"
+  },
+  {
+    "lat": 31.333502777777767,
+    "long": -24.228613888888887,
+    "photo_url": "http://farm5.static.flickr.com/4392/36191917923_6c29b40eff.jpg",
+    "title": "Sleepy cat",
+    "class": "lion",
+    "prob": "0.6960060596466064"
+  },
+  {
+    "lat": 31.333502777777767,
+    "long": -24.228622222222214,
+    "photo_url": "http://farm5.static.flickr.com/4341/36191892553_a3af487a50.jpg",
+    "title": "The drowsy lion",
+    "class": "lion",
+    "prob": "0.9733113050460815"
+  },
+  {
+    "lat": 31.333430555555548,
+    "long": -24.228622222222214,
+    "photo_url": "http://farm5.static.flickr.com/4429/36191513113_fd7c02a75d.jpg",
+    "title": "Lion",
+    "class": "lion",
+    "prob": "0.948693573474884"
+  },
+  {
+    "lat": 31.3333,
+    "long": -24.22845277777777,
+    "photo_url": "http://farm5.static.flickr.com/4411/36828782862_f55317d3ec.jpg",
+    "title": "Lion",
+    "class": "lion",
+    "prob": "0.9416479468345642"
+  },
+  {
+    "lat": 31.338130555555555,
+    "long": -24.226930555555555,
+    "photo_url": "http://farm5.static.flickr.com/4334/36811518546_e2349d330f.jpg",
+    "title": "The gathering of the hyenas on the carcass",
+    "class": "hyena",
+    "prob": "0.9779074192047119"
+  },
+  {
+    "lat": 31.266627777777767,
+    "long": -23.715491666666665,
+    "photo_url": "http://farm5.static.flickr.com/4425/36188203243_df4fe7ccfe.jpg",
+    "title": "Giant Kingfisher",
+    "class": "jacamar",
+    "prob": "0.24226942658424377"
+  },
+  {
+    "lat": 31.338088888888887,
+    "long": -24.22693888888889,
+    "photo_url": "http://farm5.static.flickr.com/4351/36811450532_e2daa4dc58.jpg",
+    "title": "Hyena in the mirror",
+    "class": "hyena",
+    "prob": "0.9474985599517822"
+  },
+  {
+    "lat": 31.33838333333333,
+    "long": -24.22689444444445,
+    "photo_url": "http://farm5.static.flickr.com/4440/36794842806_7a270c32da.jpg",
+    "title": "The hyena banquet",
+    "class": "hyena",
+    "prob": "0.9665117263793945"
+  },
+  {
+    "lat": 31.33848888888889,
+    "long": -24.226877777777766,
+    "photo_url": "http://farm5.static.flickr.com/4402/36811275932_bb0cb05efa.jpg",
+    "title": "A patient vulture, awaiting its turn on the hyenas banquet",
+    "class": "kite",
+    "prob": "0.2130814790725708"
+  },
+  {
+    "lat": 31.376469444444453,
+    "long": -24.189102777777766,
+    "photo_url": "http://farm5.static.flickr.com/4374/36173250473_cbb25a3640.jpg",
+    "title": "Dawn in the Kruger",
+    "class": "lakeside",
+    "prob": "0.15971341729164124"
+  },
+  {
+    "lat": 31.381852777777766,
+    "long": -24.188177777777767,
+    "photo_url": "http://farm5.static.flickr.com/4421/36840943621_49e98d21f3.jpg",
+    "title": "Leopard in the night, with an antelope stomach",
+    "class": "leopard",
+    "prob": "0.7987550497055054"
+  },
+  {
+    "lat": 31.381580555555555,
+    "long": -24.188052777777767,
+    "photo_url": "http://farm5.static.flickr.com/4413/36145523674_d1baa75107.jpg",
+    "title": "A hyena feeds on the leopard's stolen prey",
+    "class": "hyena",
+    "prob": "0.9449818730354309"
+  },
+  {
+    "lat": 31.381402777777787,
+    "long": -24.188047222222234,
+    "photo_url": "http://farm5.static.flickr.com/4435/36145330024_029e72f331.jpg",
+    "title": "Leopard in the night",
+    "class": "leopard",
+    "prob": "0.41123905777931213"
+  },
+  {
+    "lat": 31.38578333333333,
+    "long": -24.186402777777786,
+    "photo_url": "http://farm5.static.flickr.com/4392/36171780473_b45e37c966.jpg",
+    "title": "Sunset in the Kruger",
+    "class": "rapeseed",
+    "prob": "0.9915163516998291"
+  },
+  {
+    "lat": 31.892194444444453,
+    "long": -25.35957777777778,
+    "photo_url": "http://farm5.static.flickr.com/4395/36141995234_345c6e4318.jpg",
+    "title": "Crocodile Bridge Gate",
+    "class": "street_sign",
+    "prob": "0.42244917154312134"
+  },
+  {
+    "lat": 31.266627777777767,
+    "long": -23.715491666666665,
+    "photo_url": "http://farm5.static.flickr.com/4333/36834534391_6455c8aa16.jpg",
+    "title": "Giant Kingfisher feeding crab",
+    "class": "coucal",
+    "prob": "0.08582394570112228"
+  },
+  {
+    "lat": 31.407277777777768,
+    "long": -24.170972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4383/36577240100_c2272b7872.jpg",
+    "title": "Grey Go-away-bird",
+    "class": "coucal",
+    "prob": "0.2135217785835266"
+  },
+  {
+    "lat": 31.394433333333332,
+    "long": -24.181694444444453,
+    "photo_url": "http://farm5.static.flickr.com/4350/36138496704_cdc14816a1.jpg",
+    "title": "Southern Red-billed Hornbill",
+    "class": "hornbill",
+    "prob": "0.9527426362037659"
+  },
+  {
+    "lat": 31.39336388888889,
+    "long": -24.181597222222226,
+    "photo_url": "http://farm5.static.flickr.com/4341/36785717866_d31fd50320.jpg",
+    "title": "Elephant in Motswari, Kruger",
+    "class": "African_elephant",
+    "prob": "0.49622514843940735"
+  },
+  {
+    "lat": 31.265077777777766,
+    "long": -23.715922222222233,
+    "photo_url": "http://farm5.static.flickr.com/4341/36154174963_abb30efd6b.jpg",
+    "title": "Leopard Tortoise",
+    "class": "box_turtle",
+    "prob": "0.6874383091926575"
+  },
+  {
+    "lat": 31.266297222222214,
+    "long": -23.715591666666665,
+    "photo_url": "http://farm5.static.flickr.com/4392/36546700860_3007ea7b1b.jpg",
+    "title": "Golden-tailed Woodpecker",
+    "class": "agama",
+    "prob": "0.3844468593597412"
+  },
+  {
+    "lat": 31.266280555555557,
+    "long": -23.71556666666667,
+    "photo_url": "http://farm5.static.flickr.com/4420/36086766534_730a3d8f87.jpg",
+    "title": "Kurrichane Thrush",
+    "class": "robin",
+    "prob": "0.8339169025421143"
+  },
+  {
+    "lat": 31.27758055555556,
+    "long": -23.712502777777786,
+    "photo_url": "http://farm5.static.flickr.com/4400/36758130771_692c1923a5.jpg",
+    "title": "European Bee-eater",
+    "class": "bee_eater",
+    "prob": "0.9346544742584229"
+  },
+  {
+    "lat": 31.306338888888888,
+    "long": -23.71400555555556,
+    "photo_url": "http://farm5.static.flickr.com/4403/36089758263_a470f670af.jpg",
+    "title": "Klipspringer",
+    "class": "llama",
+    "prob": "0.20842333137989044"
+  },
+  {
+    "lat": 31.31484444444445,
+    "long": -23.718130555555554,
+    "photo_url": "http://farm5.static.flickr.com/4400/36089738483_53f5ea7688.jpg",
+    "title": "Bateleur (female)",
+    "class": "kite",
+    "prob": "0.7851732969284058"
+  },
+  {
+    "lat": 31.32151111111111,
+    "long": -23.72334444444445,
+    "photo_url": "http://farm5.static.flickr.com/4429/36730078961_78e5a43651.jpg",
+    "title": "Baobab",
+    "class": "impala",
+    "prob": "0.18494533002376556"
+  },
+  {
+    "lat": 31.447805555555554,
+    "long": -23.58452777777777,
+    "photo_url": "http://farm5.static.flickr.com/4387/36473550370_8d11a46592.jpg",
+    "title": "Blacksmith Lapwing (immature)",
+    "class": "bustard",
+    "prob": "0.7045066952705383"
+  },
+  {
+    "lat": 31.39646388888889,
+    "long": -23.521541666666664,
+    "photo_url": "http://farm5.static.flickr.com/4420/36473534170_980d809e92.jpg",
+    "title": "African Paradise Flycatcher (female)",
+    "class": "bulbul",
+    "prob": "0.9033429026603699"
+  },
+  {
+    "lat": 31.39646388888889,
+    "long": -23.521541666666664,
+    "photo_url": "http://farm5.static.flickr.com/4333/36003903413_205ec7e935.jpg",
+    "title": "Chinspot Batis",
+    "class": "coucal",
+    "prob": "0.2271854132413864"
+  },
+  {
+    "lat": 31.394188888888888,
+    "long": -23.51995833333333,
+    "photo_url": "http://farm5.static.flickr.com/4388/35965991644_089e94c9fb.jpg",
+    "title": "Ruff",
+    "class": "red-backed_sandpiper",
+    "prob": "0.3455062508583069"
+  },
+  {
+    "lat": 31.410736111111113,
+    "long": -23.53126666666667,
+    "photo_url": "http://farm5.static.flickr.com/4366/36715222886_272a722609.jpg",
+    "title": "African Jacana",
+    "class": "crane",
+    "prob": "0.39931362867355347"
+  },
+  {
+    "lat": 31.786127777777786,
+    "long": -24.40582222222222,
+    "photo_url": "http://farm5.static.flickr.com/4428/35923829184_5c41792f98.jpg",
+    "title": "Otus senegalensis 2",
+    "class": "great_grey_owl",
+    "prob": "0.9599423408508301"
+  },
+  {
+    "lat": 31.786102777777767,
+    "long": -24.4058,
+    "photo_url": "http://farm5.static.flickr.com/4418/36361718070_8d385e21bb.jpg",
+    "title": "Otus senegalensis 1",
+    "class": "great_grey_owl",
+    "prob": "0.9653167128562927"
+  },
+  {
+    "lat": 31.915944444444442,
+    "long": -25.118322222222233,
+    "photo_url": "http://farm5.static.flickr.com/4335/36361131770_e9199eb158.jpg",
+    "title": "Unidentified bird at Skukuza, Mpumalanga, South Africa",
+    "class": "black_stork",
+    "prob": "0.5239524841308594"
+  },
+  {
+    "lat": 31.915961111111113,
+    "long": -25.118297222222214,
+    "photo_url": "http://farm5.static.flickr.com/4441/36587961632_b6a5a174be.jpg",
+    "title": "Record of Pycnonotus barbatus in Skukuza, Mpumalanga, South Africa",
+    "class": "bulbul",
+    "prob": "0.6900447010993958"
+  },
+  {
+    "lat": 31.835022222222214,
+    "long": -24.722966666666665,
+    "photo_url": "http://farm5.static.flickr.com/4413/36709107426_b757d899d3.jpg",
+    "title": "Unidentified bird in the Kruger National Park",
+    "class": "crane",
+    "prob": "0.14613328874111176"
+  },
+  {
+    "lat": 31.78333611111111,
+    "long": -24.419197222222234,
+    "photo_url": "http://farm5.static.flickr.com/4349/36709106936_d01d8cc3fd.jpg",
+    "title": "Giraffe in the Kruger National Park",
+    "class": "hyena",
+    "prob": "0.20458656549453735"
+  },
+  {
+    "lat": 31.78524722222223,
+    "long": -24.39516111111111,
+    "photo_url": "http://farm5.static.flickr.com/4409/36709102146_44afdc9aa0.jpg",
+    "title": "Giraffe in the Kruger National Park",
+    "class": "cheetah",
+    "prob": "0.24811606109142303"
+  },
+  {
+    "lat": 31.78509166666667,
+    "long": -24.394847222222214,
+    "photo_url": "http://farm5.static.flickr.com/4411/36709099806_d0493cc903.jpg",
+    "title": "Giraffe in the Kruger National Park",
+    "class": "cheetah",
+    "prob": "0.37506571412086487"
+  },
+  {
+    "lat": 31.780222222222214,
+    "long": -24.39305555555556,
+    "photo_url": "http://farm5.static.flickr.com/4425/36709097676_9e4652985e.jpg",
+    "title": "Oriolus brachyrhynchus",
+    "class": "indigo_bunting",
+    "prob": "0.1673392951488495"
+  },
+  {
+    "lat": 31.779330555555553,
+    "long": -24.392741666666666,
+    "photo_url": "http://farm5.static.flickr.com/4360/36616823821_4d2356396f.jpg",
+    "title": "Phacochoerus africanus (Facochero or African Wild Boar) at Satara Rest Camp",
+    "class": "warthog",
+    "prob": "0.9584498405456543"
+  },
+  {
+    "lat": 31.779330555555553,
+    "long": -24.392741666666666,
+    "photo_url": "http://farm5.static.flickr.com/4390/36616822081_d9e6873019.jpg",
+    "title": "Phacochoerus africanus (Facochero or African Wild Boar) at Satara Rest Camp",
+    "class": "warthog",
+    "prob": "0.9732528328895569"
+  },
+  {
+    "lat": 31.77756388888889,
+    "long": -24.39311944444445,
+    "photo_url": "http://farm5.static.flickr.com/4355/36616820261_e60792c1bc.jpg",
+    "title": "Poicephalus cryptoxanthus",
+    "class": "lorikeet",
+    "prob": "0.7219204306602478"
+  },
+  {
+    "lat": 31.783405555555557,
+    "long": -24.393044444444445,
+    "photo_url": "http://farm5.static.flickr.com/4386/36616819291_a06b73c437.jpg",
+    "title": "Equus quagga",
+    "class": "zebra",
+    "prob": "0.947062075138092"
+  },
+  {
+    "lat": 31.783472222222233,
+    "long": -24.393022222222214,
+    "photo_url": "http://farm5.static.flickr.com/4417/36616816301_c48de16d47.jpg",
+    "title": "Unidentified birds in the Kruger National Park",
+    "class": "vulture",
+    "prob": "0.22755585610866547"
+  },
+  {
+    "lat": 31.75580833333333,
+    "long": -24.401555555555554,
+    "photo_url": "http://farm5.static.flickr.com/4441/36616814371_10b488c7f9.jpg",
+    "title": "Aquila rapax in the Kruger National Park",
+    "class": "kite",
+    "prob": "0.5642803311347961"
+  },
+  {
+    "lat": 31.77036111111111,
+    "long": -24.495627777777766,
+    "photo_url": "http://farm5.static.flickr.com/4361/36756052185_fbd5df826a.jpg",
+    "title": "Panthera pardus - Leopard",
+    "class": "leopard",
+    "prob": "0.6969034075737"
+  },
+  {
+    "lat": 31.59203333333333,
+    "long": -24.99560833333333,
+    "photo_url": "http://farm5.static.flickr.com/4427/36755931135_f406e1e6cc.jpg",
+    "title": "Kruger National Park",
+    "class": "sunglass",
+    "prob": "0.49770206212997437"
+  },
+  {
+    "lat": 31.592163888888887,
+    "long": -24.99598888888889,
+    "photo_url": "http://farm5.static.flickr.com/4356/35946833323_320a1ba270.jpg",
+    "title": "African savannah - Savana africana",
+    "class": "rapeseed",
+    "prob": "0.14969027042388916"
+  },
+  {
+    "lat": 31.706297222222233,
+    "long": -24.936680555555554,
+    "photo_url": "http://farm5.static.flickr.com/4341/36586318872_e5b68aa1d5.jpg",
+    "title": "Couple of Panthera pardus (Leopards) in the Kruger National Park  -  Casal de Panthera pardus (Leopardos), no Kruger National Park",
+    "class": "leopard",
+    "prob": "0.8354326486587524"
+  },
+  {
+    "lat": 31.39609444444445,
+    "long": -23.986369444444453,
+    "photo_url": "http://farm5.static.flickr.com/4353/36825212520_8645c80bfb.jpg",
+    "title": "Wie bruikt er nu nog rode navellak?",
+    "class": "oystercatcher",
+    "prob": "0.6408237218856812"
+  },
+  {
+    "lat": 31.39618055555556,
+    "long": -23.986252777777786,
+    "photo_url": "http://farm5.static.flickr.com/4387/37080227301_da801a7e00.jpg",
+    "title": "Want a phant?",
+    "class": "African_elephant",
+    "prob": "0.9027639627456665"
+  },
+  {
+    "lat": 31.39618055555556,
+    "long": -23.986252777777786,
+    "photo_url": "http://farm5.static.flickr.com/4399/37080219311_9f20314e77.jpg",
+    "title": "Nosea",
+    "class": "impala",
+    "prob": "0.7906241416931152"
+  },
+  {
+    "lat": 31.39618055555556,
+    "long": -23.986252777777786,
+    "photo_url": "http://farm5.static.flickr.com/4339/36824992710_ba5897ed8b.jpg",
+    "title": "Als ik die taxi ...",
+    "class": "lakeside",
+    "prob": "0.6191946268081665"
+  },
+  {
+    "lat": 31.380022222222234,
+    "long": -24.19961111111111,
+    "photo_url": "http://farm5.static.flickr.com/4335/36281316624_ed4cb6473d.jpg",
+    "title": "Crocodile backlight",
+    "class": "black_swan",
+    "prob": "0.28787145018577576"
+  },
+  {
+    "lat": 31.367377777777786,
+    "long": -24.238011111111113,
+    "photo_url": "http://farm5.static.flickr.com/4336/36275490703_baae965ef4.jpg",
+    "title": "Buffalo",
+    "class": "water_buffalo",
+    "prob": "0.8032633066177368"
+  },
+  {
+    "lat": 31.36841666666667,
+    "long": -24.23706111111111,
+    "photo_url": "http://farm5.static.flickr.com/4346/37088663875_1f259764e9.jpg",
+    "title": "Buffalo with oxpeckers",
+    "class": "water_buffalo",
+    "prob": "0.9566743969917297"
+  },
+  {
+    "lat": 31.37056388888889,
+    "long": -24.23524722222223,
+    "photo_url": "http://farm5.static.flickr.com/4375/36692278600_f08a578f72.jpg",
+    "title": "Are you staring at me?",
+    "class": "water_buffalo",
+    "prob": "0.9516372084617615"
+  },
+  {
+    "lat": 30.998775,
+    "long": -25.516005555555555,
+    "photo_url": "http://farm5.static.flickr.com/4363/36911075281_c16abc6695.jpg",
+    "title": "Flying to Kruger NP",
+    "class": "wing",
+    "prob": "0.6054826378822327"
+  },
+  {
+    "lat": 31.338569444444442,
+    "long": -24.22735833333333,
+    "photo_url": "http://farm5.static.flickr.com/4376/36842617886_6b5135967b.jpg",
+    "title": "A hyena argument",
+    "class": "hyena",
+    "prob": "0.9027590751647949"
+  },
+  {
+    "lat": 31.33348611111111,
+    "long": -24.228727777777767,
+    "photo_url": "http://farm5.static.flickr.com/4374/37001305145_06b2f4a7e7.jpg",
+    "title": "The cousins",
+    "class": "lion",
+    "prob": "0.9571207165718079"
+  },
+  {
+    "lat": 31.381397222222233,
+    "long": -24.188047222222234,
+    "photo_url": "http://farm5.static.flickr.com/4339/36809441682_fbcc521f15.jpg",
+    "title": "Leopard in the night",
+    "class": "cheetah",
+    "prob": "0.7521690726280212"
+  },
+  {
+    "lat": 31.59350555555556,
+    "long": -24.993327777777786,
+    "photo_url": "http://farm5.static.flickr.com/4423/36756097005_e0938b799c.jpg",
+    "title": "Lybius torquatus - Black-Collared Barbet at Satara Rest Camp",
+    "class": "jacamar",
+    "prob": "0.17210260033607483"
+  },
+  {
+    "lat": 31.91636944444444,
+    "long": -25.118688888888887,
+    "photo_url": "http://farm5.static.flickr.com/4395/36616874571_c715247a99.jpg",
+    "title": "Lower Sabie",
+    "class": "sandbar",
+    "prob": "0.8706963062286377"
+  },
+  {
+    "lat": 31.916411111111113,
+    "long": -25.118688888888887,
+    "photo_url": "http://farm5.static.flickr.com/4422/36359581680_27c4c6a961.jpg",
+    "title": "Lower Sabie",
+    "class": "sandbar",
+    "prob": "0.620678722858429"
+  },
+  {
+    "lat": 31.915747222222233,
+    "long": -25.118211111111112,
+    "photo_url": "http://farm5.static.flickr.com/4427/36359576710_9ff5a78bec.jpg",
+    "title": "Trachyphonus vaillantii - Lower Sabie",
+    "class": "doormat",
+    "prob": "0.10210064053535461"
+  },
+  {
+    "lat": 31.915416666666665,
+    "long": -25.118102777777786,
+    "photo_url": "http://farm5.static.flickr.com/4361/36359574140_c1ce842d88.jpg",
+    "title": "9O7A2845",
+    "class": "bulbul",
+    "prob": "0.27168193459510803"
+  },
+  {
+    "lat": 31.915380555555554,
+    "long": -25.11806944444445,
+    "photo_url": "http://farm5.static.flickr.com/4360/36709142836_8800f28a1f.jpg",
+    "title": "Turdoides jardineii  Zaragateiro-de-jardine  -  Lower Sabie",
+    "class": "vulture",
+    "prob": "0.4636918604373932"
+  },
+  {
+    "lat": 31.91595555555556,
+    "long": -25.11831388888889,
+    "photo_url": "http://farm5.static.flickr.com/4390/36359570120_b113392088.jpg",
+    "title": "Kruger National Park",
+    "class": "tripod",
+    "prob": "0.22173190116882324"
+  },
+  {
+    "lat": 31.91589444444445,
+    "long": -25.118322222222233,
+    "photo_url": "http://farm5.static.flickr.com/4416/36709140236_8e1f29915c.jpg",
+    "title": "Kruger National Park",
+    "class": "sunglass",
+    "prob": "0.6405876874923706"
+  },
+  {
+    "lat": 31.911541666666665,
+    "long": -25.115972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4340/36359565980_90e37516ea.jpg",
+    "title": "Mother raising her cub in a family of Papio anubis (Baboon-Anubis), Kruger National Park - Mãe educando seu filhote numa família  de Papio anubis (babuíno-anúbis), no Kruger National Park",
+    "class": "spider_monkey",
+    "prob": "0.8269975185394287"
+  },
+  {
+    "lat": 31.911541666666665,
+    "long": -25.115972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4423/36616857511_8a53dc16ab.jpg",
+    "title": "Mother raising her cub in a family of Papio anubis (Baboon-Anubis), Kruger National Park - Mãe educando seu filhote numa família  de Papio anubis (babuíno-anúbis), no Kruger National Park",
+    "class": "spider_monkey",
+    "prob": "0.36335352063179016"
+  },
+  {
+    "lat": 31.911541666666665,
+    "long": -25.115972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4414/35921639284_dceb649813.jpg",
+    "title": "Mother raising her cub in a family of Papio anubis (Baboon-Anubis), Kruger National Park - Mãe educando seu filhote numa família  de Papio anubis (babuíno-anúbis), no Kruger National Park",
+    "class": "baboon",
+    "prob": "0.9496241807937622"
+  },
+  {
+    "lat": 31.911541666666665,
+    "long": -25.115972222222233,
+    "photo_url": "http://farm5.static.flickr.com/4379/36359557580_6acbc1406d.jpg",
+    "title": "Mother raising her cub in a family of Papio anubis (Baboon-Anubis), Kruger National Park - Mãe educando seu filhote numa família  de Papio anubis (babuíno-anúbis), no Kruger National Park",
+    "class": "baboon",
+    "prob": "0.8858757019042969"
+  },
+  {
+    "lat": 31.90452222222222,
+    "long": -25.10838055555556,
+    "photo_url": "http://farm5.static.flickr.com/4371/35921635114_ede4df3e8b.jpg",
+    "title": "Syncerus caffer - African buffalo",
+    "class": "water_buffalo",
+    "prob": "0.6725162863731384"
+  },
+  {
+    "lat": 31.802125,
+    "long": -25.054505555555558,
+    "photo_url": "http://farm5.static.flickr.com/4382/36359553640_d2143c9b64.jpg",
+    "title": "hippo",
+    "class": "hippopotamus",
+    "prob": "0.8228283524513245"
+  },
+  {
+    "lat": 31.78250833333333,
+    "long": -25.015825,
+    "photo_url": "http://farm5.static.flickr.com/4335/36359552130_65a8480e4f.jpg",
+    "title": "Giraffe in the Kruger National Park",
+    "class": "gar",
+    "prob": "0.33719179034233093"
+  },
+  {
+    "lat": 31.78248888888889,
+    "long": -25.015816666666666,
+    "photo_url": "http://farm5.static.flickr.com/4419/36616843501_25c8644f19.jpg",
+    "title": "Giraffe in the Kruger National Park",
+    "class": "gazelle",
+    "prob": "0.07836122810840607"
+  },
+  {
+    "lat": 31.592205555555555,
+    "long": -24.99218611111111,
+    "photo_url": "http://farm5.static.flickr.com/4404/35921629454_0ef0274b5a.jpg",
+    "title": "Sunset at Skukuza, Mpumalanga, South Africa - Pôr do Sol no Skukuza, Mpumalanga, South Africa",
+    "class": "lakeside",
+    "prob": "0.5172750353813171"
+  },
+  {
+    "lat": 31.59216111111111,
+    "long": -24.99221666666667,
+    "photo_url": "http://farm5.static.flickr.com/4409/36756075165_b25bfe4526.jpg",
+    "title": "Sunset at Skukuza, Mpumalanga, South Africa - Pôr do Sol no Skukuza, Mpumalanga, South Africa",
+    "class": "spotlight",
+    "prob": "0.579247236251831"
+  },
+  {
+    "lat": 31.59221388888889,
+    "long": -24.99205555555556,
+    "photo_url": "http://farm5.static.flickr.com/4387/35921627624_4776a9df4d.jpg",
+    "title": "Sunset at Skukuza, Mpumalanga, South Africa - Pôr do Sol no Skukuza, Mpumalanga, South Africa",
+    "class": "pier",
+    "prob": "0.24413906037807465"
+  },
+  {
+    "lat": 31.59191944444445,
+    "long": -24.992305555555557,
+    "photo_url": "http://farm5.static.flickr.com/4396/36756072695_23f5e0f7b6.jpg",
+    "title": "View of the moon from the Kruger National Park - Vista da lua do Kruger National Park",
+    "class": "jellyfish",
+    "prob": "0.8943834900856018"
+  },
+  {
+    "lat": 31.606380555555557,
+    "long": -24.99193888888889,
+    "photo_url": "http://farm5.static.flickr.com/4398/36709112496_b2aa7884cf.jpg",
+    "title": "Numida meleagris - Chicken D'Angola in freedom in the Kruger National Park - Numida meleagris - Galinha D'Angola em liberdade no Kruger National Park",
+    "class": "partridge",
+    "prob": "0.3193502128124237"
+  },
+  {
+    "lat": 31.866627777777786,
+    "long": -24.78153055555555,
+    "photo_url": "http://farm5.static.flickr.com/4342/36709110006_8bf0787bef.jpg",
+    "title": "Poicephalus cryptoxanthus",
+    "class": "bee_eater",
+    "prob": "0.25939443707466125"
+  },
+  {
+    "lat": 31.838461111111112,
+    "long": -24.728830555555554,
+    "photo_url": "http://farm5.static.flickr.com/4357/36709109666_9467304004.jpg",
+    "title": "Unidentified antelope species - espécie de antílope não identificada",
+    "class": "impala",
+    "prob": "0.8422546982765198"
+  },
+  {
+    "lat": 31.835036111111112,
+    "long": -24.722925,
+    "photo_url": "http://farm5.static.flickr.com/4397/36709107926_24be3a63c8.jpg",
+    "title": "Unidentified bird in the Kruger National Park",
+    "class": "crane",
+    "prob": "0.9548279047012329"
+  },
+  {
+    "lat": 31.656544444444442,
+    "long": -24.97671111111111,
+    "photo_url": "http://farm5.static.flickr.com/4371/35921346184_e1a8353b0f.jpg",
+    "title": "Aepyceros melampus - Impala",
+    "class": "impala",
+    "prob": "0.9596637487411499"
+  },
+  {
+    "lat": 31.874002777777786,
+    "long": -24.758380555555554,
+    "photo_url": "http://farm5.static.flickr.com/4397/36755759435_5cc4ee9445.jpg",
+    "title": "Aepyceros melampus - Impala",
+    "class": "impala",
+    "prob": "0.809164822101593"
+  },
+  {
+    "lat": 31.91221388888889,
+    "long": -25.11628888888889,
+    "photo_url": "http://farm5.static.flickr.com/4437/35946693503_e2982b1d7c.jpg",
+    "title": "Alcedo atthis",
+    "class": "bee_eater",
+    "prob": "0.7954993844032288"
+  },
+  {
+    "lat": 31.81495277777778,
+    "long": -24.838386111111113,
+    "photo_url": "http://farm5.static.flickr.com/4358/35946693063_e21faf5d5f.jpg",
+    "title": "Buphagus africanus sobre Loxodonta  (Elefante-africano)",
+    "class": "king_penguin",
+    "prob": "0.9469461441040039"
+  },
+  {
+    "lat": 31.78248888888889,
+    "long": -25.015816666666666,
+    "photo_url": "http://farm5.static.flickr.com/4418/35946693163_331e75d34b.jpg",
+    "title": "Buphagus africanus sobre Giraffa camelopardalis",
+    "class": "hartebeest",
+    "prob": "0.48752880096435547"
+  },
+  {
+    "lat": 31.59390833333333,
+    "long": -24.993697222222234,
+    "photo_url": "http://farm5.static.flickr.com/4430/35921337064_f985fbbfca.jpg",
+    "title": "Chlorocebus pygerythrus  -  Macaco vervet",
+    "class": "guenon",
+    "prob": "0.3884696960449219"
+  },
+  {
+    "lat": 31.593955555555553,
+    "long": -24.993725,
+    "photo_url": "http://farm5.static.flickr.com/4345/35921335674_ac035428e1.jpg",
+    "title": "Chlorocebus pygerythrus  -  Macaco vervet",
+    "class": "guenon",
+    "prob": "0.6585578918457031"
+  },
+  {
+    "lat": 31.871697222222235,
+    "long": -24.75570833333333,
+    "photo_url": "http://farm5.static.flickr.com/4432/35921335014_38cafb2c24.jpg",
+    "title": "Connochaetes taurinus  -  Gnu",
+    "class": "hartebeest",
+    "prob": "0.5003237724304199"
+  },
+  {
+    "lat": 31.763847222222214,
+    "long": -24.51456666666667,
+    "photo_url": "http://farm5.static.flickr.com/4442/36616542821_4d3fa5eff0.jpg",
+    "title": "Coracias caudata  -  Rolieiro-de-peito-lilás",
+    "class": "coucal",
+    "prob": "0.48900455236434937"
+  },
+  {
+    "lat": 31.763847222222214,
+    "long": -24.51456666666667,
+    "photo_url": "http://farm5.static.flickr.com/4372/36616542281_c767f0dc07.jpg",
+    "title": "Coracias caudata  -  Rolieiro-de-peito-lilás",
+    "class": "coucal",
+    "prob": "0.6983457207679749"
+  },
+  {
+    "lat": 31.763761111111112,
+    "long": -24.513213888888888,
+    "photo_url": "http://farm5.static.flickr.com/4370/36616542011_910f8a9867.jpg",
+    "title": "Coracias caudata  -  Rolieiro-de-peito-lilás",
+    "class": "bee_eater",
+    "prob": "0.9250682592391968"
+  },
+  {
+    "lat": 31.787588888888887,
+    "long": -24.438363888888887,
+    "photo_url": "http://farm5.static.flickr.com/4428/35921329704_db868a517c.jpg",
+    "title": "Equus quagga",
+    "class": "zebra",
+    "prob": "0.9391826391220093"
+  },
+  {
+    "lat": 31.847161111111113,
+    "long": -25.07378888888889,
+    "photo_url": "http://farm5.static.flickr.com/4395/36616540681_33d913c027.jpg",
+    "title": "Eurocephalus anguitimens",
+    "class": "coucal",
+    "prob": "0.4561450481414795"
+  },
+  {
+    "lat": 31.78333611111111,
+    "long": -24.419197222222234,
+    "photo_url": "http://farm5.static.flickr.com/4381/36755746845_9e25374024.jpg",
+    "title": "Giraffa camelopardalis",
+    "class": "hyena",
+    "prob": "0.39505091309547424"
+  },
+  {
+    "lat": 31.868605555555558,
+    "long": -25.08585833333333,
+    "photo_url": "http://farm5.static.flickr.com/4437/36755745905_bdb20e6505.jpg",
+    "title": "Grey Go-Away bird",
+    "class": "sulphur-crested_cockatoo",
+    "prob": "0.3950403034687042"
+  },
+  {
+    "lat": 31.91638055555556,
+    "long": -25.119005555555557,
+    "photo_url": "http://farm5.static.flickr.com/4342/36755745115_c1b11cbcb8.jpg",
+    "title": "Grey Go-Away bird",
+    "class": "bulbul",
+    "prob": "0.34987542033195496"
+  },
+  {
+    "lat": 31.59383888888889,
+    "long": -24.993713888888887,
+    "photo_url": "http://farm5.static.flickr.com/4359/36755741585_99a9298931.jpg",
+    "title": "Lamprotornis nitens",
+    "class": "magpie",
+    "prob": "0.14322850108146667"
+  },
+  {
+    "lat": 31.91544444444445,
+    "long": -25.11818333333333,
+    "photo_url": "http://farm5.static.flickr.com/4383/35921322054_a2bae5d216.jpg",
+    "title": "Turdoides jardineii  Zaragateiro-de-jardine - Lower Sabie",
+    "class": "coucal",
+    "prob": "0.5336937308311462"
+  },
+  {
+    "lat": 31.915380555555554,
+    "long": -25.11806944444445,
+    "photo_url": "http://farm5.static.flickr.com/4354/36755739915_1e3d545b5a.jpg",
+    "title": "Turdoides jardineii  Zaragateiro-de-jardine 1",
+    "class": "coucal",
+    "prob": "0.42797526717185974"
+  },
+  {
+    "lat": 31.858994444444445,
+    "long": -24.786252777777786,
+    "photo_url": "http://farm5.static.flickr.com/4369/35921320754_403fa0f17c.jpg",
+    "title": "Lamprotornis nitens",
+    "class": "jay",
+    "prob": "0.8651996850967407"
+  },
+  {
+    "lat": 31.59386111111111,
+    "long": -24.993705555555557,
+    "photo_url": "http://farm5.static.flickr.com/4415/36359241640_7918696bba.jpg",
+    "title": "Lamprotornis nitens",
+    "class": "black_grouse",
+    "prob": "0.4076225161552429"
+  },
+  {
+    "lat": 31.91566666666667,
+    "long": -25.119719444444453,
+    "photo_url": "http://farm5.static.flickr.com/4351/36359241270_e23011253f.jpg",
+    "title": "Lamprotornis nitens 9",
+    "class": "European_gallinule",
+    "prob": "0.4225231111049652"
+  },
+  {
+    "lat": 31.916047222222232,
+    "long": -25.11845555555556,
+    "photo_url": "http://farm5.static.flickr.com/4406/36359240350_3fee6373fc.jpg",
+    "title": "Lamprotornis nitens",
+    "class": "indigo_bunting",
+    "prob": "0.6862414479255676"
+  },
+  {
+    "lat": 31.785383333333336,
+    "long": -24.423813888888887,
+    "photo_url": "http://farm5.static.flickr.com/4337/36359237220_51b98560de.jpg",
+    "title": "Loxodonta -  Elefante-africano",
+    "class": "African_elephant",
+    "prob": "0.5278411507606506"
+  },
+  {
+    "lat": 31.785422222222234,
+    "long": -24.42383611111111,
+    "photo_url": "http://farm5.static.flickr.com/4363/35946678953_c81de34095.jpg",
+    "title": "Loxodonta -  Elefante-africano",
+    "class": "tusker",
+    "prob": "0.6433143019676208"
+  },
+  {
+    "lat": 31.78406944444445,
+    "long": -24.420705555555557,
+    "photo_url": "http://farm5.static.flickr.com/4364/35946677673_88f3480333.jpg",
+    "title": "Loxodonta -  Elefante-africano",
+    "class": "tusker",
+    "prob": "0.41232380270957947"
+  },
+  {
+    "lat": 31.78405,
+    "long": -24.420697222222234,
+    "photo_url": "http://farm5.static.flickr.com/4372/36586125302_52cab648c7.jpg",
+    "title": "Loxodonta -  Elefante-africano",
+    "class": "African_elephant",
+    "prob": "0.7542999982833862"
+  },
+  {
+    "lat": 31.784030555555557,
+    "long": -24.420730555555558,
+    "photo_url": "http://farm5.static.flickr.com/4404/36586124172_03361a7709.jpg",
+    "title": "Loxodonta -  Elefante-africano",
+    "class": "African_elephant",
+    "prob": "0.7481268644332886"
+  },
+  {
+    "lat": 31.60614166666667,
+    "long": -24.99189444444445,
+    "photo_url": "http://farm5.static.flickr.com/4342/35946668043_3887320494.jpg",
+    "title": "Numida meleagris - Chicken D'Angola in freedom in the Kruger National Park - Numida meleagris - Galinha D'Angola em liberdade no Kruger National Park",
+    "class": "partridge",
+    "prob": "0.24639011919498444"
+  },
+  {
+    "lat": 31.719947222222213,
+    "long": -24.38863611111111,
+    "photo_url": "http://farm5.static.flickr.com/4389/36616510471_3683825743.jpg",
+    "title": "Panthera leo - Lion - Leão",
+    "class": "lion",
+    "prob": "0.9359932541847229"
+  },
+  {
+    "lat": 31.911575,
+    "long": -25.115947222222232,
+    "photo_url": "http://farm5.static.flickr.com/4404/36755709215_0fefb72aa2.jpg",
+    "title": "Papio anubis  -  babuíno-anúbis",
+    "class": "baboon",
+    "prob": "0.9038473963737488"
+  },
+  {
+    "lat": 31.91158888888889,
+    "long": -25.11594444444445,
+    "photo_url": "http://farm5.static.flickr.com/4336/36755708785_0b49a5c781.jpg",
+    "title": "Papio anubis  -  babuíno-anúbis",
+    "class": "baboon",
+    "prob": "0.8334842324256897"
+  },
+  {
+    "lat": 31.911558333333332,
+    "long": -25.115947222222232,
+    "photo_url": "http://farm5.static.flickr.com/4350/36755708335_a51dac683f.jpg",
+    "title": "Papio anubis  -  babuíno-anúbis",
+    "class": "baboon",
+    "prob": "0.6333670616149902"
+  },
+  {
+    "lat": 31.911558333333332,
+    "long": -25.115947222222232,
+    "photo_url": "http://farm5.static.flickr.com/4407/36616502561_901192c5c6.jpg",
+    "title": "Papio anubis  -  babuíno-anúbis",
+    "class": "baboon",
+    "prob": "0.5748512148857117"
+  },
+  {
+    "lat": 31.779330555555553,
+    "long": -24.392741666666666,
+    "photo_url": "http://farm5.static.flickr.com/4415/36616501291_331d629df9.jpg",
+    "title": "Phacochoerus africanus facocero, facochero ou javali-africano",
+    "class": "warthog",
+    "prob": "0.9557871222496033"
+  },
+  {
+    "lat": 31.58413333333333,
+    "long": -24.402202777777767,
+    "photo_url": "http://farm5.static.flickr.com/4333/36616497191_a0902324e8.jpg",
+    "title": "Syncerus caffer - Syncerus caffer - African buffalo - Búfalo-africano",
+    "class": "water_buffalo",
+    "prob": "0.9458749890327454"
+  },
+  {
+    "lat": 31.632838888888887,
+    "long": -24.98327777777777,
+    "photo_url": "http://farm5.static.flickr.com/4373/36616493471_12a172498a.jpg",
+    "title": "Tockus leucomelas",
+    "class": "hornbill",
+    "prob": "0.9786685109138489"
+  },
+  {
+    "lat": 31.78516666666667,
+    "long": -24.86363055555556,
+    "photo_url": "http://farm5.static.flickr.com/4375/36708728806_71701a60df.jpg",
+    "title": "Tockus leucomelas",
+    "class": "hornbill",
+    "prob": "0.9772526025772095"
+  },
+  {
+    "lat": 31.796772222222234,
+    "long": -25.03298611111111,
+    "photo_url": "http://farm5.static.flickr.com/4409/36616489131_a607ccc364.jpg",
+    "title": "Tragelaphus strepsiceros  -  Greater kudu",
+    "class": "hartebeest",
+    "prob": "0.7284709215164185"
+  },
+  {
+    "lat": 31.912227777777765,
+    "long": -25.116294444444453,
+    "photo_url": "http://farm5.static.flickr.com/4388/36616488291_4e3781351d.jpg",
+    "title": "Vanellus armatus making good neighborhood policy  -  Vanellus armatus fazendo política de boa vizinhança",
+    "class": "gazelle",
+    "prob": "0.3868565559387207"
+  },
+  {
+    "lat": 31.40986944444445,
+    "long": -23.53023888888889,
+    "photo_url": "http://farm5.static.flickr.com/4433/36740082265_2525dbb412.jpg",
+    "title": "Striated Heron",
+    "class": "little_blue_heron",
+    "prob": "0.26267874240875244"
+  },
+  {
+    "lat": 31.819197222222233,
+    "long": -25.06009166666667,
+    "photo_url": "http://farm5.static.flickr.com/4344/36340752850_6971b12772.jpg",
+    "title": "south africa - kruger park",
+    "class": "impala",
+    "prob": "0.2843978703022003"
+  },
+  {
+    "lat": 31.53706111111111,
+    "long": -25.463066666666666,
+    "photo_url": "http://farm5.static.flickr.com/4339/36597435061_2b0ef968d2.jpg",
+    "title": "south africa - kruger park - malelane sunrise",
+    "class": "valley",
+    "prob": "0.34338638186454773"
+  },
+  {
+    "lat": 31.53704166666667,
+    "long": -25.46305277777777,
+    "photo_url": "http://farm5.static.flickr.com/4361/35927079863_398d5e6973.jpg",
+    "title": "south africa - kruger park - malelane sunset",
+    "class": "valley",
+    "prob": "0.821483314037323"
+  },
+  {
+    "lat": 31.625647222222234,
+    "long": -24.967913888888887,
+    "photo_url": "http://farm5.static.flickr.com/4420/36340681930_73e1040843.jpg",
+    "title": "south africa - kruger park",
+    "class": "sandbar",
+    "prob": "0.9489535093307495"
+  },
+  {
+    "lat": 31.779997222222214,
+    "long": -24.393472222222233,
+    "photo_url": "http://farm5.static.flickr.com/4388/36340662090_8785111b45.jpg",
+    "title": "south africa - kruger park - acacia xanthophloea",
+    "class": "park_bench",
+    "prob": "0.1339040845632553"
+  },
+  {
+    "lat": 31.076213888888887,
+    "long": -24.27866944444445,
+    "photo_url": "http://farm5.static.flickr.com/4381/35927043903_bf7cccd057.jpg",
+    "title": "south africa - kruger park",
+    "class": "worm_fence",
+    "prob": "0.5215210318565369"
+  },
+  {
+    "lat": 31.23458888888889,
+    "long": -24.280105555555554,
+    "photo_url": "http://farm5.static.flickr.com/4369/36736688935_650595a177.jpg",
+    "title": "south africa - kruger park - africa on foot",
+    "class": "brass",
+    "prob": "0.23824834823608398"
+  },
+  {
+    "lat": 31.234605555555557,
+    "long": -24.28007222222222,
+    "photo_url": "http://farm5.static.flickr.com/4375/36566012392_005d5946f7.jpg",
+    "title": "south africa - kruger park - africa on foot - sunrise",
+    "class": "yurt",
+    "prob": "0.7675802111625671"
+  },
+  {
+    "lat": 31.208580555555553,
+    "long": -24.280475,
+    "photo_url": "http://farm5.static.flickr.com/4336/35901241904_e6b3e20f7e.jpg",
+    "title": "south africa - kruger park - lion tracks",
+    "class": "water_snake",
+    "prob": "0.20238816738128662"
+  },
+  {
+    "lat": 31.23494722222223,
+    "long": -24.2797,
+    "photo_url": "http://farm5.static.flickr.com/4384/36688928516_82a654a0eb.jpg",
+    "title": "south africa - kruger park - sunset",
+    "class": "rapeseed",
+    "prob": "0.8817481398582458"
+  },
+  {
+    "lat": 31.234669444444453,
+    "long": -24.28007222222222,
+    "photo_url": "http://farm5.static.flickr.com/4408/36596532381_b6355a8a3b.jpg",
+    "title": "south africa - kruger part - africa on foot",
+    "class": "viaduct",
+    "prob": "0.18254417181015015"
+  },
+  {
+    "lat": 31.26446666666667,
+    "long": -24.266775,
+    "photo_url": "http://farm5.static.flickr.com/4333/36688923366_29f84d8a5b.jpg",
+    "title": "south africa - kruger park",
+    "class": "worm_fence",
+    "prob": "0.5064862370491028"
+  },
+  {
+    "lat": 31.235011111111113,
+    "long": -24.27996388888889,
+    "photo_url": "http://farm5.static.flickr.com/4385/35926146543_92fbe366bb.jpg",
+    "title": "south africa - klaserie - africa on foot",
+    "class": "patio",
+    "prob": "0.3722802996635437"
+  },
+  {
+    "lat": 31.19629722222223,
+    "long": -23.866211111111113,
+    "photo_url": "http://farm5.static.flickr.com/4418/36339799170_0384ce3115.jpg",
+    "title": "south africa - kruger park",
+    "class": "lakeside",
+    "prob": "0.2362821102142334"
+  },
+  {
+    "lat": 31.541369444444445,
+    "long": -23.888641666666665,
+    "photo_url": "http://farm5.static.flickr.com/4348/35901119434_102a3620a8.jpg",
+    "title": "south africa - kruger park",
+    "class": "African_elephant",
+    "prob": "0.07829742878675461"
+  },
+  {
+    "lat": 31.268230555555554,
+    "long": -23.919855555555557,
+    "photo_url": "http://farm5.static.flickr.com/4440/35901081944_474d08b9ca.jpg",
+    "title": "south africa - kruger park",
+    "class": "volcano",
+    "prob": "0.4116118848323822"
+  },
+  {
+    "lat": 31.258944444444445,
+    "long": -23.91869444444445,
+    "photo_url": "http://farm5.static.flickr.com/4350/36565810942_9205723eca.jpg",
+    "title": "south africa - kruger park",
+    "class": "volcano",
+    "prob": "0.9303024411201477"
+  },
+  {
+    "lat": 31.424480555555558,
+    "long": -23.53483333333333,
+    "photo_url": "http://farm5.static.flickr.com/4433/36322040810_6ef2db3d54.jpg",
+    "title": "Steenbok",
+    "class": "impala",
+    "prob": "0.4712833762168884"
+  },
+  {
+    "lat": 31.79083333333333,
+    "long": -25.343055555555555,
+    "photo_url": "http://farm5.static.flickr.com/4402/36510432911_4729b8df12.jpg",
+    "title": "20170726_112152",
+    "class": "studio_couch",
+    "prob": "0.500775158405304"
+  },
+  {
+    "lat": 31.839166666666664,
+    "long": -25.340277777777768,
+    "photo_url": "http://farm5.static.flickr.com/4382/35813695044_a37d6fe19f.jpg",
+    "title": "20170725_161456",
+    "class": "cheetah",
+    "prob": "0.4259885847568512"
+  },
+  {
+    "lat": 31.79083333333333,
+    "long": -25.343055555555555,
+    "photo_url": "http://farm5.static.flickr.com/4422/36510432691_b9e20414d1.jpg",
+    "title": "20170727_091856",
+    "class": "zebra",
+    "prob": "0.9240953922271729"
+  },
+  {
+    "lat": 31.745555555555555,
+    "long": -23.97361111111111,
+    "photo_url": "http://farm5.static.flickr.com/4341/35813694214_993f8fefd7.jpg",
+    "title": "20170730_070808",
+    "class": "rifle",
+    "prob": "0.49865150451660156"
+  },
+  {
+    "lat": 31.740277777777766,
+    "long": -24.00583333333333,
+    "photo_url": "http://farm5.static.flickr.com/4391/36510431771_5fbd500d61.jpg",
+    "title": "20170730_100337",
+    "class": "thatch",
+    "prob": "0.7449839115142822"
+  },
+  {
+    "lat": 31.73944444444445,
+    "long": -24.00611111111111,
+    "photo_url": "http://farm5.static.flickr.com/4399/36510431991_0d03c3d9c0.jpg",
+    "title": "20170730_085241",
+    "class": "thatch",
+    "prob": "0.31839439272880554"
+  },
+  {
+    "lat": 31.39995833333333,
+    "long": -23.497855555555557,
+    "photo_url": "http://farm5.static.flickr.com/4375/36453804032_d7df7ef2b0.jpg",
+    "title": "African Bush Elephant",
+    "class": "African_elephant",
+    "prob": "0.650179922580719"
+  },
+  {
+    "lat": 31.345697222222213,
+    "long": -23.479255555555554,
+    "photo_url": "http://farm5.static.flickr.com/4440/36484914501_6f596e7c6b.jpg",
+    "title": "Waterbuck",
+    "class": "impala",
+    "prob": "0.8692601323127747"
+  },
+  {
+    "lat": 31.33923888888889,
+    "long": -23.414727777777767,
+    "photo_url": "http://farm5.static.flickr.com/4379/36576269516_99d6f23cd9.jpg",
+    "title": "Cape Buffalo",
+    "class": "water_buffalo",
+    "prob": "0.7051590085029602"
+  },
+  {
+    "lat": 31.223716666666665,
+    "long": -23.440769444444445,
+    "photo_url": "http://farm5.static.flickr.com/4431/35804441363_0800a765dd.jpg",
+    "title": "Black-bellied Bustard",
+    "class": "vulture",
+    "prob": "0.20609360933303833"
+  },
+  {
+    "lat": 31.486144444444445,
+    "long": -23.532155555555555,
+    "photo_url": "http://farm5.static.flickr.com/4416/36455750971_0a97526b76.jpg",
+    "title": "African Bush Elephant",
+    "class": "tusker",
+    "prob": "0.7997090816497803"
+  },
+  {
+    "lat": 31.487572222222234,
+    "long": -23.53007222222222,
+    "photo_url": "http://farm5.static.flickr.com/4364/36196816950_a8a948e087.jpg",
+    "title": "Cape Buffalo",
+    "class": "water_buffalo",
+    "prob": "0.8991972804069519"
+  },
+  {
+    "lat": 31.219177777777766,
+    "long": -22.42251944444445,
+    "photo_url": "http://farm5.static.flickr.com/4366/36421031112_4c49485ea3.jpg",
+    "title": "Luvuvhu",
+    "class": "worm_fence",
+    "prob": "0.68663489818573"
+  },
+  {
+    "lat": 31.19861944444445,
+    "long": -25.15535555555555,
+    "photo_url": "http://farm5.static.flickr.com/4384/36187102370_c6d9498644.jpg",
+    "title": "Sudáfrica - Parque Nacional de Kruger",
+    "class": "seashore",
+    "prob": "0.4028567969799042"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4434/36146202650_d6aabff800.jpg",
+    "title": "DSCF3967",
+    "class": "sleeping_bag",
+    "prob": "0.07816754281520844"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4428/36542668325_db5d0f2619.jpg",
+    "title": "DSCF3963",
+    "class": "valley",
+    "prob": "0.5281508564949036"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4428/36146199560_1f0460bf7c.jpg",
+    "title": "DSCF3960",
+    "class": "valley",
+    "prob": "0.4268932640552521"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4345/36146197620_cd1609b343.jpg",
+    "title": "DSCF3957",
+    "class": "valley",
+    "prob": "0.762003481388092"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4356/36146195990_383aa10e19.jpg",
+    "title": "DSCF3951",
+    "class": "bustard",
+    "prob": "0.4268232583999634"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4368/36542659695_9e9838e03a.jpg",
+    "title": "DSCF3881",
+    "class": "European_gallinule",
+    "prob": "0.35592904686927795"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4421/35733654213_3c415fca89.jpg",
+    "title": "DSCF3853",
+    "class": "guenon",
+    "prob": "0.5585658550262451"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4379/36542655435_09baa82c8e.jpg",
+    "title": "DSCF3833",
+    "class": "water_buffalo",
+    "prob": "0.5848227739334106"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4413/36542653655_e8225b5064.jpg",
+    "title": "DSCF3828",
+    "class": "African_elephant",
+    "prob": "0.7470118403434753"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4350/36146186810_80758931c1.jpg",
+    "title": "DSCF3827",
+    "class": "African_elephant",
+    "prob": "0.9687314033508301"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4435/36542648375_1ffced7940.jpg",
+    "title": "DSCF3826",
+    "class": "African_elephant",
+    "prob": "0.9771350622177124"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4422/36496242506_910aa5cc51.jpg",
+    "title": "DSCF3819",
+    "class": "African_elephant",
+    "prob": "0.9153255820274353"
+  },
+  {
+    "lat": 31.54478333333333,
+    "long": -24.726027777777766,
+    "photo_url": "http://farm5.static.flickr.com/4350/36146164210_0098dfca95.jpg",
+    "title": "Drinks spot on our drive",
+    "class": "lakeside",
+    "prob": "0.978319525718689"
+  },
+  {
+    "lat": 31.539777777777786,
+    "long": -24.709094444444442,
+    "photo_url": "http://farm5.static.flickr.com/4337/36496217836_b4f6525715.jpg",
+    "title": "We're on a loin drive",
+    "class": "racer",
+    "prob": "0.05819559469819069"
+  },
+  {
+    "lat": 31.57606944444445,
+    "long": -24.73898611111111,
+    "photo_url": "http://farm5.static.flickr.com/4352/36374366932_d9220d7efb.jpg",
+    "title": "Safari Crew | Cheetah Plains",
+    "class": "jean",
+    "prob": "0.18605953454971313"
+  },
+  {
+    "lat": 31.71553888888889,
+    "long": -24.11315833333333,
+    "photo_url": "http://farm5.static.flickr.com/4406/36371708652_ef0ca95c10.jpg",
+    "title": "ZA 2",
+    "class": "dhole",
+    "prob": "0.6808703541755676"
+  },
+  {
+    "lat": 31.79080277777778,
+    "long": -25.343002777777766,
+    "photo_url": "http://farm5.static.flickr.com/4426/36493675526_3f322590b5.jpg",
+    "title": "ZA 2",
+    "class": "park_bench",
+    "prob": "0.9076757431030273"
+  },
+  {
+    "lat": 31.79088611111111,
+    "long": -25.34298333333333,
+    "photo_url": "http://farm5.static.flickr.com/4430/36540022445_c68bf95889.jpg",
+    "title": "ZA 2",
+    "class": "lakeside",
+    "prob": "0.8053262829780579"
+  },
+  {
+    "lat": 31.79083055555556,
+    "long": -25.34298055555556,
+    "photo_url": "http://farm5.static.flickr.com/4402/35705091474_802980e6f4.jpg",
+    "title": "ZA 2",
+    "class": "umbrella",
+    "prob": "0.410604327917099"
+  },
+  {
+    "lat": 31.790825,
+    "long": -25.34299444444445,
+    "photo_url": "http://farm5.static.flickr.com/4361/36492524446_f0d9bb7627.jpg",
+    "title": "ZA 2",
+    "class": "worm_fence",
+    "prob": "0.5079958438873291"
+  },
+  {
+    "lat": 31.79083055555556,
+    "long": -25.34298055555556,
+    "photo_url": "http://farm5.static.flickr.com/4402/36538854015_98c76d36a6.jpg",
+    "title": "ZA 2",
+    "class": "umbrella",
+    "prob": "0.410604327917099"
+  },
+  {
+    "lat": 31.715475,
+    "long": -24.113194444444453,
+    "photo_url": "http://farm5.static.flickr.com/4434/36142291430_34c2432d23.jpg",
+    "title": "ZA 2",
+    "class": "coyote",
+    "prob": "0.18119317293167114"
+  },
+  {
+    "lat": 31.7399,
+    "long": -24.006102777777766,
+    "photo_url": "http://farm5.static.flickr.com/4411/36401261701_e7c549580f.jpg",
+    "title": "ZA 2",
+    "class": "promontory",
+    "prob": "0.18202166259288788"
+  },
+  {
+    "lat": 31.790872222222234,
+    "long": -25.342966666666666,
+    "photo_url": "http://farm5.static.flickr.com/4373/36142290240_81650d3554.jpg",
+    "title": "ZA 2",
+    "class": "water_buffalo",
+    "prob": "0.22470146417617798"
+  },
+  {
+    "lat": 31.790905555555558,
+    "long": -25.34299722222222,
+    "photo_url": "http://farm5.static.flickr.com/4371/36401260431_05519d3966.jpg",
+    "title": "ZA 2",
+    "class": "patio",
+    "prob": "0.19736625254154205"
+  },
+  {
+    "lat": 31.740202777777768,
+    "long": -24.00613611111111,
+    "photo_url": "http://farm5.static.flickr.com/4412/36538852035_054def2a62.jpg",
+    "title": "ZA 2",
+    "class": "sandbar",
+    "prob": "0.18734557926654816"
+  },
+  {
+    "lat": 31.72985277777777,
+    "long": -24.052597222222214,
+    "photo_url": "http://farm5.static.flickr.com/4346/36538849325_6720020317.jpg",
+    "title": "ZA 2",
+    "class": "African_elephant",
+    "prob": "0.47276273369789124"
+  },
+  {
+    "lat": 31.790888888888887,
+    "long": -25.343041666666664,
+    "photo_url": "http://farm5.static.flickr.com/4393/36142286060_9af5fcd858.jpg",
+    "title": "ZA 2",
+    "class": "balance_beam",
+    "prob": "0.22159846127033234"
+  },
+  {
+    "lat": 31.79080277777778,
+    "long": -25.343002777777766,
+    "photo_url": "http://farm5.static.flickr.com/4404/36142284370_13c6a61d42.jpg",
+    "title": "ZA 2",
+    "class": "park_bench",
+    "prob": "0.7635849118232727"
+  },
+  {
+    "lat": 31.39661666666667,
+    "long": -23.52176111111111,
+    "photo_url": "http://farm5.static.flickr.com/4376/36536144635_12fde32a41.jpg",
+    "title": "Southern Masked Weaver",
+    "class": "brambling",
+    "prob": "0.15988284349441528"
+  },
+  {
+    "lat": 31.395825,
+    "long": -23.521611111111113,
+    "photo_url": "http://farm5.static.flickr.com/4334/36480837886_c57d55123b.jpg",
+    "title": "Arrow-marked Babbler",
+    "class": "coucal",
+    "prob": "0.7929328680038452"
+  },
+  {
+    "lat": 31.78516666666667,
+    "long": -24.86363055555556,
+    "photo_url": "http://farm5.static.flickr.com/4333/36616492591_b7f72d55a4.jpg",
+    "title": "Tockus rufirostris",
+    "class": "hornbill",
+    "prob": "0.9854874610900879"
+  },
+  {
+    "lat": 31.38006944444445,
+    "long": -25.141444444444453,
+    "photo_url": "http://farm5.static.flickr.com/4383/36542643875_dcf71d3a4e.jpg",
+    "title": "DSCF3731",
+    "class": "bald_eagle",
+    "prob": "0.43990060687065125"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4344/36146181650_3747d29c66.jpg",
+    "title": "DSCF3679",
+    "class": "hartebeest",
+    "prob": "0.34342750906944275"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4372/35707862534_e96b9b9b2c.jpg",
+    "title": "DSCF3676",
+    "class": "radio_telescope",
+    "prob": "0.21635125577449799"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4399/35707861384_af010e31c1.jpg",
+    "title": "DSCF3670",
+    "class": "marmot",
+    "prob": "0.5668714642524719"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4378/35707860384_90aeca8256.jpg",
+    "title": "DSCF3663",
+    "class": "impala",
+    "prob": "0.9440737366676331"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4441/35733642283_6699996e61.jpg",
+    "title": "DSCF3658",
+    "class": "gazelle",
+    "prob": "0.4577310383319855"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4377/36405034001_eaba7ceed9.jpg",
+    "title": "DSCF3654",
+    "class": "hartebeest",
+    "prob": "0.439947247505188"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4434/36374384492_ba1dd2da66.jpg",
+    "title": "DSCF3652",
+    "class": "baboon",
+    "prob": "0.44514933228492737"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4442/36374383112_be161abcbe.jpg",
+    "title": "DSCF3641",
+    "class": "cheetah",
+    "prob": "0.546904444694519"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4432/36374381752_6b6c22db50.jpg",
+    "title": "DSCF3637",
+    "class": "ostrich",
+    "prob": "0.23454758524894714"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4397/36374380222_db83775233.jpg",
+    "title": "DSCF3614",
+    "class": "African_crocodile",
+    "prob": "0.8832491040229797"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4440/36374378632_d67f08226a.jpg",
+    "title": "DSCF3609",
+    "class": "ostrich",
+    "prob": "0.21268273890018463"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4340/36374377132_0df34cddd3.jpg",
+    "title": "DSCF3608",
+    "class": "impala",
+    "prob": "0.20944471657276154"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4371/36374375432_2f2e641c05.jpg",
+    "title": "DSCF3584",
+    "class": "bee_eater",
+    "prob": "0.6390743851661682"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4442/36374374162_487453af20.jpg",
+    "title": "DSCF3581",
+    "class": "African_elephant",
+    "prob": "0.5380347967147827"
+  },
+  {
+    "lat": 31.41146388888889,
+    "long": -25.11176944444445,
+    "photo_url": "http://farm5.static.flickr.com/4387/36374369372_830b1cdac5.jpg",
+    "title": "DSCF3579",
+    "class": "African_elephant",
+    "prob": "0.5801064372062683"
+  }
+]

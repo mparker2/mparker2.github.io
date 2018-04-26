@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <option name="deprecationWarnings" value="true" />
+    <option name="uncheckedWarnings" value="true" />
+    <option name="featureWarnings" value="true" />
+    <option name="explainTypeErrors" value="true" />
+    <option name="continuations" value="true" />
+    <parameters>
+      <parameter value="-Ywarn-dead-code" />
+      <parameter value="-Ywarn-numeric-widen" />
+      <parameter value="-Ywarn-value-discard" />
+      <parameter value="-Ywarn-unused" />
+    </parameters>
+  </component>
+</project>

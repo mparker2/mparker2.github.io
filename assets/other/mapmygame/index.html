@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>CONNORL_NO_TOUCH = true;</script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+          integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+            integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+            crossorigin=""></script>
+    <script src="papaparse.min.js"></script>
+    <link rel="stylesheet" href="main.css" />
+</head>
+<body>
+<header><h1>Animals in <i>Kruger National Park</i></h1></header>
+<div id="mapid"></div>
+<button id="hideall">Show all</button>
+<div class="loading" style="display:none" id="overlay"><img src="spinner.gif"/></div>
+</body>
+<script src="main.js"></script>
+</html>
