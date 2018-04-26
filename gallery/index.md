@@ -34,8 +34,12 @@ gallery:
     title: "[Veg Seasonality Chart](https://github.com/mparker2/veg_seasonality/blob/master/seasonality.ipynb)"
   - url: /assets/other/mapmygame/index.html
     image_path: https://pbs.twimg.com/media/DMKr8LaXkAAAUGX.jpg:large
-    alt: Arabian Camels in the Kruger National Park?!
-    title: Arabian Camels in the Kruger National Park?!
+    alt: "Arabian Camels in the Kruger National Park?!"
+    title: "Arabian Camels in the Kruger National Park?!"
+  - url: /assets/images/pyclub.png
+    image_path: /assets/images/pyclub.png
+    alt: "Python Club Logo"
+    title: "Python Club Logo"
     
     
 ---
