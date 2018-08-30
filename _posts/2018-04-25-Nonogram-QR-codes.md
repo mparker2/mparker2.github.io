@@ -2,8 +2,8 @@
 title: "Nonogram QR Codes"
 layout: single
 header:
-  image: /assets/images/nonogram/nonogram_hello_world.png
-  teaser: /assets/images/nonogram/nonogram_hello_world.png
+  image: /assets/images/nonogram.png
+  teaser: /assets/images/nonogram.png
 read_time: false
 comments: true
 share: true

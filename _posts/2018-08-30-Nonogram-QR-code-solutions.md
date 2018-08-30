@@ -2,8 +2,8 @@
 title: "Solving Nonogram QR Codes"
 layout: single
 header:
-  image: /assets/images/nonogram/hello_world_solution_unambig.gif
-  teaser: /assets/images/nonogram/hello_world_solution_unambig.gif
+  image: /assets/images/hello_world_solution_ambig.png
+  teaser: /assets/images/hello_world_solution_ambig.png
 read_time: false
 comments: true
 share: true
