@@ -94,7 +94,7 @@ draw_nonogram_2(shape, row_rle, col_rle, start_matrix)
 plt.show()
 ```
 
-![Hello World Nonogram]({{ site.url }}{{ site.baseurl }}/assets/images/nonogram/hello_world_unambig.png)
+![Hello World Nonogram]({{ site.url }}{{ site.baseurl }}/assets/images/nonogram/nonogram_hello_world_unambig.png)
 
 And they only result in a single solution:
 
