@@ -4,7 +4,6 @@ author_profile: true
 title: Matthew Parker
 ---
 
-|                             |                                                                  |
 |-----------------------------|-----------------------------------------------------------------:|
 | The University of Sheffield |  **Email:** [mparker2@sheffield.ac.uk](mailto:mparker2@sheffield.ac.uk) |
 | Firth Court                 |                                        **Mobile:** 07423 850 680 |
@@ -12,7 +11,6 @@ title: Matthew Parker
 | Sheffield                   | **LinkedIn:** [mparker02](https://www.linkedin.com/in/mparker02) |
 | S10 2TN                     |               **Twitter:** [@1m1a2t](https://twitter.com/1m1a2t) |
 |                             |              **Github:** [mparker2](https://github.com/mparker2) |
-|                             |                                                                  |
 
 The University of Sheffield  
 Firth Court  
