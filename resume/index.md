@@ -4,8 +4,8 @@ author_profile: true
 title: Matthew Parker
 ---
 
-[Download PDF]({{ site.url }}{{ site.baseurl }}/assets/other/mparker_cv.pdf){: .btn .btn--primary .btn--small}
-[Download Docx]({{ site.url }}{{ site.baseurl }}/assets/other/mparker_cv.docx){: .btn .btn--primary .btn--small}
+[Download PDF]({{ site.url }}{{ site.baseurl }}/assets/other/mparker_cv.pdf){: .btn .btn--success .btn--small}
+[Download Docx]({{ site.url }}{{ site.baseurl }}/assets/other/mparker_cv.docx){: .btn .btn--success .btn--small}
 
 The University of Sheffield  
 Firth Court  
