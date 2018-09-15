@@ -3,7 +3,17 @@ layout: single
 author_profile: true
 title: Matthew Parker
 ---
- 
+
+|                             |                                                                  |
+|-----------------------------|-----------------------------------------------------------------:|
+| The University of Sheffield |  **Email:** [mparker2@sheffield.ac.uk](mailto:mparker2@sheffield.ac.uk) |
+| Firth Court                 |                                        **Mobile:** 07423 850 680 |
+| Western Bank                |            **Website:** [mparkerbio.com](http://mparkerbio.com/) |
+| Sheffield                   | **LinkedIn:** [mparker02](https://www.linkedin.com/in/mparker02) |
+| S10 2TN                     |               **Twitter:** [@1m1a2t](https://twitter.com/1m1a2t) |
+|                             |              **Github:** [mparker2](https://github.com/mparker2) |
+|                             |                                                                  |
+
 The University of Sheffield  
 Firth Court  
 Western Bank  
@@ -14,7 +24,7 @@ S10 2TN
 
 **PhD Bioinformatics and Molecular Biology**; October 2014 - 2018 (expected)  
 Department of Molecular Biology, The University of Sheffield  
-Analysis of high throughput sequencing datasets to characterise the biological significance of unusual DNA structures called G Quadruplexes. Gained a broad range of skills including experience of both wet lab biology and bioinformatics.
+Analysis of high throughput sequencing datasets to characterise the biological significance of unusual DNA structures called G Quadruplexes. Gained a broad range of skills including experience of both bioinformatics and wet lab biology.  
 
 **BSci (Hons) 1st, Biochemistry**; September 2011 - June 2014  
 Department of Molecular Biology, The University of Sheffield.  
@@ -42,8 +52,7 @@ The King’s School, Grantham
 Took part in 5 week intensive re-training programme for PhD students interested in entering the field of Data Science. As part of the course, worked with a London start-up company using their data to predict customer behaviour. Course Fees were funded by the Sheffield University Postgraduate Researcher Experience Programme.
 
 **Internship at Natural England**; January - April 2017  
-As part of the Earth Observation team, helped build a model to predict land
-cover and habitat classification from ESA Satellite Data. This involved preprocessing and unsupervised segmentation of satellite imagery using scikit-image, followed by segment class prediction using scikit-learn and R package randomForest.  
+As part of the Earth Observation team, helped build a model to predict land cover and habitat classification from ESA Satellite Data. This involved preprocessing and unsupervised segmentation of satellite imagery using scikit-image, followed by segment class prediction using scikit-learn and R package randomForest. Software developed during the project is to be used by environmental agencies in various countries and British territories.  
 Some articles explaining the purpose of the "Living Maps" project:
 * [Living Maps for Biodiversity and Natural Capital](http://www.spaceforsmartergovernment.uk/case-study/eo-dip-living-maps-for-biodiversity-and-natural-capital/)
 * [Satellite data transforms Environmental Protection](https://www.gov.uk/government/news/green-space-satellite-data-transforms-environmental-protection)
@@ -55,26 +64,28 @@ Part of a team placing first at medical themed Hackathon. Built a pipeline to id
 
 **Summer Placement at Sheffield Institute of Translational Neuroscience**;
 June - July 2013  
-Short project to characterise a gene causing neurodevelopmental defects related
-to schizophrenia in Zebrafish.
-Successfully applied for funding from the Wellcome Trust Biomedical Vacation
-Scholarship Scheme and University of Sheffield SURE scheme.
+Short project to characterise the development of neuronal precursor cells (using *in situ* hybridisation, immunostaining) in a mutant with  neurodevelopmental defects related to schizophrenia. 
+Funding provided by the Wellcome Trust Biomedical Vacation Scholarship scheme. 
 
-**Example Projects**;  
+### Example Projects;  
 
 * Contributed to an [open source package](https://github.com/CGATOxford/UMI-tools) for de-duplicating Unique Molecular Identifiers commonly used in single cell sequencing experiments. These contributions introduced indexing methods which reduce the number of pairwise calculations between sequences required, thereby resulting in a significant increase in speed and memory performance. 
 * Built a convolutional neural network for the automation of Stomatal Index counting from light microscopy images. This is a common and labour intensive task for scientists in the field of plant leaf development. Code is available on [GitHub](https://github.com/mparker2/wotstomata).
-* Conducted the bioinformatic analysis for a study on the global effect of RNA methylation on nuclear export. Paper currently in review.
 * Used the Hungarian Algorithm to help University teaching staff optimally assign undergraduate students to preferred third year research projects.
+
+### Papers;
+
+Simon Lesbirel, Nicolas Viphakone, **Matthew Parker**, ... & Stuart A. Wilson (2018). The m6A-methylase complex recruits TREX and regulates mRNA export. *Scientific Reports*, 8(1): 13827
+
+### Conference Posters;
+
+**Matthew Parker**, Colette Baxter, Manoj Valluru, Karim Sorefan (2017). Two tetrad G Quadruplexes modulate expression and splicing of EXTENSIN genes in Arabidopsis thaliana. *G4thering Prague*
 
 ### References
 
-Dr Karim Sorefan                    
-Department of Molecular Biology  
-The University of Sheffield  
-k.sorefan@sheffield.ac.uk  
-
-Dr Marta Milo  
-Department of Biomedical Science  
-The University of Sheffield  
-m.milo@sheffield.ac.uk  
+| Dr Karim Sorefan           | Dr Ian Sudbery             | Richard Alexander     |
+|----------------------------|----------------------------|-----------------------|
+| Lecturer                   | Lecturer                   | Lead Data Scientist   |
+| Dept. of Molecular Biology | Dept. of Molecular Biology | Natural England       |
+| University of Sheffield    | University of Sheffield    | [richard.alexander@](mailto:richard.alexander@naturalengland.org.uk)    |
+| [k.sorefan@sheffield.ac.uk](mailto:k.sorefan@sheffield.ac.uk)  | [i.sudbery@sheffield.ac.uk](mailto:i.sudbery@sheffield.ac.uk)  | [naturalengland.org.uk](mailto:richard.alexander@naturalengland.org.uk) |
